@@ -1,0 +1,11 @@
+name: RSA Again until Become Associate in Big 4
+author: LS
+
+description: |-
+   Maybe you should solving this kind of cryptosystem problem before joining big 4 company
+
+flag: PETIR{if_you_understand_this_kind_of_inverse_and_cryptosystem_then_you_can_be_an_associate_:v}
+
+provide: 
+    - big-4.py
+    - output.txt

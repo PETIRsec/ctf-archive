@@ -1,0 +1,10 @@
+name: GNN v1  (Gengi Neural Network) 
+author: gengi
+
+description: |-
+   I love COMP6065001 - Artificial Intelligence course and I decided to make a simple neural network called "Gengi Neural Network". I dare you to "crack" this network :smiling_imp:
+
+flag: PETIR{m0del_inversing?_nah_m0del_pwn3r!}
+
+provide: 
+    - chall.py

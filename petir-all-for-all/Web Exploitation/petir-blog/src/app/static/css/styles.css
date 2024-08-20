@@ -1,0 +1,98 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--pico-background-color);
+}
+
+article {
+  width: fit-content;
+}
+
+main > section {
+  margin-bottom: 4rem;
+}
+
+a[role="button"] {
+  border: none;
+  font-weight: 600;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.intro {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.intro-title {
+  font-size: 6rem;
+  margin-inline: auto;
+}
+
+.inline-logo {
+  width: 20rem;
+}
+
+.flex {
+  display: flex;
+  gap: 1rem;
+}
+
+.grid-wrapper {
+  display: grid;
+  gap: 1rem;
+}
+
+.stream-img {
+  width: 10rem;
+  aspect-ratio: 1;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.inner-section {
+  margin-top: 3rem;
+}
+
+.grid img {
+  width: 100%;
+  object-fit: cover;
+  max-height: 30rem;
+}
+
+.xtra-mb {
+  margin-bottom: 3rem;
+}
+
+footer ul {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+
+footer ul li {
+  list-style: none;
+}
+
+footer a {
+  color: var(--pico-color-slate-400);
+  transition: all .3s;
+}
+
+footer a:hover {
+  color: var(--pico-color-pumpkin-300);
+}

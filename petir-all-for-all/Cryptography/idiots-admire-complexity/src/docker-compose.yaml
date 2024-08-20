@@ -1,0 +1,10 @@
+version: '3'
+services:
+  idiots-admire-complexity:
+    image: idiots
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "35314:35314"

@@ -1,0 +1,12 @@
+name: Genius Admire Simplicity
+author: Wrth
+
+description: |-
+   The wise simplifies the complex.
+
+flag: PETIR{b75b981f0a5c0a18}
+
+provide: 
+    - chall.py
+    - output.txt
+    - output2.txt

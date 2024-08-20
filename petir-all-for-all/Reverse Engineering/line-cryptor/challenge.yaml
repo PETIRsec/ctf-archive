@@ -1,0 +1,11 @@
+name: LineCryptor
+author: ptr
+
+description: |-
+  My friend said he just got ransomware, he had some important files but they were all lost because of this malware, as a cyber security student can you help him to recover his files?<br><br>
+  <b>**Remember to handle malware properly, do not run files in non-isolated space**</b>
+
+flag: PETIR{H0W_c4n_Y0u_D3cRyPt_Th1S_C0De_Th4T_JuSt_4_L1N3!!!}
+
+provide:
+  - Evidence.zip

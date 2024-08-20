@@ -1,0 +1,10 @@
+name: Perfect Network Graphics
+author: cipichop
+
+description: |-
+   This blind Pithecanthropus just came out from the cave and started seeing thing! What did they see?
+
+flag: PETIR{y4y_an4lyz!ng_t1m3_b4s3d_SQL_1nject!0n}
+
+provide: 
+    - log.txt

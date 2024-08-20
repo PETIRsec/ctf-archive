@@ -1,0 +1,11 @@
+name: GaemShark!
+author: BlackBear
+
+description: |-
+  Rob wants to install some cheats on his phone and he got an APK from a chat messenger. Suddenly all of his important files and chat backup are encrypted. Please help Rob to recover his file!
+  nc 188.166.249.196 4437
+
+flag: PETIR{n3v3r_trust_m4l1c10u5_4pk}
+
+provide:
+  - chall.zip

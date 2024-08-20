@@ -1,0 +1,11 @@
+name: Idiots Admire Complexity
+author: Wrth
+
+description: |-
+   The fool complicates the obvious.<br>
+   nc 188.166.249.196 35314
+
+flag: PETIR{aac1d23b089ae658ca0b7a721adff631f5b639b284856ca4}
+
+provide: 
+    - server.py

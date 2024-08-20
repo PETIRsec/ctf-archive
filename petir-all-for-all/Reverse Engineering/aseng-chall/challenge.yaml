@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: I agree with Wrth's challenge title. And yes I made this chall again at midnight, so sad.
+author: aseng
+
+description: |-
+  Follow the lead where you don't stuck on a bunch of fakes & immitation, but choose wisely since I don't want you to depend on what you have right now.<br>
+  nc 188.166.249.196 14821
+
+flag: PETIR{now_that_you_have_overcome_my_flower_instructions_with_backtracking!!}
+
+provide:
+  - chall

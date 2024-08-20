@@ -1,0 +1,11 @@
+# docker-compose.yml
+version: '3' 
+services:
+  python-server:
+    build: .  
+    ports:
+      - "4437:4437"  
+    container_name: petir-verif-gaemshark
+    restart: always
+    environment:
+      - TERM=xterm

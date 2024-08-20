@@ -1,0 +1,11 @@
+name: Pithecanthropus
+author: cipichop
+
+description: |-
+   Got a PNG enhancer tool from internet, but it seems like it's not working properly. Help me retrieve my kanade picture pweasee...
+
+flag: PETIR{hihi_my_fave_UwU}
+
+provide: 
+    - PerfectNG.py
+    - kanade.png
