@@ -1,0 +1,33 @@
+# Required sections
+name: "Aeshowspeed"
+category: Cryptography
+description: |-
+  Kemarin kalo gasalah Aeshowspeed dateng ke Indonesia yak
+  
+  Author: LS
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+flags:
+    # A static case sensitive flag
+    - IFEST{Kelarinnya_Sangat_Speed_Sekali_Eh_Cepat_Maksudnya}
+
+tags:
+    - baby
+
+files:
+    - aeshowspeed.py
+    - flag.png.enc
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

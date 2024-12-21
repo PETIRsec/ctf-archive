@@ -1,0 +1,2754 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "%"
+msgstr "%"
+
+msgid "%s"
+msgstr "Zzz"
+
+msgid "(Statistic collected from: %s %d)"
+msgstr "(Statistik indsamlet fra: %s %d)"
+
+msgid "+SKU"
+msgstr "+SKU"
+
+msgid "+Taxonomies"
+msgstr "+Taxonomier"
+
+msgid "12 hours recommended"
+msgstr "12 timer anbefales"
+
+msgid "2 (recomended)"
+msgstr "2 (anbefalet)"
+
+msgid "[is system]"
+msgstr "[er system]"
+
+msgid "ACF fields"
+msgstr "ACF felter"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Handlingen mislykkedes. Opdater venligst siden og prøv igen."
+
+msgid "Actions"
+msgstr "handlinger"
+
+msgid "Activates the ability to search by SKU from the same text-input"
+msgstr "Aktiverer muligheden for at søge efter SKU fra samme tekstinput"
+
+msgid "Activates the ability to search by SKU in the same text-input"
+msgstr "Aktiverer muligheden for at søge efter SKU i samme tekstinput"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Aktualiseret til WooCommerce v.%s.x"
+
+msgid "Add"
+msgstr "Tilføj"
+
+msgid "Add Custom key by hands"
+msgstr "Tilføj brugerdefineret nøgle med hænderne"
+
+msgid "Add filter section"
+msgstr "Tilføj filtersektion"
+
+msgid "Add SEO rule"
+msgstr "Tilføj SEO-regel"
+
+msgid "Add this query"
+msgstr "Tilføj denne forespørgsel"
+
+msgid "additional options"
+msgstr "yderligere muligheder"
+
+msgid "Additional search data for text search"
+msgstr "Yderligere søgedata til tekstsøgning"
+
+msgid "Additional text before"
+msgstr "Yderligere tekst før"
+
+msgid "Advanced"
+msgstr "Avanceret"
+
+msgid "Advanced info is here"
+msgstr "Avanceret info er her"
+
+msgid "Advanced types"
+msgstr "Avancerede typer"
+
+msgid "AJAX redraw"
+msgstr "AJAX gentegne"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "all"
+msgstr "alle"
+
+msgid "allows to show results on any another page of the site"
+msgstr ""
+"giver mulighed for at vise resultater på enhver anden side på webstedet"
+
+msgid "AND"
+msgstr "AND"
+
+msgid "Any"
+msgstr "Enhver"
+
+msgid "Any image for closed html-items block 20x20"
+msgstr "Ethvert billede for lukkede html-elementer blok 20x20"
+
+msgid "Any image for opened html-items block 20x20"
+msgstr "Ethvert billede for åbnede html-elementer blok 20x20"
+
+msgid "Any notes for customer."
+msgstr "Eventuelle noter til kunde."
+
+msgid "Any text notes for customer under subscription form."
+msgstr "Eventuelle tekstnoter til kunde under tilmeldingsformular."
+
+msgid "Are you sure you want to apply selected preset?"
+msgstr "Er du sikker på, at du vil anvende den valgte forudindstilling?"
+
+msgid "Are you sure you want to delete selected preset?"
+msgstr "Er du sikker på, at du vil slette den valgte forudindstilling?"
+
+msgid "Are you sure you want to delete this filter-section?"
+msgstr "Er du sikker på, at du vil slette denne filtersektion?"
+
+msgid "Are you sure?"
+msgstr "Er du sikker?"
+
+msgid "Are you sure? Settings will be overwritten!"
+msgstr "Er du sikker? Indstillinger vil blive overskrevet!"
+
+msgid "As button"
+msgstr "Som knap"
+
+msgid "As checkbox"
+msgstr "Som afkrydsningsfelt"
+
+msgid "As drop-down"
+msgstr "Som rullemenu"
+
+msgid "as Image"
+msgstr "som billede"
+
+msgid "As ion range-slider"
+msgstr "Som ionområde-skyder"
+
+msgid "As radio"
+msgstr "Som radio"
+
+msgid "As radio button"
+msgstr "Som alternativknap"
+
+msgid "as Text"
+msgstr "som tekst"
+
+msgid "As textinputs"
+msgstr "Som tekstinput"
+
+msgid "ASC"
+msgstr "ASC"
+
+msgid "Author"
+msgstr "Forfatter"
+
+msgid "Author:"
+msgstr "Forfatter:"
+
+msgid "Auto filter close/open image"
+msgstr "Automatisk filter luk/åbn billede"
+
+msgid "Auto filter close/open text"
+msgstr "Automatisk filtrering af luk/åbn tekst"
+
+msgid "Autocomplete"
+msgstr "autofuldførelse"
+
+msgid "Autocomplete products count"
+msgstr "Autofuldførelsesprodukter tæller"
+
+msgid "Autocomplete relevant variants in by_text textinput"
+msgstr "Autofuldfør relevante varianter i by_text-tekstinput"
+
+msgid "Autocomplete relevant variants in SKU textinput"
+msgstr "Autofuldfør relevante varianter i SKU-tekstinput"
+
+msgid "Autohide"
+msgstr "Skjul automatisk"
+
+msgid "Autosubmit"
+msgstr "Send automatisk"
+
+msgid "average rating between 1 to 2-"
+msgstr "gennemsnitlig vurdering mellem 1 og 2"
+
+msgid "average rating between 2 to 3-"
+msgstr "gennemsnitlig vurdering mellem 2 og 3"
+
+msgid "average rating between 3 to 4-"
+msgstr "gennemsnitlig vurdering mellem 3 og 4"
+
+msgid "average rating between 4 to 5"
+msgstr "gennemsnitlig vurdering mellem 4 og 5"
+
+msgid "Back"
+msgstr "Tilbage"
+
+msgid "Background color"
+msgstr "Baggrundsfarve"
+
+msgid "Background image"
+msgstr "Baggrundsbillede"
+
+msgid "Behavior"
+msgstr "Adfærd"
+
+msgid "Behavior of how the filter sections will open."
+msgstr "Opførsel af, hvordan filtersektionerne åbnes."
+
+msgid "Behavior of reset button"
+msgstr "Opførsel af nulstillingsknap"
+
+msgid "Behavior of the text searching"
+msgstr "Tekstsøgningens adfærd"
+
+msgid "behavior of the text searching"
+msgstr "opførsel af tekstsøgning"
+
+msgid "Border color"
+msgstr "Kantfarve"
+
+msgid "Border radius"
+msgstr "Grænseradius"
+
+msgid "Border width"
+msgstr "Kantbredde"
+
+msgid "Both"
+msgstr "Både"
+
+msgid "Bottom"
+msgstr "Bund"
+
+msgid "Button as"
+msgstr "Knap som"
+
+msgid "Button image size"
+msgstr "Knap billedstørrelse"
+
+msgid "Button label"
+msgstr "Knapmærke"
+
+msgid "Button offset (px) from top or left from the window edge"
+msgstr "Knapforskydning (px) fra toppen eller venstre fra vindueskanten"
+
+msgid "Buttons position"
+msgstr "Knappernes position"
+
+msgid "By author"
+msgstr "Af forfatter"
+
+msgid "By date"
+msgstr "efter dato"
+
+msgid "By emails count"
+msgstr "Ved e-mails tæller"
+
+msgid "by Front Builder for: %s"
+msgstr "af Front Builder for: %s"
+
+msgid "By rating"
+msgstr "Efter vurdering"
+
+msgid "By rating drop-down"
+msgstr "Ved rating drop-down"
+
+msgid "By text"
+msgstr "Efter tekst"
+
+msgid "Cache dynamic recount number for each item in filter"
+msgstr "Cache dynamisk gentællingsnummer for hvert element i filteret"
+
+msgid "Cache folder"
+msgstr "Cache mappe"
+
+msgid "Cache terms"
+msgstr "Cache-vilkår"
+
+msgid "Calculate Statistics"
+msgstr "Beregn statistik"
+
+msgid "Calendar date format"
+msgstr "Kalender datoformat"
+
+msgid "Can I override any extension view file for my site needs?"
+msgstr ""
+"Kan jeg tilsidesætte enhver fil med udvidelsesvisning til mit websteds behov?"
+
+msgid "Cheatin’ huh?"
+msgstr "Snyder hvad?"
+
+msgid "Check DB connection"
+msgstr "Tjek DB-forbindelse"
+
+msgid "Checkbox"
+msgstr "Afkrydsningsfelt"
+
+msgid "Child terms left shift"
+msgstr "Børnevilkår venstre skift"
+
+msgid "Chosen"
+msgstr "Valgt"
+
+msgid "clean cache automatically daily"
+msgstr "rense cachen automatisk dagligt"
+
+msgid "clean cache automatically each 2 days"
+msgstr "rense cachen automatisk hver anden dag"
+
+msgid "clean cache automatically each 3 days"
+msgstr "rense cachen automatisk hver anden dag"
+
+msgid "clean cache automatically each 4 days"
+msgstr "rense cachen automatisk hver anden dag"
+
+msgid "clean cache automatically each 5 days"
+msgstr "rense cachen automatisk hver anden dag"
+
+msgid "clean cache automatically each 6 days"
+msgstr "rense cachen automatisk hver anden dag"
+
+msgid "clean cache automatically each 7 days"
+msgstr "rense cachen automatisk hver anden dag"
+
+msgid "clean cache automatically hourly"
+msgstr "rense cachen automatisk hver time"
+
+msgid "clean cache automatically twicedaily"
+msgstr "rense cachen automatisk to gange dagligt"
+
+msgid "Clear"
+msgstr "Klar"
+
+msgid "clear"
+msgstr "klar"
+
+msgid "clear cache"
+msgstr "Slet cache"
+
+msgid "clear terms cache"
+msgstr "Ryd termcache"
+
+msgid "Clear text input"
+msgstr "Ryd tekstinput"
+
+msgid "Click"
+msgstr "Klik"
+
+msgid "Close"
+msgstr "Luk"
+
+msgid "Close filter"
+msgstr "Luk filteret"
+
+msgid "Close shortcode generator"
+msgstr "Luk kortkodegenerator"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "Codex"
+msgstr "Codex"
+
+msgid "Color"
+msgstr "Farve"
+
+msgid "Conditions logic"
+msgstr "Betingelseslogik"
+
+msgid "Container max-height (px). 0 means no max-height."
+msgstr "Container max-højde (px). 0 betyder ingen max-højde."
+
+msgid "Copied!"
+msgstr "Kopieret!"
+
+msgid "Counter"
+msgstr "Tæller"
+
+msgid "Create Element"
+msgstr "Opret element"
+
+msgid "Create new section. Don`t forget to click on the save button."
+msgstr "Opret ny sektion. Glem ikke at klikke på knappen Gem."
+
+msgid "Create section"
+msgstr "Opret sektion"
+
+msgid "Create your products page URL here"
+msgstr "Opret din produktside URL her"
+
+msgid "Creating"
+msgstr "Oprettelse af"
+
+msgid "creating"
+msgstr "skabe"
+
+msgid "Cron type"
+msgstr "Cron type"
+
+msgid "Custom CSS code"
+msgstr "Brugerdefineret CSS-kode"
+
+msgid "Custom extensions"
+msgstr "Tilpassede udvidelser"
+
+msgid "Custom extensions folder"
+msgstr "Tilpasset udvidelsesmappe"
+
+msgid "Custom extensions folder path relative to: %s"
+msgstr "Tilpasset udvidelsesmappesti i forhold til: %s"
+
+msgid "Custom fields"
+msgstr "Brugerdefinerede felter"
+
+msgid "Custom filter form generator"
+msgstr "Brugerdefineret filterformulargenerator"
+
+msgid "Custom front css styles file link"
+msgstr "Brugerdefineret front css styles fil link"
+
+msgid "Custom text of the button"
+msgstr "Brugerdefineret tekst på knappen"
+
+msgid "daily"
+msgstr "dagligt"
+
+msgid "Data for default filter"
+msgstr "Data til standardfilter"
+
+msgid "Database not connected! ERROR!"
+msgstr "Databasen er ikke forbundet! FEJL!"
+
+msgid "Database successfully connected!!!"
+msgstr "Database er forbundet med succes!!!"
+
+msgid "Database successfully updated!!!"
+msgstr "Databasen er opdateret med succes!!!"
+
+msgid "date"
+msgstr "dato"
+
+msgid "Datepicker"
+msgstr "Datapicker"
+
+msgid "DB Name"
+msgstr "DB navn"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Default - mm/dd/yy"
+msgstr "Standard - mm/dd/åå"
+
+msgid "Default color"
+msgstr "Standardfarve"
+
+msgid "Default extensions"
+msgstr "Standardudvidelser"
+
+msgid "Default filter section width"
+msgstr "Standard filtersektionsbredde"
+
+msgid "Default skin for Ion-Range slider in the filter form"
+msgstr "Standard skin for Ion-Range skyder i filterformen"
+
+msgid "Delete"
+msgstr "Slette"
+
+msgid "delete"
+msgstr "slette"
+
+msgid "demo mode is activated, and results are visible only to you"
+msgstr "demotilstand er aktiveret, og resultaterne er kun synlige for dig"
+
+msgid "Demo site"
+msgstr "Demo site"
+
+msgid "Demo site 10K"
+msgstr "Demoside 10K"
+
+msgid "Demo site of Smart Designer"
+msgstr "Demoside for Smart Designer"
+
+msgid "Demo site Turbo"
+msgstr "Demoside Turbo"
+
+msgid "DESC"
+msgstr "DESC"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Different views of price filter"
+msgstr "Forskellige visninger af prisfilter"
+
+msgid "Direct links to posts in autocomplete suggestion"
+msgstr "Direkte links til indlæg i autofuldførelsesforslag"
+
+msgid "Direction of terms sorted inside of filter block"
+msgstr "Retning af termer sorteret inde i filterblokken"
+
+msgid "Disable page indexing"
+msgstr "Deaktiver sideindeksering"
+
+msgid "Disable swoof influence"
+msgstr "Deaktiver indflydelse på swoof"
+
+msgid "Disabled"
+msgstr "handicappet"
+
+msgid "Disables page indexing when a seo search query exists."
+msgstr "Deaktiverer sideindeksering, når der findes en SEO-søgeforespørgsel."
+
+msgid "Display items in a row"
+msgstr "Vis elementer i en række"
+
+msgid "Display message if current product is suitable for saved search"
+msgstr "Vis besked, hvis det aktuelle produkt er egnet til gemt søgning"
+
+msgid "do not clean cache automatically"
+msgstr "rens ikke cachen automatisk"
+
+msgid "do not use shortcodes here in turbo mode"
+msgstr "brug ikke shortcodes her i turbotilstand"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "done!"
+msgstr "Færdig!"
+
+msgid "drag and drop"
+msgstr "træk og slip"
+
+msgid "drag and drop"
+msgstr "træk og slip"
+
+msgid "drawing graphs ..."
+msgstr "tegne grafer ..."
+
+msgid "Drop-down"
+msgstr "Drop-down"
+
+msgid "Drop-down OR radio price filter ranges"
+msgstr "Drop-down ELLER radioprisfilterintervaller"
+
+msgid "Drop-down OR radio ranges"
+msgstr "Drop-down ELLER radioområder"
+
+msgid "Drop-down price filter first option text"
+msgstr "Drop-down prisfilter tekst for første valgmulighed"
+
+msgid "Drop-down price filter text"
+msgstr "Drop-down prisfiltertekst"
+
+msgid "Drop-down skin"
+msgstr "Drop-down hud"
+
+msgid "Drop-down to filter products by rating"
+msgstr "Rullemenu for at filtrere produkter efter bedømmelse"
+
+msgid "Dynamic recount"
+msgstr "Dynamisk optælling"
+
+msgid "Dynamic recount for current search form"
+msgstr "Dynamisk fortælling for aktuel søgeform"
+
+msgid "each %s days"
+msgstr "hver %s dage"
+
+msgid "each filter section max height. Example: 200px, auto"
+msgstr "hver filtersektion max højde. Eksempel: 200px, auto"
+
+msgid "Each new link must be on a new line"
+msgstr "Hvert nyt link skal være på en ny linje"
+
+msgid "Emails count"
+msgstr "E-mails tæller"
+
+msgid "Enable turbo mode"
+msgstr "Aktiver turbotilstand"
+
+msgid "Enable/Disable"
+msgstr "Aktivere deaktivere"
+
+msgid "Enabled"
+msgstr "Aktiveret"
+
+msgid "enabled in premium version"
+msgstr "aktiveret i premium-version"
+
+msgid "enter a product title here ..."
+msgstr "indtast en produkttitel her ..."
+
+msgid "enter a text here ..."
+msgstr "skriv en tekst her..."
+
+msgid "enter product ID"
+msgstr "indtast produkt-id"
+
+msgid "enter title"
+msgstr "indtast titel"
+
+msgid "enter value in px"
+msgstr "indtast værdi i px"
+
+msgid "Error!"
+msgstr "Fejl!"
+
+msgid "Error! No data"
+msgstr "Fejl! Ingen data"
+
+msgid "Error! Please read documents"
+msgstr "Fejl! Læs venligst dokumenter"
+
+msgid "Error! Security issue"
+msgstr "Fejl! Sikkerhedsproblem"
+
+msgid "Europe - dd-mm-yy"
+msgstr "Europa - dd-mm-åå"
+
+msgid "EXACT"
+msgstr "EKSAKT"
+
+msgid "Exact match"
+msgstr "Præcis kamp"
+
+msgid "Exact value"
+msgstr "Præcise værdi"
+
+msgid "Example"
+msgstr "Eksempel"
+
+msgid "Example %s"
+msgstr "Eksempel %s"
+
+msgid "Example terms by real taxonomy"
+msgstr "Eksempler på termer efter reel taksonomi"
+
+msgid "Example: /color-{any}/"
+msgstr "Eksempel: /farve-{enhver}/"
+
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity."
+msgstr "Eksempel: 0-50,51-100,101-i. Hvor \"i\" er uendelig."
+
+msgid "Example: 1^100"
+msgstr "Eksempel: 1^100"
+
+msgid "Exclude products on backorder"
+msgstr "Ekskluder produkter på restordre"
+
+msgid "Exclude taxonomies from the filter (vice versa for param tax_only)."
+msgstr "Ekskluder taksonomier fra filteret (omvendt for param tax_only)."
+
+msgid "excluded terms ids"
+msgstr "ekskluderede term-id'er"
+
+msgid "Export data"
+msgstr "Eksporter data"
+
+msgid "Export/Import"
+msgstr "Eksport / Import"
+
+msgid "Ext-Applications options"
+msgstr "Ext-Applications muligheder"
+
+msgid "Extensions"
+msgstr "Udvidelser"
+
+msgid "External cron key (is recommended as flexible for timetable)"
+msgstr "Ekstern cron-nøgle (anbefales som fleksibel for tidsplan)"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Featured"
+msgstr "Udvalgt"
+
+msgid "Featured products"
+msgstr "Udvalgte produkter"
+
+msgid "File updated!!!"
+msgstr "Fil opdateret!!!"
+
+msgid "Filter"
+msgstr "filtre"
+
+msgid "Filter button text"
+msgstr "Filtrer knaptekst"
+
+msgid "Filter button text in the search form"
+msgstr "Filtrer knaptekst i søgeformularen"
+
+msgid "Filter by price"
+msgstr "Filtrer efter pris"
+
+msgid "filter by price"
+msgstr "filtrer efter pris"
+
+msgid "Filter by rating"
+msgstr "Filtrer efter vurdering"
+
+msgid "filter form bottom margin, example: 10px, 10%"
+msgstr "filterformens bundmargen, eksempel: 10px, 10%"
+
+msgid "filter form left margin, example: 10px, 10%"
+msgstr "filter fra venstre margen, eksempel: 10px, 10%"
+
+msgid "filter form max height, example: 300px"
+msgstr "filterform max højde, eksempel: 300px"
+
+msgid "filter form right margin, example: 10px, 10%"
+msgstr "filter fra højre margen, eksempel: 10px, 10%"
+
+msgid "filter form top margin, example: 10px, 10%"
+msgstr "filterformens topmargen, eksempel: 10px, 10%"
+
+msgid "filter form width, example: 200px, 100%"
+msgstr "filterformularbredde, eksempel: 200px, 100 %"
+
+msgid "Filter max height"
+msgstr "Filter max højde"
+
+msgid "Filter max width"
+msgstr "Filter maks. bredde"
+
+msgid "filter redrawing"
+msgstr "gentegning af filter"
+
+msgid "Filter section max height"
+msgstr "Filtersektion max højde"
+
+msgid "filter-section width, example: 200px, 100%, 49%, 50%, inherit"
+msgstr "filtersektionsbredde, eksempel: 200px, 100%, 49%, 50%, arv"
+
+msgid "finished!"
+msgstr "færdig!"
+
+msgid "First drop-down option placeholder text OR title for checkboxes"
+msgstr ""
+"Første rullemenu med pladsholdertekst ELLER titel til afkrydsningsfelter"
+
+msgid "Flat dark (1column)"
+msgstr "Flad mørk (1 kolonne)"
+
+msgid "Flat dark (2columns)"
+msgstr "Flad mørk (2 kolonner)"
+
+msgid "Flat dark (3columns)"
+msgstr "Flad mørk (3 kolonner)"
+
+msgid "Flat dark (4columns) without sidebar*"
+msgstr "Flad mørk (4 kolonner) uden sidebjælke*"
+
+msgid "Flat grey (1column)"
+msgstr "Flad grå (1 kolonne)"
+
+msgid "Flat grey (2columns)"
+msgstr "Flad grå (2 kolonner)"
+
+msgid "Flat grey (3columns)"
+msgstr "Flad grå (3 kolonner)"
+
+msgid "Flat grey (4columns) without sidebar*"
+msgstr "Flad grå (4 kolonner) uden sidebjælke*"
+
+msgid "Flat white (1column)"
+msgstr "Flad hvid (1 kolonne)"
+
+msgid "Float"
+msgstr "Flyde"
+
+msgid "float of the filter form in the text content"
+msgstr "float af filterformen i tekstindholdet"
+
+msgid "For developers HUSKY has power bunch of functionality"
+msgstr "For udviklere har HUSKY en masse mange funktioner"
+
+msgid "For external cron use the next link"
+msgstr "For ekstern cron brug næste link"
+
+msgid "For the beginners there is videos are prepared"
+msgstr "For begyndere er der udarbejdet videoer"
+
+msgid "Forbidden"
+msgstr "Forbudt"
+
+msgid "Forcing disabling of functionality"
+msgstr "Tvinger deaktivering af funktionalitet"
+
+msgid "Form AJAX redrawing"
+msgstr "Form AJAX gentegning"
+
+msgid "From"
+msgstr "Fra"
+
+msgid "from"
+msgstr "fra"
+
+msgid "from %s %s to %s %s"
+msgstr "fra %s %s til %s %s"
+
+msgid "from: %s"
+msgstr "fra: %s"
+
+msgid "Full - DD, d MM, yy"
+msgstr "Fuld - DD, d MM, åå"
+
+msgid "full version of the plugin"
+msgstr "den fulde version af plugin'et"
+
+msgid "gallery of custom-element types"
+msgstr "galleri af brugerdefinerede elementtyper"
+
+msgid "Generate attributes for shortcode [woof]"
+msgstr "Generer attributter til shortcode [woof]"
+
+msgid "Generate data for export"
+msgstr "Generer data til eksport"
+
+msgid "Generate shortcode"
+msgstr "Generer shortcode"
+
+msgid "Generate your own custom filter by shortcode %s"
+msgstr "Generer dit eget brugerdefinerede filter ved at kortkode %s"
+
+msgid "Get"
+msgstr "Få"
+
+msgid "Get keys from any product by its ID"
+msgstr "Få nøgler fra ethvert produkt efter dets ID"
+
+msgid "getting of operative tables ..."
+msgstr "at få operative borde ..."
+
+msgid "getting the data from the table"
+msgstr "hente data fra tabellen"
+
+msgid "Give Feedback"
+msgstr "Give tilbagemelding"
+
+msgid "Global visibility"
+msgstr "Global synlighed"
+
+msgid "Go Pro!"
+msgstr "Bliv professionel!"
+
+msgid "good to use in content areas"
+msgstr "god at bruge i indholdsområder"
+
+msgid "Graphics"
+msgstr "Grafik"
+
+msgid "H1 title"
+msgstr "H1 titel"
+
+msgid "Height"
+msgstr "Højde"
+
+msgid "Height of the drop-down of the opened active panel."
+msgstr "Højde på rullemenuen for det åbnede aktive panel."
+
+msgid "Hi! Are you enjoying using HUSKY - Products Filter for WooCommerce?"
+msgstr "Hej! Nyder du at bruge HUSKY - Produktfilter til WooCommerce?"
+
+msgid "Hide"
+msgstr "Skjule"
+
+msgid "Hide auto filter by default"
+msgstr "Skjul automatisk filter som standard"
+
+msgid "Hide childs in checkboxes and radio"
+msgstr "Skjul børn i afkrydsningsfelter og radio"
+
+msgid "Hide empty terms"
+msgstr "Skjul tomme udtryk"
+
+msgid "Hide empty terms in \"Dynamic recount\" mode"
+msgstr "Skjul tomme termer i tilstanden \"Dynamisk gentælling\"."
+
+msgid "hide products filter"
+msgstr "skjul produktfilter"
+
+msgid "Hide search form by default and show one button instead"
+msgstr "Skjul søgeformular som standard, og vis i stedet en knap"
+
+msgid "Hide terms count text"
+msgstr "Skjul teksten med termoptælling"
+
+msgid "Hide woof top panel buttons"
+msgstr "Skjul woof-toppanelknapper"
+
+msgid "Hides the text with the count of variants"
+msgstr "Skjuler teksten med antallet af varianter"
+
+msgid "Hierarchy drop-down"
+msgstr "Nedrulning til hierarki"
+
+msgid "Home"
+msgstr "HOME"
+
+msgid "Host"
+msgstr "Host"
+
+msgid "hourly"
+msgstr "time"
+
+msgid "Hover"
+msgstr "Hover"
+
+msgid "Hover border color"
+msgstr "Hover kantfarve"
+
+msgid "Hover border width"
+msgstr "Hover kantbredde"
+
+msgid "Hover color"
+msgstr "Hover farve"
+
+msgid "Hover image"
+msgstr "Hover billede"
+
+msgid "Hover scale"
+msgstr "Hover skala"
+
+msgid "Hover text color"
+msgstr "Hover tekstfarve"
+
+msgid "How long user will get emails after subscription"
+msgstr "Hvor længe vil brugeren modtage e-mails efter abonnement"
+
+msgid "How many show products in the autocomplete list"
+msgstr "Hvor mange viser produkter i autofuldførelseslisten"
+
+msgid "How often assemble data file"
+msgstr "Hvor ofte samle datafil"
+
+msgid "How often update products data file"
+msgstr "Hvor ofte opdaterer produktdatafil"
+
+msgid "How to assemble statistic"
+msgstr "Hvordan man samler statistik"
+
+msgid "How to create custom taxonomies for the products"
+msgstr "Sådan opretter du brugerdefinerede taksonomier for produkterne"
+
+msgid "How to display search by author filter section"
+msgstr "Sådan viser du søgning efter forfatterfiltersektion"
+
+msgid "How to display this filter-element on the site frontend"
+msgstr "Sådan viser du dette filterelement på webstedets frontend"
+
+msgid "How to filter woocommerce products by meta data"
+msgstr "Sådan filtreres woocommerce-produkter efter metadata"
+
+msgid "How to make HUSKY more SEO friendly"
+msgstr "Sådan gør du HUSKY mere SEO-venlig"
+
+msgid "How to manipulate by CSS if search is going"
+msgstr "Hvordan man manipulerer med CSS, hvis søgningen er i gang"
+
+msgid "How to open links with posts in suggestion"
+msgstr "Sådan åbner du links med indlæg i forslag"
+
+msgid "How to show"
+msgstr "Sådan viser du"
+
+msgid "How to show or hide widget only on selected site pages"
+msgstr "Sådan viser eller skjuler du kun widget på udvalgte webstedssider"
+
+msgid "how to show slideout popup after page loaded: opened or closed"
+msgstr ""
+"hvordan man viser slideout-popup efter indlæst side: åbnet eller lukket"
+
+msgid "How to show: checkbox or switcher"
+msgstr "Sådan viser du: afkrydsningsfelt eller switcher"
+
+msgid "How to sort terms inside of filter block"
+msgstr "Sådan sorteres termer inde i filterblokken"
+
+msgid "https://pluginus.net/"
+msgstr "https://pluginus.net/"
+
+msgid "https://products-filter.com/"
+msgstr "https://products-filter.com/"
+
+msgid "HUSKY - Products Filter Professional for WooCommerce"
+msgstr "HUSKY - Products Filter Professional til WooCommerce"
+
+msgid "HUSKY Filter"
+msgstr "HUSKY filter"
+
+msgid "HUSKY Filter Elements Constructor"
+msgstr "HUSKY Filter Elements Constructor"
+
+msgid "HUSKY FULL VERSION"
+msgstr "HUSKY FULD VERSION"
+
+msgid "HUSKY settings saving ..."
+msgstr "HUSKY-indstillinger gemmer ..."
+
+msgid "HUSKY Support"
+msgstr "HUSKY Support"
+
+msgid "HUSKY support forum"
+msgstr "HUSKY supportforum"
+
+msgid "I already did"
+msgstr "det har jeg allerede gjort"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "If you have questions check please already prepared answers"
+msgstr "Hvis du har spørgsmål, tjek venligst allerede forberedte svar"
+
+msgid "If you want to Unsubscribe from this newsletter"
+msgstr "Hvis du ønsker at afmelde dig dette nyhedsbrev"
+
+msgid "Image"
+msgstr "Billede"
+
+msgid "Image for block more/less [opened]"
+msgstr "Billede for blok mere/mindre [åbnet]"
+
+msgid "Image for block more/less closed"
+msgstr "Billede for blok mere/mindre lukket"
+
+msgid "Image for block toggle [opened]"
+msgstr "Billede til blokering [åbnet]"
+
+msgid "Image for block toggle closed"
+msgstr "Billede for blokskift lukket"
+
+msgid "Image for close button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"Billede til lukkeknap, når mobiltilstand er aktiveret. Indstil -1 for at "
+"deaktivere."
+
+msgid "Image for closed state"
+msgstr "Billede for lukket tilstand"
+
+msgid "Image for mobile filter button"
+msgstr "Billede til mobil filterknap"
+
+msgid "Image for opened state"
+msgstr "Billede for åbnet tilstand"
+
+msgid "Image for subcategories close"
+msgstr "Billede for underkategorier luk"
+
+msgid "Image for subcategories open"
+msgstr "Billede for underkategorier åbent"
+
+msgid "Image of button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"Billede af knappen, når mobiltilstand er aktiveret. Indstil -1 for at "
+"deaktivere."
+
+msgid "Image to close mobile filter"
+msgstr "Billede for at lukke mobilfilter"
+
+msgid "Image which displayed for tooltip"
+msgstr "Billede, der vises som værktøjstip"
+
+msgid "Images"
+msgstr "Billeder"
+
+msgid "Import"
+msgstr "Importere"
+
+msgid "Import data"
+msgstr "Import datoer"
+
+msgid "Import new preset code"
+msgstr "Importer ny forudindstillet kode"
+
+msgid "Import placed data"
+msgstr "Importer placerede data"
+
+msgid "In FREE version it is possible to operate by 2 meta fields only!"
+msgstr "I GRATIS version er det muligt at betjene kun 2 metafelter!"
+
+msgid "In FREE version it is possible to operate with 2 rules only!"
+msgstr "I GRATIS version er det muligt at operere med kun 2 regler!"
+
+msgid "In stock"
+msgstr "På lager"
+
+msgid "In the same window (_self) or in the new one (_blank)"
+msgstr "I samme vindue (_selv) eller i det nye (_blank)"
+
+msgid "Info"
+msgstr "INFO"
+
+msgid "info"
+msgstr "info"
+
+msgid "Init plugin on the next site pages only"
+msgstr "Init plugin kun på de næste webstedssider"
+
+msgid "Init sections"
+msgstr "Init sektioner"
+
+msgid "Init sections by default"
+msgstr "Init sektioner som standard"
+
+msgid "Initial Video"
+msgstr "Indledende video"
+
+msgid "Install"
+msgstr "Installer"
+
+msgid "Install Now"
+msgstr "Installer nu"
+
+msgid "Ion Range slider"
+msgstr "Ion Range skyder"
+
+msgid "Ion Range slider skin"
+msgstr "Ion Range skyder skin"
+
+msgid "Ion Range slider step"
+msgstr "Ion Range skydertrin"
+
+msgid "Ion Range slider Taxes"
+msgstr "Ion Range skyder Skatter"
+
+msgid "Ion Range slider text inputs"
+msgstr "Ion Range skyder tekstinput"
+
+msgid "Is AJAX"
+msgstr "Er AJAX"
+
+msgid "is search form for should be hidden or shown after page loaded"
+msgstr "er søgeformular for skal skjules eller vises efter siden er indlæst"
+
+msgid "ISO 8601 - yy-mm-dd"
+msgstr "ISO 8601 - åå-mm-dd"
+
+msgid "It is possible to select a unique slider design for each meta field"
+msgstr "Det er muligt at vælge et unikt skyderdesign for hvert metafelt"
+
+msgid "It will be counted in the filter (only for ion-slider)"
+msgstr "Det vil blive talt i filteret (kun for ion-skyder)"
+
+msgid "It will be counted in the filter( Only for ion-slider )"
+msgstr "Det vil blive talt i filteret (Kun for ion-skyder)"
+
+msgid "Its not possible to create file: %s"
+msgstr "Det er ikke muligt at oprette filen: %s"
+
+msgid "Its not possible to create folder: %s"
+msgstr "Det er ikke muligt at oprette mappen: %s"
+
+msgid "JavaScript code after AJAX is done"
+msgstr "JavaScript-kode, når AJAX er færdig"
+
+msgid "Label"
+msgstr "etiket"
+
+msgid "Later"
+msgstr "Senere"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Leave it empty if you not need it."
+msgstr "Lad den stå tom, hvis du ikke har brug for den."
+
+msgid "Leave it empty if you not need this"
+msgstr "Lad den stå tom, hvis du ikke har brug for dette"
+
+msgid "leave it empty to see all terms"
+msgstr "lad det stå tomt for at se alle vilkår"
+
+msgid "leave it empty to show all terms"
+msgstr "lad den være tom for at vise alle termer"
+
+msgid "leave it empty to use native taxonomy name"
+msgstr "lad det være tomt for at bruge det oprindelige taksonominavn"
+
+msgid "Left"
+msgstr "Venstre"
+
+msgid "left"
+msgstr "til venstre"
+
+msgid "Lets checked terms will be on the top"
+msgstr "Lad os kontrollerede vilkår vil være øverst"
+
+msgid "LIKE"
+msgstr "LIKE"
+
+msgid "LIKE or Exact match"
+msgstr "LIKE eller eksakt match"
+
+msgid "Links to posts in suggestion"
+msgstr "Links til indlæg i forslag"
+
+msgid "Listen catalog visibility"
+msgstr "Lyt til katalogets synlighed"
+
+msgid "Loaded!"
+msgstr "Indlæst!"
+
+msgid "Loading"
+msgstr "lastning"
+
+msgid "Loading ..."
+msgstr "Indlæser ..."
+
+msgid "Loading balls - SVG"
+msgstr "Loading bolde - SVG"
+
+msgid "Loading bars - SVG"
+msgstr "Indlæsningsbjælker - SVG"
+
+msgid "Loading bubbles - SVG"
+msgstr "Indlæser bobler - SVG"
+
+msgid "Loading cubes - SVG"
+msgstr "Indlæser kuber - SVG"
+
+msgid "Loading cyclone - SVG"
+msgstr "Indlæser cyklon - SVG"
+
+msgid "Loading spin - SVG"
+msgstr "Indlæsningsspin - SVG"
+
+msgid "Loading spinning bubbles - SVG"
+msgstr "Indlæser roterende bobler - SVG"
+
+msgid "Loading spokes - SVG"
+msgstr "Indlæser eger - SVG"
+
+msgid "Loading word"
+msgstr "Indlæser ord"
+
+msgid "Logic of filtering"
+msgstr "Logik for filtrering"
+
+msgid "Looks like its not the HUSKY extension here %s!"
+msgstr "Det ser ud til, at det ikke er HUSKY-udvidelsen her %s!"
+
+msgid "Looks like troubles with JavaScript!"
+msgstr "Det ligner problemer med JavaScript!"
+
+msgid "Make filtering"
+msgstr "Lav filtrering"
+
+msgid "Margin bottom"
+msgstr "Margen nederst"
+
+msgid "Margin right"
+msgstr "Margen højre"
+
+msgid "Margint bottom"
+msgstr "Margen bund"
+
+msgid "Margint left"
+msgstr "Margen venstre"
+
+msgid "Margint right"
+msgstr "Margen højre"
+
+msgid "Margint top"
+msgstr "Margint top"
+
+msgid "Max deep of the search request"
+msgstr "Max dyb af søgeanmodningen"
+
+msgid "Max drop-down height"
+msgstr "Max drop-down højde"
+
+msgid "Max height of the block"
+msgstr "Max højde på blokken"
+
+msgid "Max price"
+msgstr "Max pris"
+
+msgid "max price"
+msgstr "maks. pris"
+
+msgid "Max requests per unique user"
+msgstr "Maks. anmodninger pr. unik bruger"
+
+msgid "Max saved queries per user"
+msgstr "Maks. gemte forespørgsler pr. bruger"
+
+msgid "Max subscriptions per user"
+msgstr "Max abonnementer pr. bruger"
+
+msgid "Max terms or taxonomies per graph"
+msgstr "Maks. termer eller taksonomier pr. graf"
+
+msgid "Maximum number of emails per one subscribed user. -1 means no limit."
+msgstr "Maksimalt antal e-mails pr. abonnent bruger. -1 betyder ingen grænse."
+
+msgid "Maximum number of subscriptions for a single registered user."
+msgstr "Maksimalt antal abonnementer for en enkelt registreret bruger."
+
+msgid "Medium - d MM, y"
+msgstr "Medium - d MM, y"
+
+msgid "menu order"
+msgstr "menu rækkefølge"
+
+msgid "Meta Data"
+msgstr "Metadata"
+
+msgid "Meta description"
+msgstr "Meta beskrivelse"
+
+msgid "Meta Fields"
+msgstr "Meta felter"
+
+msgid "Meta filter"
+msgstr "Meta filter"
+
+msgid "Meta title"
+msgstr "Metatitel"
+
+msgid "Min height"
+msgstr "Min højde"
+
+msgid "Min price"
+msgstr "Min pris"
+
+msgid "min price"
+msgstr "min. pris"
+
+msgid "Min rating:"
+msgstr "Min vurdering:"
+
+msgid "Min symbols"
+msgstr "Min symboler"
+
+msgid "Min width"
+msgstr "Min bredde"
+
+msgid "min1"
+msgstr "min1"
+
+msgid "Minimum number of symbols to start searching. By default 3 symbols"
+msgstr "Minimum antal symboler for at begynde at søge. Som standard 3 symboler"
+
+msgid "Mobile behavior"
+msgstr "Mobil adfærd"
+
+msgid "Mobile mode"
+msgstr "Mobil tilstand"
+
+msgid "monthly"
+msgstr "månedligt"
+
+msgid "More/less button type"
+msgstr "Mere/mindre knaptype"
+
+msgid "Multi Drop-down"
+msgstr "Multi rullemenu"
+
+msgid "My query"
+msgstr "Min forespørgsel"
+
+msgid "Native"
+msgstr "Native"
+
+msgid "new"
+msgstr "ny"
+
+msgid "New element"
+msgstr "Nyt element"
+
+msgid "New products"
+msgstr "Nye produkter"
+
+msgid "New Products by your request"
+msgstr "Nye produkter efter din anmodning"
+
+msgid "New section"
+msgstr "Nyt afsnit"
+
+msgid "new window"
+msgstr "nyt vindue"
+
+msgid "Next"
+msgstr "Næste"
+
+msgid "No"
+msgstr "Ingen"
+
+msgid "No data"
+msgstr "Ingen data"
+
+msgid "No data for the selected time period!"
+msgstr "Ingen data for det valgte tidsrum!"
+
+msgid "No data to import!"
+msgstr "Ingen data at importere!"
+
+msgid "No items"
+msgstr "Ingen varer"
+
+msgid "No limit"
+msgstr "Ingen grænse"
+
+msgid "No products found"
+msgstr "Ingen produkter fundet"
+
+msgid "No thanks"
+msgstr "Ellers tak"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "none"
+msgstr "ingen"
+
+msgid "Nope, maybe later"
+msgstr "Nej, måske senere"
+
+msgid "Not has effect in free version!"
+msgstr "Har ikke effekt i gratis version!"
+
+msgid "NOT IN"
+msgstr "IKKE I"
+
+msgid "Not really..."
+msgstr "Ikke rigtig..."
+
+msgid "Not toggled terms count"
+msgstr "Ikke slåede vilkår tæller"
+
+msgid "Notes for customer"
+msgstr "Noter til kunden"
+
+msgid "Nothing found!"
+msgstr "Intet fundet!"
+
+msgid "Notice"
+msgstr "Varsel"
+
+msgid "Notice! Add options in the plugin settings->Meta filter"
+msgstr "Varsel! Tilføj muligheder i plugin-indstillingerne->Metafilter"
+
+msgid "Notice:"
+msgstr "Notice:"
+
+msgid "number"
+msgstr "nummer"
+
+msgid "Number of products per one block on the search drop-down"
+msgstr "Antal produkter pr. blok på søgerullemenuen"
+
+msgid "Number of words in the description"
+msgstr "Antal ord i beskrivelsen"
+
+msgid "Numeric"
+msgstr "Numerisk"
+
+msgid "Numeric."
+msgstr "Numerisk."
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Okay, you deserve it"
+msgstr "Okay, du fortjener det"
+
+msgid "On sale"
+msgstr "På tilbud"
+
+msgid "One month"
+msgstr "En måned"
+
+msgid "One week"
+msgstr "En uge"
+
+msgid "Open filter"
+msgstr "Åbn filteret"
+
+msgid "operative tables are prepared"
+msgstr "operative tabeller udarbejdes"
+
+msgid "Optimize loading of HUSKY JavaScript files"
+msgstr "Optimer indlæsning af HUSKY JavaScript-filer"
+
+msgid "Optimize price filter"
+msgstr "Optimer prisfilter"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Options"
+msgstr "Indstillinger"
+
+msgid "OR"
+msgstr "OR"
+
+msgid "Order dropdown css selector"
+msgstr "Bestil dropdown css-vælger"
+
+msgid "orderby"
+msgstr "orderby"
+
+msgid "Overlay image background"
+msgstr "Overlay billedbaggrund"
+
+msgid "Overlay skins"
+msgstr "Overlay skind"
+
+msgid "Override no products found content"
+msgstr "Tilsidesæt intet produkt-indhold"
+
+msgid "Password"
+msgstr "Adgangskode"
+
+msgid "Per page"
+msgstr "Pr. Side"
+
+msgid "per page"
+msgstr "per side"
+
+msgid "Per page css selector"
+msgstr "CSS-vælger pr. side"
+
+msgid "Permalinks should be enabled!"
+msgstr "Permalinks skal være aktiveret!"
+
+msgid "Placeholder"
+msgstr "Pladsholder"
+
+msgid "Placeholder text"
+msgstr "Pladsholdertekst"
+
+msgid "Plainoverlay - CSS"
+msgstr "Plainoverlay - CSS"
+
+msgid "Plainoverlay color"
+msgstr "Plainoverlay farve"
+
+msgid "Please fill the title field."
+msgstr "Udfyld venligst titelfeltet."
+
+msgid "Please read documents"
+msgstr "Læs venligst dokumenter"
+
+msgid "Please update database:"
+msgstr "Opdater venligst databasen:"
+
+msgid "popularity"
+msgstr "popularitet"
+
+msgid "popup animation speed in (ms)"
+msgstr "popup-animationshastighed i (ms)"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Possible keys"
+msgstr "Mulige nøgler"
+
+msgid "Postfix"
+msgstr "postfix"
+
+msgid "Postfix for slider slides"
+msgstr "Postfix til slider slides"
+
+msgid "predifined step"
+msgstr "forudbestemt trin"
+
+msgid "Prefix"
+msgstr "Præfiks"
+
+msgid "Prefix for slider slides"
+msgstr "Præfiks for slider slides"
+
+msgid "premium version of the plugin"
+msgstr "premium version af plugin"
+
+msgid "Preset code (copy to share)"
+msgstr "Forudindstillet kode (kopi til deling)"
+
+msgid "Presets"
+msgstr "Presets"
+
+msgid "Prev"
+msgstr "forrige"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "Price - from %s to %s"
+msgstr "Pris - fra %s til %s"
+
+msgid "Price filter"
+msgstr "Prisfilter"
+
+msgid "Price from"
+msgstr "Pris fra"
+
+msgid "price high to low"
+msgstr "pris høj til lav"
+
+msgid "price low to high"
+msgstr "pris lav til høj"
+
+msgid "price range"
+msgstr "prisklasse"
+
+msgid "Price to"
+msgstr "Pris til"
+
+msgid "Price- %s"
+msgstr "Pris- %s"
+
+msgid "Price:"
+msgstr "Pris:"
+
+msgid "Priority of limitations"
+msgstr "Prioritet af begrænsninger"
+
+msgid "Product not found"
+msgstr "Produkt ikke fundet"
+
+msgid "Products and Variants"
+msgstr "Produkter og varianter"
+
+msgid "Products assembling period in data file for quick search."
+msgstr "Produktsamlingsperiode i datafil for hurtig søgning."
+
+msgid "Products Filter"
+msgstr "Produkter Filter"
+
+msgid "Products Filter for WooCommerce by realmag777"
+msgstr "Produktfilter til WooCommerce af realmag777"
+
+msgid "Products Messenger"
+msgstr "Produkter Messenger"
+
+msgid "Products not found!"
+msgstr "Produkter ikke fundet!"
+
+msgid "Products per page"
+msgstr "Produkter pr. side"
+
+msgid "px"
+msgstr "px"
+
+msgid "Quick search"
+msgstr "Hurtig søgning"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Radio and Checkbox skin"
+msgstr "Radio og Checkbox skin"
+
+msgid "Radio and checkboxes skin"
+msgstr "Radio og afkrydsningsfelter skin"
+
+msgid "Radio/Checkbox in drop-down"
+msgstr "Radio/Afkrydsningsfelt i rullemenuen"
+
+msgid "Range"
+msgstr "Range"
+
+msgid "Range step"
+msgstr "Range trin"
+
+msgid "Range-slider skin"
+msgstr "Range-slider skin"
+
+msgid "Ranges for price filter."
+msgstr "Områder for prisfilter."
+
+msgid "Rating"
+msgstr "Rating"
+
+msgid "rating"
+msgstr "bedømmelse"
+
+msgid "realmag777"
+msgstr "realmag777"
+
+msgid "Reassemble data file"
+msgstr "Saml datafil igen"
+
+msgid "Reassemble data file for quick search manually now"
+msgstr "Gensaml datafil for hurtig søgning manuelt nu"
+
+msgid "Reassemble products data now!"
+msgstr "Saml produktdata igen nu!"
+
+msgid "Recommended plugins for your site flexibility and features"
+msgstr "Anbefalede plugins til dit websteds fleksibilitet og funktioner"
+
+msgid "Red buttons on the top of the shop page when searching done"
+msgstr "Røde knapper øverst på butikssiden, når søgningen er udført"
+
+msgid "Redirect"
+msgstr "Omdiriger"
+
+msgid "Redirect to"
+msgstr "Omdiriger til"
+
+msgid "redrawn"
+msgstr "gentegnes"
+
+msgid "remove extension"
+msgstr "fjerne forlængelse"
+
+msgid "Reset"
+msgstr "Nulstil"
+
+msgid "Reset button text"
+msgstr "Nulstil knaptekst"
+
+msgid "Reset items order"
+msgstr "Nulstil varerækkefølgen"
+
+msgid "Result count css selector"
+msgstr "Resultattæller css-vælger"
+
+msgid "Reverse"
+msgstr "Omvendt"
+
+msgid "Reverse: deactivate plugin on the next site pages only"
+msgstr "Omvendt: deaktiver kun plugin på de næste webstedssider"
+
+msgid "Right"
+msgstr "Højre"
+
+msgid "right"
+msgstr "højre"
+
+msgid "Role"
+msgstr "roller"
+
+msgid "Rules"
+msgstr "Regler"
+
+msgid "Save current search query"
+msgstr "Gem den aktuelle søgeforespørgsel"
+
+msgid "Save search query"
+msgstr "Gem søgeforespørgsel"
+
+msgid "Saved"
+msgstr "Gemt"
+
+msgid "Saving"
+msgstr "Lagring"
+
+msgid "Search by Author"
+msgstr "Søg efter Forfatter"
+
+msgid "Search by content"
+msgstr "Søg efter indhold"
+
+msgid "Search by content OR excerpt"
+msgstr "Søg efter indhold ELLER uddrag"
+
+msgid "Search by description in product variations"
+msgstr "Søg efter beskrivelse i produktvarianter"
+
+msgid "Search by description in variations"
+msgstr "Søg efter beskrivelse i varianter"
+
+msgid "Search by exact value OR if meta key exists"
+msgstr "Søg efter nøjagtig værdi ELLER hvis der findes metanøgle"
+
+msgid "Search by excerpt"
+msgstr "Søg efter uddrag"
+
+msgid "Search by full word only"
+msgstr "Søg kun med fuld ord"
+
+msgid "Search by InStock"
+msgstr "Søg på InStock"
+
+msgid "Search by Price"
+msgstr "Søg på pris"
+
+msgid "Search by rating"
+msgstr "Søg efter vurdering"
+
+msgid "Search by SKU"
+msgstr "Søg på SKU"
+
+msgid "Search by Text"
+msgstr "Søg på tekst"
+
+msgid "Search by text"
+msgstr "Søg efter tekst"
+
+msgid "Search by title"
+msgstr "Søg efter titel"
+
+msgid "Search by title AND content"
+msgstr "Søg efter titel OG indhold"
+
+msgid "Search by title OR content"
+msgstr "Søg efter titel ELLER indhold"
+
+msgid "Search by title OR content OR excerpt"
+msgstr "Søg efter titel ELLER indhold ELLER uddrag"
+
+msgid "Search in products and their variations"
+msgstr "Søg i produkter og deres variationer"
+
+msgid "Search in variable produts"
+msgstr "Søg i variable produkter"
+
+msgid "Search option"
+msgstr "Søgemulighed"
+
+msgid "Search slug"
+msgstr "Søg snegl"
+
+msgid "Search value"
+msgstr "Søgningsværdi"
+
+msgid "Search value (for not numeric)"
+msgstr "Søgeværdi (for ikke numerisk)"
+
+msgid "Searching is slow OR the plugin make page loading slow"
+msgstr "Søgning er langsom ELLER plugin'et gør sideindlæsningen langsom"
+
+msgid "Secret key for external cron"
+msgstr "Hemmelig nøgle til ekstern cron"
+
+msgid "Section Options"
+msgstr "Sektionsmuligheder"
+
+msgid "Section options"
+msgstr "Sektionsmuligheder"
+
+msgid "Section width"
+msgstr "Sektionsbredde"
+
+msgid "Sections"
+msgstr "Sektioner"
+
+msgid "Sections behavior"
+msgstr "Afsnits adfærd"
+
+msgid "See more new products..."
+msgstr "Se flere nye produkter..."
+
+msgid "Select a product author"
+msgstr "Vælg en produktforfatter"
+
+msgid "Select acceptable for your hosting type of cron"
+msgstr "Vælg acceptable for din hosting type cron"
+
+msgid "Select date range for statistic!"
+msgstr "Vælg datointerval for statistik!"
+
+msgid "Select Image"
+msgstr "Vælg billede"
+
+msgid "Select image"
+msgstr "Vælg billede"
+
+msgid "select image"
+msgstr "Vælg billede"
+
+msgid "Select image for term"
+msgstr "Vælg billede til term"
+
+msgid "Select period:"
+msgstr "Vælg periode:"
+
+msgid "Select taxonomies and meta keys which you want to track"
+msgstr "Vælg taksonomier og meta-nøgler, som du vil spore"
+
+msgid "Select taxonomies in tab Options and press \"Save changes\""
+msgstr "Vælg taksonomier i fanen Indstillinger og tryk på \"Gem ændringer\""
+
+msgid "Select the time period for which you want to see statistical data"
+msgstr "Vælg det tidsrum, du vil se statistiske data for"
+
+msgid "Selected border color"
+msgstr "Valgt kantfarve"
+
+msgid "Selected border width"
+msgstr "Valgt kantbredde"
+
+msgid "Selected color"
+msgstr "Valgt farve"
+
+msgid "Selected image"
+msgstr "Valgt billede"
+
+msgid "Selected scale"
+msgstr "Valgt skala"
+
+msgid "Selected SD element is not correct!"
+msgstr "Det valgte SD-element er ikke korrekt!"
+
+msgid "Selected text color"
+msgstr "Valgt tekstfarve"
+
+msgid "Selected/Hovered Terms"
+msgstr "Udvalgte vilkår"
+
+msgid "SelectWoo"
+msgstr "Vælg Woo"
+
+msgid "SEO text"
+msgstr "SEO tekst"
+
+msgid "SEO URL request"
+msgstr "SEO URL anmodning"
+
+msgid "Server options for statistic stock"
+msgstr "Server muligheder for statistik aktie"
+
+msgid "Set \"none\" to disable placeholder for this textinput"
+msgstr "Indstil \"ingen\" for at deaktivere pladsholder for denne tekstinput"
+
+msgid "Set filter automatically"
+msgstr "Indstil filter automatisk"
+
+msgid "Set filter automatically on the shop page"
+msgstr "Indstil filter automatisk på butikssiden"
+
+msgid "Set terms color/image"
+msgstr "Sæt vilkår farve/billede"
+
+msgid "Settings"
+msgstr "Indstillinger"
+
+msgid "Settings imported successfully. Reload the page please."
+msgstr "Indstillinger blev importeret. Genindlæs venligst siden."
+
+msgid "Short - d M, y"
+msgstr "Kort - d M, y"
+
+msgid "Shortcode"
+msgstr "Lær"
+
+msgid "Should the slideout button be visible on mobile devices"
+msgstr "Skal udtræksknappen være synlig på mobile enheder"
+
+msgid "Show"
+msgstr "show"
+
+msgid "Show stars in drop-down"
+msgstr "Vis stjerner i rullemenuen"
+
+msgid "show blocks helper"
+msgstr "show helper blokke"
+
+msgid "Show blocks helper button"
+msgstr "Vis hjælpeknap til blokke"
+
+msgid "Show button for woo range-slider"
+msgstr "Vis knap til woo range-skyder"
+
+msgid "Show count"
+msgstr "Vis antal"
+
+msgid "Show count inside tooltip"
+msgstr "Vis optælling i værktøjstip"
+
+msgid "Show count of items near taxonomies terms on the front"
+msgstr "Vis antallet af varer nær taksonomier på forsiden"
+
+msgid "Show counter"
+msgstr "Vis tæller"
+
+msgid "Show Featured products checkbox inside HUSKY search form"
+msgstr "Vis afkrydsningsfeltet Udvalgte produkter i HUSKY-søgeformularen"
+
+msgid "Show found variants in drop-down list"
+msgstr "Vis fundne varianter i rullelisten"
+
+msgid "Show image of variation"
+msgstr "Vis billede af variation"
+
+msgid "Show In stock only checkbox inside woof search form"
+msgstr "Vis kun på lager afkrydsningsfeltet inde i woof-søgeformularen"
+
+msgid "Show inputs"
+msgstr "Vis input"
+
+msgid "Show less"
+msgstr "Vis mindre"
+
+msgid "Show more"
+msgstr "Vis mere"
+
+msgid "Show notice"
+msgstr "Vis besked"
+
+msgid "Show notice on product page"
+msgstr "Vis meddelelse på produktsiden"
+
+msgid "Show on all devices"
+msgstr "Vis på alle enheder"
+
+msgid "Show On sale only checkbox inside woof search form"
+msgstr "Vis kun til salg afkrydsningsfeltet inde i woof-søgeformularen"
+
+msgid "Show only on desktop"
+msgstr "Vis kun på skrivebordet"
+
+msgid "Show only on mobile"
+msgstr "Vis kun på mobil"
+
+msgid "Show price text inputs"
+msgstr "Vis pristekstinput"
+
+msgid "Show product mesenger box inside woof search form"
+msgstr "Vis produkt messenger box inde i woof søgeformularen"
+
+msgid "show products filter"
+msgstr "vis produktfilter"
+
+msgid "Show products filter form"
+msgstr "Vis produkters filterformular"
+
+msgid "Show Search by author drop-down inside woof search form"
+msgstr "Vis rullemenuen Søg efter forfatter i woof-søgeformularen"
+
+msgid "Show subscription button"
+msgstr "Vis abonnementsknap"
+
+msgid "Show textinput for searching by products title"
+msgstr "Vis tekstinput til søgning efter produkttitel"
+
+msgid "Show title label"
+msgstr "Vis titeletiket"
+
+msgid "Show title label if possible"
+msgstr "Vis titellabel, hvis det er muligt"
+
+msgid "Show toggle button"
+msgstr "Vis skifteknap"
+
+msgid "Show toggle button for radio"
+msgstr "Vis skifteknap til radio"
+
+msgid "Show toggle button if possible"
+msgstr "Vis skifteknap, hvis det er muligt"
+
+msgid "Show tooltip"
+msgstr "Vis værktøjstip"
+
+msgid "Show tooltip in title label. Enter any text."
+msgstr "Vis værktøjstip i titeletiket. Indtast en hvilken som helst tekst."
+
+msgid "Show tooltip on hover"
+msgstr "Vis værktøjstip, når du svæver"
+
+msgid "Show woocommerce filter by price inside woof search form"
+msgstr "Vis woocommerce-filter efter pris i woof-søgeformularen"
+
+msgid "Show/Hide ACF block title on the front"
+msgstr "Vis/skjul ACF-bloktitel på forsiden"
+
+msgid "Show/Hide meta block title on the front"
+msgstr "Vis/skjul metabloktitel på forsiden"
+
+msgid "Show/Hide slideout on shop pages"
+msgstr "Vis/skjul slideout på butikssider"
+
+msgid "Show/Hide taxonomy block title on the front"
+msgstr "Vis/skjul taksonomibloktitel på forsiden"
+
+msgid "Side Padding"
+msgstr "Side polstring"
+
+msgid "Side padding"
+msgstr "Side polstring"
+
+msgid "Simple products only"
+msgstr "Kun simple produkter"
+
+msgid "Skin for drop-downs in the filter form"
+msgstr "Skin til drop-downs i filterformen"
+
+msgid "Skin only works for ion slider"
+msgstr "Hud virker kun for ion-skyder"
+
+msgid "Skins for the auto filter"
+msgstr "Skind til autofilteret"
+
+msgid "Skins only works for ion slider"
+msgstr "Skins virker kun til ion-skyder"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Slideout"
+msgstr "Glide ud"
+
+msgid "Slideout image"
+msgstr "Slideout billede"
+
+msgid "Slideout text"
+msgstr "Slideout-tekst"
+
+msgid "Slider"
+msgstr "skyderen"
+
+msgid "Slider skin"
+msgstr "Slider hud"
+
+msgid "Smart Designer"
+msgstr "Smart designer"
+
+msgid "Smart designer"
+msgstr "Smart designer"
+
+msgid "Some questions"
+msgstr "Nogle spørgsmål"
+
+msgid "Somthing wrong!"
+msgstr "Der er noget galt!"
+
+msgid "Sorry! This product is not suitable for your search %title%."
+msgstr "Undskyld! Dette produkt er ikke egnet til din søgning %title%."
+
+msgid "Sort terms"
+msgstr "Sorter vilkår"
+
+msgid "Sort terms direction"
+msgstr "Sorter vilkår retning"
+
+msgid "Space background color"
+msgstr "Space baggrundsfarve"
+
+msgid "Space width"
+msgstr "Rummets bredde"
+
+msgid "Speed"
+msgstr "Hastighed"
+
+msgid "SS"
+msgstr "SS"
+
+msgid "SSS"
+msgstr "SSS"
+
+msgid "SSSS"
+msgstr "SSSS"
+
+msgid "SSSSS"
+msgstr "SSSSS"
+
+msgid "Standard filter types"
+msgstr "Standard filtertyper"
+
+msgid "Stars"
+msgstr "Stjerner"
+
+msgid "stat is not activated or PDO not inited"
+msgstr "stat er ikke aktiveret, eller PDO er ikke startet"
+
+msgid "State after init"
+msgstr "Tilstand efter init"
+
+msgid "Statistic"
+msgstr "statistik"
+
+msgid "Statistic calculation ..."
+msgstr "Statistisk beregning..."
+
+msgid "Statistic for:"
+msgstr "Statistik for:"
+
+msgid "Statistical parameters:"
+msgstr "Statistiske parametre:"
+
+msgid "Statistics collection:"
+msgstr "Statistikindsamling:"
+
+msgid "Step"
+msgstr "Trin"
+
+msgid "Step by step filter"
+msgstr "Trin for trin filter"
+
+msgid "string"
+msgstr "streng"
+
+msgid "Structure"
+msgstr "Struktur"
+
+msgid "Subject of the email"
+msgstr "Emnet for e-mailen"
+
+msgid "Subject of the email."
+msgstr "Emnet for e-mailen."
+
+msgid "Submit button position"
+msgstr "Indsend knapposition"
+
+msgid "Subscribe"
+msgstr "Tilmeld"
+
+msgid "Subscribe on the current search request"
+msgstr "Abonner på den aktuelle søgeanmodning"
+
+msgid "Subscription"
+msgstr "Abonnement"
+
+msgid "Subscription time"
+msgstr "Abonnementstid"
+
+msgid "Substrate border radius (px)"
+msgstr "Substratkantradius (px)"
+
+msgid "Substrate border width"
+msgstr "Substratkantbredde"
+
+msgid "Substrate disabled background color"
+msgstr "Substrat deaktiveret baggrundsfarve"
+
+msgid "Substrate disabled background image"
+msgstr "Substrat deaktiveret baggrundsbillede"
+
+msgid "Substrate disabled border color"
+msgstr "Substrat deaktiveret kantfarve"
+
+msgid "Substrate enabled background color"
+msgstr "Substrat aktiveret baggrundsfarve"
+
+msgid "Substrate enabled background image"
+msgstr "Substrat aktiveret baggrundsbillede"
+
+msgid "Substrate enabled border color"
+msgstr "Substrat aktiveret kantfarve"
+
+msgid "Substrate height (px)"
+msgstr "Underlagshøjde (px)"
+
+msgid "Substrate width (px)"
+msgstr "Underlagsbredde (px)"
+
+msgid "Such type doesn exists!"
+msgstr "Sådan en type findes ikke!"
+
+msgid "Suggest the feature"
+msgstr "Foreslå funktionen"
+
+msgid "Switcher"
+msgstr "Switcher"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Tax"
+msgstr "Skat"
+
+msgid "Taxes"
+msgstr "Skatter"
+
+msgid "Taxonomy conditionals"
+msgstr "Taksonomi betingelser"
+
+msgid "Taxonomy custom label"
+msgstr "Taxonomi tilpasset etiket"
+
+msgid "Template"
+msgstr "Skabelon"
+
+msgid "Template #1"
+msgstr "Skabelon # 1"
+
+msgid "Template #1 (as checkbox)"
+msgstr "Skabelon #1 (som afkrydsningsfelt)"
+
+msgid "Template #1 (list, subcategories)"
+msgstr "Skabelon #1 (liste, underkategorier)"
+
+msgid "Template #2 (as radio)"
+msgstr "Skabelon #2 (som radio)"
+
+msgid "Template #2 (tile, no sub-categories)"
+msgstr "Skabelon #2 (flise, ingen underkategorier)"
+
+msgid "Terms"
+msgstr "Betingelser"
+
+msgid "Terms color"
+msgstr "Vilkår farve"
+
+msgid "Terms:"
+msgstr "Betingelser:"
+
+msgid "test"
+msgstr "prøve"
+
+msgid "Text"
+msgstr "tekst"
+
+msgid "Text color"
+msgstr "Tekstfarve"
+
+msgid "Text font family (theme must support)"
+msgstr "Tekstskrifttypefamilie (tema skal understøttes)"
+
+msgid "Text font size"
+msgstr "Tekstskriftstørrelse"
+
+msgid "Text font size (px)"
+msgstr "Tekstskriftstørrelse (px)"
+
+msgid "Text for block more/less closed"
+msgstr "Tekst for blok mere/mindre lukket"
+
+msgid "Text for block more/less opened"
+msgstr "Tekst for blok mere/mindre åbnet"
+
+msgid "Text for block toggle closed"
+msgstr "Tekst til blokskift lukket"
+
+msgid "Text for block toggle opened"
+msgstr "Tekst til blokskift åbnet"
+
+msgid "Text for button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"Tekst for knap, når mobiltilstand er aktiveret. Indstil -1 for at deaktivere."
+
+msgid "Text for close button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"Tekst til lukkeknap, når mobiltilstand er aktiveret. Indstil -1 for at "
+"deaktivere."
+
+msgid "Text for closed state"
+msgstr "Tekst for lukket tilstand"
+
+msgid "Text for mobile filter button"
+msgstr "Tekst til mobil filterknap"
+
+msgid "Text for opened state"
+msgstr "Tekst for åbnet tilstand"
+
+msgid "Text if current product is not suitable for saved searches"
+msgstr "Skriv hvis det aktuelle produkt ikke er egnet til gemte søgninger"
+
+msgid "Text if current product is suitable for saved searches"
+msgstr "Skriv hvis det aktuelle produkt er egnet til gemte søgninger"
+
+msgid "Text in header of the email."
+msgstr "Tekst i overskriften på e-mailen."
+
+msgid "Text left (px)"
+msgstr "Tekst til venstre (px)"
+
+msgid "Text length"
+msgstr "Tekstlængde"
+
+msgid "Text line height (px)"
+msgstr "Tekstlinjehøjde (px)"
+
+msgid "Text notes for customer if you need it."
+msgstr "Tekstnoter til kunden, hvis du har brug for det."
+
+msgid "Text of the email"
+msgstr "Teksten til e-mailen"
+
+msgid "Text search"
+msgstr "Tekstsøgning"
+
+msgid "Text search also works with taxonomies (attributes, categories, tags)"
+msgstr ""
+"Tekstsøgning fungerer også med taksonomier (attributter, kategorier, tags)"
+
+msgid "Text search conditional"
+msgstr "Tekstsøgning betinget"
+
+msgid "Text to close mobile filter"
+msgstr "Tekst for at lukke mobilfilteret"
+
+msgid "Text top"
+msgstr "Tekst øverst"
+
+msgid "Text top (px)"
+msgstr "Tekst øverst (px)"
+
+msgid "Text which displayed instead filter while it is closed if selected."
+msgstr ""
+"Tekst, der vises i stedet, filtrerer, mens den er lukket, hvis den er valgt."
+
+msgid "The maximum height of the drop-down with the results in px."
+msgstr "Den maksimale højde på rullemenuen med resultaterne i px."
+
+msgid "The number will have a thousands separator"
+msgstr "Nummeret vil have en tusinde-separator"
+
+msgid "The placeholder in title field"
+msgstr "Pladsholderen i titelfeltet"
+
+msgid "The result is only with the full coincidence of words"
+msgstr "Resultatet er kun med ords fulde sammenfald"
+
+msgid "the same window"
+msgstr "det samme vindue"
+
+msgid "The submit and reset buttons position in current search form"
+msgstr "Indsend- og nulstillingsknapperne er placeret i den aktuelle søgeform"
+
+msgid "The text before the block of subscription block"
+msgstr "Teksten før blokken af ​​abonnementsblok"
+
+msgid "The text in the button"
+msgstr "Teksten i knappen"
+
+msgid "This can speed up in stock searches for variable products."
+msgstr "Dette kan fremskynde lagersøgninger efter variable produkter."
+
+msgid "This enables the AJAX mode."
+msgstr "Dette aktiverer AJAX-tilstand."
+
+msgid "this functionality is only visible for the site administrator"
+msgstr "denne funktionalitet er kun synlig for webstedsadministratoren"
+
+msgid "This product matches your search %title%."
+msgstr "Dette produkt matcher din søgning %title%."
+
+msgid "This works with ionSlider only"
+msgstr "Dette virker kun med ionSlider"
+
+msgid "Tickets"
+msgstr "Billetter"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Title of the email"
+msgstr "E-mailens titel"
+
+msgid "Title of the Query*"
+msgstr "Forespørgslens titel*"
+
+msgid "Title text"
+msgstr "Titeltekst"
+
+msgid "Title- %s"
+msgstr "Titel- %s"
+
+msgid "To"
+msgstr "Til"
+
+msgid "to"
+msgstr "til"
+
+msgid "To assign color value to terms select appropriate taxonomy here!"
+msgstr "For at tildele farveværdi til termer, vælg passende taksonomi her!"
+
+msgid "to: %s"
+msgstr "til: %s"
+
+msgid "toggle"
+msgstr "toggle"
+
+msgid "Toggle block type"
+msgstr "Skift bloktype"
+
+msgid "Tooltip"
+msgstr "Tooltip"
+
+msgid "Tooltip icon"
+msgstr "Værktøjstip-ikon"
+
+msgid "Tooltip if possible"
+msgstr "Værktøjstip hvis muligt"
+
+msgid "Tooltip text if necessary"
+msgstr "Værktøjstip tekst om nødvendigt"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Top AND Bottom"
+msgstr "Top og bund"
+
+msgid "Transition (ms)"
+msgstr "Overgang (ms)"
+
+msgid "Translations"
+msgstr "Oversættelser"
+
+msgid "Try to ajaxify the shop"
+msgstr "Prøv at ajaxify butikken"
+
+msgid "Turbo mode"
+msgstr "Turbo-tilstand"
+
+msgid "twicedaily"
+msgstr "to gange dagligt"
+
+msgid "twicemonthly"
+msgstr "to gange om måneden"
+
+msgid "Two months"
+msgstr "To måneder"
+
+msgid "Two weeks"
+msgstr "To uger"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unique name should be set for shortcode [woof_front_builder]"
+msgstr "Unikt navn skal indstilles for kortkode [woof_front_builder]"
+
+msgid "unsubscribe"
+msgstr "afmeld"
+
+msgid "Update"
+msgstr "Opdatering"
+
+msgid "Update now!"
+msgstr "Opdatere nu!"
+
+msgid "Upgrade"
+msgstr "Opgrader"
+
+msgid "URL depth"
+msgstr "URL dybde"
+
+msgid "Url of the custom image for the button"
+msgstr "URL på det brugerdefinerede billede til knappen"
+
+msgid "URL of the page"
+msgstr "URL på siden"
+
+msgid "Use beauty scroll"
+msgstr "Brug skønhedsrulle"
+
+msgid "Use cache"
+msgstr "Brug cache"
+
+msgid "Use new DB."
+msgstr "Brug ny DB."
+
+msgid "Use prettify"
+msgstr "Brug forskønne"
+
+msgid "Use shortcode [woof_front_builder]"
+msgstr "Brug kortkode [woof_front_builder]"
+
+msgid "Use this for NOT taxonomies filter sections you want to see on the form"
+msgstr ""
+"Brug dette til IKKE taksonomier filter sektioner, du ønsker at se på "
+"formularen"
+
+msgid "Use tooltip"
+msgstr "Brug værktøjstip"
+
+msgid "User"
+msgstr "Bruger"
+
+msgid "User can save the search query"
+msgstr "Brugeren kan gemme søgeforespørgslen"
+
+msgid "Value exists"
+msgstr "Værdi eksisterer"
+
+msgid "Vertex border radius (%)"
+msgstr "Vertex kantradius (%)"
+
+msgid "Vertex border width"
+msgstr "Topkants kantbredde"
+
+msgid "Vertex disabled background color"
+msgstr "Vertex deaktiveret baggrundsfarve"
+
+msgid "Vertex disabled background image"
+msgstr "Vertex deaktiveret baggrundsbillede"
+
+msgid "Vertex disabled border color"
+msgstr "Vertex deaktiveret kantfarve"
+
+msgid "Vertex enabled background color"
+msgstr "Vertex-aktiveret baggrundsfarve"
+
+msgid "Vertex enabled background image"
+msgstr "Vertex-aktiveret baggrundsbillede"
+
+msgid "Vertex enabled border color"
+msgstr "Vertex-aktiveret kantfarve"
+
+msgid "Vertex size (px)"
+msgstr "Toppunktstørrelse (px)"
+
+msgid "Vertex top (px)"
+msgstr "Vertex top (px)"
+
+msgid "Video"
+msgstr "video"
+
+msgid "Video tutorials"
+msgstr "Video tutorials"
+
+msgid "View"
+msgstr "Specifikation"
+
+msgid "View of the taxonomies terms on the front"
+msgstr "Visning af taksonomiens udtryk på forsiden"
+
+msgid "View product"
+msgstr "Se produkt"
+
+msgid "Visibility of block title"
+msgstr "Synlighed af bloktitel"
+
+msgid "Way to show of slideout popup out: click or hover"
+msgstr "Måde at vise slideout popup ud: klik eller svæv"
+
+msgid "weekly"
+msgstr "ugentlig"
+
+msgid "Weekly recommended"
+msgstr "Ugentligt anbefales"
+
+msgid "Where to keep products data file"
+msgstr "Hvor skal man opbevare produktdatafilen"
+
+msgid "Where to show slideout button: right, left, top"
+msgstr "Hvor skal man vise slideout-knap: højre, venstre, top"
+
+msgid "Which users by the selected role to show"
+msgstr "Hvilke brugere af den valgte rolle der skal vises"
+
+msgid "Width and height of the popup html container size in (px)"
+msgstr "Bredde og højde af popup-html-beholderens størrelse i (px)"
+
+msgid "Width auto"
+msgstr "Bredde auto"
+
+msgid "Width X Height (px) of the button image"
+msgstr "Bredde X Højde (px) af knapbilledet"
+
+msgid "without update"
+msgstr "uden opdatering"
+
+msgid "WOOBE"
+msgstr "WOOBE"
+
+msgid "WooCommerce Bulk Editor"
+msgstr "WooCommerce Bulk Editor"
+
+msgid "WooCommerce Currency Swither"
+msgstr "WooCommerce Valuta Swither"
+
+msgid "WooCommerce Products Tables"
+msgstr "WooCommerce-produkttabeller"
+
+msgid "WOOCS"
+msgstr "WOOCS"
+
+msgid "WOOT"
+msgstr "WOOT"
+
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+msgid "WordPress Cron period"
+msgstr "WordPress Cron-periode"
+
+msgid "WordPress cron period"
+msgstr "WordPress cron periode"
+
+msgid "Works for text search and make its faster"
+msgstr "Virker til tekstsøgning og gør den hurtigere"
+
+msgid "WPML taxonomies labels translations"
+msgstr "WPML taksonomier mærker oversættelser"
+
+msgid "Wrong data for \"Server options for statistic stock\" options"
+msgstr "Forkerte data for \"Serveroptioner for statistiske aktier\"-optioner"
+
+msgid "Wrong path to template"
+msgstr "Forkert vej til skabelon"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Yes(only if the product exists)"
+msgstr "Ja (kun hvis produktet findes)"
+
+msgid "Yes, but only for desktop"
+msgstr "Ja, men kun til desktop"
+
+msgid "Yes, but only for mobile devices"
+msgstr "Ja, men kun til mobile enheder"
+
+msgid "Yes, for all devices"
+msgstr "Ja, til alle enheder"
+
+msgid "Yes, I love it"
+msgstr "Ja, jeg elsker det"
+
+msgid "Yes, only for PC"
+msgstr "Ja, kun til pc"
+
+msgid "Yes, show as closed"
+msgstr "Ja, vis som lukket"
+
+msgid "Yes, show as opened"
+msgstr "Ja, vis som åbnet"
+
+msgid "YOAST: add HUSKY SEO links to sitemap"
+msgstr "YOAST: tilføj HUSKY SEO-links til sitemap"
+
+msgid "You are unsubscribed from the future products newsletters."
+msgstr "Du er afmeldt de fremtidige produktnyhedsbreve."
+
+msgid "You should write extension info in info.dat file!"
+msgstr "Du skal skrive udvidelsesoplysninger i info.dat-filen!"
+
+msgid "Your settings have been saved."
+msgstr "Dine indstillinger er blevet gemt."
+
+msgid "Сhild list opener"
+msgstr "Børnelisteåbner"
+
+msgid "Сlear"
+msgstr "Ryd"
+
+msgid "Сonditionals"
+msgstr "Betingelser"
+
+msgid "Сontainer size"
+msgstr "Сontainer størrelse"
+
+msgid "Сount is max"
+msgstr "Antal er max"

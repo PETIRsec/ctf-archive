@@ -1,0 +1,25 @@
+{
+    "name": "bengsky-submissions",
+    "version": "1.0.0",
+    "description": "submission bootcamp buatan bengsky",
+    "main": "./app.js",
+    "scripts": {
+      "start": "node ./app.js",
+      "build": "webpack"
+    },
+    "dependencies": {
+      "cookie-parser": "^1.4.6", 
+      "isomorphic-dompurify": "1.8.0",
+      "express": "^4.18.2",
+      "fs": "^0.0.2",
+      "route-cache": "^0.4.7",
+      "jsonwebtoken": "^9.0.2", 
+      "nunjucks": "^3.2.3",  
+      "puppeteer": "^22.15.0", 
+      "sqlite3": "^5.1.7",
+      "body-parser": "^2.0.1",  
+      "path": "^0.12.7", 
+      "fs-extra": "^11.1.1"
+    }
+  }
+  

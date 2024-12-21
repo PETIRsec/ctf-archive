@@ -1,0 +1,27 @@
+name: "Only Alice Deciphers"
+category: Cryptography
+description: |-
+  Barang apa aja ya yang ada di bazaar ini? 
+
+  Author: chronopad
+
+value: 500
+type: dynamic
+
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+
+flags:
+  - IFEST{1ns3cure_n0nce_eqv4ls_b4d_c1ph3r}
+
+tags:
+  - easy
+
+files:
+  - chall.py
+  - output.txt
+
+state: visible
+version: "0.1"

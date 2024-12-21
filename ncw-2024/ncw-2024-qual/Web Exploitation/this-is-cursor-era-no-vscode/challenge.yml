@@ -1,0 +1,36 @@
+# Required sections
+name: 'This is Cursor Era No VSCode'
+category: Web Exploitation
+description: |-
+    I'm new to web development, but I managed to build this revolutionary AI chatbot using Cursor IDE! 
+    I think it's already super secure, Right?
+
+    Author: boedegoat
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: http://103.145.226.92:22222
+
+flags:
+    # A static case sensitive flag
+    - NCW{maap_ini_tiba2_disuruh_bikin_chall_dadakan_jadinya_agak_absurd_dikit_ga_ngaruh_lah_ya_awokkwokwokowakokwoakokoakoawakwokaowkokwoaokokwa}
+
+tags:
+    - medium
+
+files:
+    - dist/dist.zip
+
+state: hidden
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: '0.1'

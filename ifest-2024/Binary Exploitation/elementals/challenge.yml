@@ -1,0 +1,37 @@
+# Required sections
+name: "Elementals"
+category: Binary Exploitation
+description: |-
+
+  <p align="justify">Forces of Nature</p>
+
+  Author: Xovert
+
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 157.230.38.61 16942
+
+flags:
+    # A static case sensitive flag
+    - IFEST{3f515a90b3dd7a3229f6b572f53e338a}
+
+tags:
+    - medium
+
+files:
+    - chall.tar.gz
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  storage:
+    build: .
+    image: storage
+    container_name: storage
+    cap_add:
+      - LINUX_IMMUTABLE
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "4573:4573"
+    user: ctf

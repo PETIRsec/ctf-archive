@@ -1,0 +1,36 @@
+# Required sections
+name: '意外运行恶意应用程序'
+category: Forensic
+description: |-
+    Check the attached file for more information.
+    Password: ncwgogo
+
+    Author: cipichop
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 103.145.226.92 18172
+
+flags:
+    # A static case sensitive flag
+    - NCW{so_sad_how_this_issue_is_staled_for_months_but_once_you_know_what_to_grep_you_will_get_everything_yay}
+
+tags:
+    - medium
+
+files:
+    - description.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: '0.1'

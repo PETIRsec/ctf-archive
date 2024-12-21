@@ -1,0 +1,35 @@
+# Required sections
+name: "R5A lagi 5x"
+category: Cryptography
+description: |-
+  Pokoknya ni enkripsi semua ada angka 5nya dah <br>
+  p.s: Semoga gaada salah setting lagi kek IFEST kemarin 😭
+  
+  Author: Lawson Schwantz
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW24{Disini_ada_yang_sambil_final_compfest?_9jfajsds}
+
+tags:
+    - medium
+
+files:
+    - R5Alagi5x.py
+    - output.txt
+
+state: hidden
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

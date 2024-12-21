@@ -1,0 +1,35 @@
+# Required sections
+name: 'Multiplex'
+category: Forensic
+description: |-
+    last week my friend PC got malware-ed, and the most precious directory is gone! she said this directory have some secret and she doesnt want to lose it! so she give me a traffic log from her PC to recover the directory, can you helpp?
+    Don't forget to wrap the flag with NCW{}.
+
+    Attachment: https://mega.nz/file/B1Bx3RrA#I23pf4T56MOzb-usDYW0EwCEYJTmfBnacnw15hYHklU
+
+    Author: Bleco
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{12h0ursplus_qu4l_chall_must_b3_h4rd_right}
+
+tags:
+    - hard
+
+# files:
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: '0.1'

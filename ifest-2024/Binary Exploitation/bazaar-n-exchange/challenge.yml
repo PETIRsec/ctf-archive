@@ -1,0 +1,35 @@
+# Required sections
+name: "Bazaar n Exchange"
+category: Binary Exploitation
+description: |-
+  Barang apa aja ya yang ada di bazaar ini?
+  
+  Author: chronopad
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 157.230.38.61 30312
+
+flags:
+    # A static case sensitive flag
+    - IFEST{d0n't_n33d_p0p_rd1_if_y0u_c4n_jvst_eXch4ng3_4204da}
+
+tags:
+    - easy
+
+files:
+    - chall
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

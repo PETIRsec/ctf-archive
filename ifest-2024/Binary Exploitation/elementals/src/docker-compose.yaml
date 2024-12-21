@@ -1,0 +1,14 @@
+version: '3'
+services:
+  elementals:
+    image: elementals
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "16942:8888"
+    ulimits:
+      nofile:
+        soft: 1024
+        hard: 1024

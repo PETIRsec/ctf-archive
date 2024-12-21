@@ -1,0 +1,35 @@
+# Required sections
+name: "Evil Bitsy Problem"
+category: Reverse Engineering
+description: |-
+  Tired of normal SAT problems? let's play with "circuit SAT"
+  
+  Flag format: binary.decode(binary(NCW{*}))
+  Author: gengi
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 15
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{im_tired_zZz}
+
+tags:
+    - hard
+
+files:
+    - chall.circ
+    - output.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

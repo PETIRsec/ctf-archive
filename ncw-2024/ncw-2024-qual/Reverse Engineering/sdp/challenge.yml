@@ -1,0 +1,34 @@
+# Required sections
+name: "SDP"
+category: Reverse Engineering
+description: |-
+  i think rev player should be all-rounder.
+  
+  Author: Marc
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+
+flags:
+    # A static case sensitive flag
+    - NCW{R3vers1ng_1s_Ev3rywh3r3_59e46f4892}
+
+tags:
+    - hard
+
+files:
+    - SDP.zip
+
+state: hidden
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

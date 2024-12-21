@@ -1,0 +1,35 @@
+# Required sections
+name: "I Kinda Get It Now"
+category: Reverse Engineering
+description: |-
+  <p>Sequel to "I'm Confused"</p>
+  <p>Should be pretty easy right?</p>
+  
+  Author: ringoshiro
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{ezb4ng9tka6pw}
+
+tags:
+    - easy
+
+files:
+    - i_kinda_get_it_now
+    - output.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

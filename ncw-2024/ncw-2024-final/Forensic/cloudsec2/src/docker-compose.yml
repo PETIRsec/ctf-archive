@@ -1,0 +1,10 @@
+version: '3'
+services:
+  cloudsec2:
+    build: .
+    container_name: cloudsec2
+    ports: 
+      - "23456:23456"
+    restart: always
+    environment:
+      - FLAG=NCW{ingin_menjadi_cloud_engineer_handal}

@@ -1,0 +1,45 @@
+version: '3'
+services:
+  steaml:
+    container_name: steaml
+    build: .
+    image: steaml
+    entrypoint: ["/bin/sh", "/app/startup.sh"]
+    environment:
+      - DATABASE_URL=mysql://root:r00tp455w0rd@steaml-db:3306/steaml
+      - JWT_SECRET=59f21a303a0b752ab7fb4edadd40d148375586ffd9e2d093ba13574da80d6e1cdb6dfd2c02870a5197d10deb6d13714692573c0851d8a586912b981fb2e5df3e44537af97dc0c9ffdb6b37688a1a6fad927ed39b089eca6946f02fc62904347706ec81977b1d4c6188477c8655a8620790b442c8846668ce1a672a48c14cc571c2cb87fb04a1c1b63838da3957f698e1954312dfcdcebcc45386d21d908d623dab0190b2d35040a6f3b883c50838448dbcfff056cebc5a94a5ffa1dc25c3c469451382381343ed8b54bb71f291836ac3d0d67314515fc4d589925c683d79aa3509d3ff7a65ec9fb7e6f177cff138eb34405b884814ead4952a03babdc0e8f786
+      - ADMIN_PASSWORD=HbWOllAwLdjKJGK1NVRA
+      - FLAG=IFEST{pr15m4_0rm_1nj3ct10n_wyimjav7au}
+    ports:
+      - 3221:3000
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - steaml-chall
+  db:
+    image: mysql:8.0
+    container_name: steaml-db
+    environment:
+      MYSQL_ROOT_PASSWORD: r00tp455w0rd
+      MYSQL_DATABASE: steaml
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "mysqladmin ping -h 127.0.0.1 -uroot -pr00tp455w0rd"
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - steaml-chall
+
+
+
+networks:
+  steaml-chall:
+    external: true
+    name: steaml-chall

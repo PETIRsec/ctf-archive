@@ -1,0 +1,13 @@
+<div class="p-4 border-solid border-2 border-slate-500 rounded-md">
+    <h1 class="text-xl">
+        <%= safe.title %>
+    </h1>
+
+    <div class="mt-2 space-x-2 p-2 flex items-center justify-center">
+        <input id="user-input-<%= safe.id %>" class="p-2 border-2 border-black rounded-md" placeholder="Password"
+            type="password">
+        <button class="p-2 bg-green-200 rounded-md border border-2 border-slate-200"
+            onclick="handleEncryption('<%= safe.id %>')">Enter</button>
+    </div>
+
+</div>

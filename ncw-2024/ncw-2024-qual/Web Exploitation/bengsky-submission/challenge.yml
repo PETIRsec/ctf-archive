@@ -1,0 +1,36 @@
+# Required sections
+name: "bengsky's submission"
+category: Web Exploitation
+description: |-
+  aku bengsky, dia bengsky, kita semua bengsky
+
+  Author: beluga
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: http://103.145.226.92:23232
+
+flags:
+  # A static case sensitive flag
+  - NCW{kok_kamu_jago_banget_bang?btw_maap_chall_dadakan_1minggu_sung_deploy}
+
+tags:
+  - bengsky
+  - hard
+
+files:
+ - dist/dist.zip
+
+state: hidden
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

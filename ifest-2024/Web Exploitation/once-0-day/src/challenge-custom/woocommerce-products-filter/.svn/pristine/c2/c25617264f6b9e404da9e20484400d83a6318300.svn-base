@@ -1,0 +1,2794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "%"
+msgstr "%"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "(Statistic collected from: %s %d)"
+msgstr "(A statisztika innen: %s %d)"
+
+msgid "+SKU"
+msgstr "+SKU"
+
+msgid "+Taxonomies"
+msgstr "+Taxonómiák"
+
+msgid "12 hours recommended"
+msgstr "12 óra ajánlott"
+
+msgid "2 (recomended)"
+msgstr "2 (ajánlott)"
+
+msgid "[is system]"
+msgstr "[rendszer]"
+
+msgid "ACF fields"
+msgstr "ACF mezők"
+
+msgid "Action"
+msgstr "Akció"
+
+msgid "Action failed. Please refresh the page and retry."
+msgstr "A művelet nem sikerült. Kérjük, frissítse az oldalt, és próbálja újra."
+
+msgid "Actions"
+msgstr "Hozzászólások"
+
+msgid "Activates the ability to search by SKU from the same text-input"
+msgstr ""
+"Aktiválja a SKU szerinti keresés lehetőségét ugyanabból a szövegbevitelből"
+
+msgid "Activates the ability to search by SKU in the same text-input"
+msgstr ""
+"Aktiválja a SKU szerinti keresés lehetőségét ugyanabban a szövegbeviteli "
+"módban"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Aktualizálva a WooCommerce v.%s.x számára"
+
+msgid "Add"
+msgstr "hozzáad"
+
+msgid "Add Custom key by hands"
+msgstr "Adjon hozzá egyéni kulcsot kézzel"
+
+msgid "Add filter section"
+msgstr "Szűrőszakasz hozzáadása"
+
+msgid "Add SEO rule"
+msgstr "Adjon hozzá SEO szabályt"
+
+msgid "Add this query"
+msgstr "Adja hozzá ezt a lekérdezést"
+
+msgid "additional options"
+msgstr "további lehetőségek"
+
+msgid "Additional search data for text search"
+msgstr "További keresési adatok szöveges kereséshez"
+
+msgid "Additional text before"
+msgstr "Kiegészítő szöveg előtte"
+
+msgid "Advanced"
+msgstr "Részletes"
+
+msgid "Advanced info is here"
+msgstr "Részletes információ itt található"
+
+msgid "Advanced types"
+msgstr "Haladó típusok"
+
+msgid "AJAX redraw"
+msgstr "AJAX újrarajzolás"
+
+msgid "All"
+msgstr "Minden termék"
+
+msgid "all"
+msgstr "minden"
+
+msgid "allows to show results on any another page of the site"
+msgstr ""
+"lehetővé teszi az eredmények megjelenítését a webhely bármely másik oldalán"
+
+msgid "AND"
+msgstr "ÉS"
+
+msgid "Any"
+msgstr "Bármilyen"
+
+msgid "Any image for closed html-items block 20x20"
+msgstr "Bármilyen kép a 20x20-as zárt html-elemek blokkjához"
+
+msgid "Any image for opened html-items block 20x20"
+msgstr "Bármilyen kép a megnyitott html-elemek blokkhoz 20x20"
+
+msgid "Any notes for customer."
+msgstr "Bármilyen megjegyzés az ügyfél számára."
+
+msgid "Any text notes for customer under subscription form."
+msgstr ""
+"Bármilyen szöveges megjegyzés az ügyfelek számára az előfizetési űrlapon."
+
+msgid "Are you sure you want to apply selected preset?"
+msgstr "Biztos benne, hogy alkalmazni kívánja a kiválasztott beállítást?"
+
+msgid "Are you sure you want to delete selected preset?"
+msgstr "Biztosan törölni szeretné a kiválasztott előre beállított beállítást?"
+
+msgid "Are you sure you want to delete this filter-section?"
+msgstr "Biztosan törli ezt a szűrőszakaszt?"
+
+msgid "Are you sure?"
+msgstr "Biztos vagy benne?"
+
+msgid "Are you sure? Settings will be overwritten!"
+msgstr "biztos vagy ebben? A beállítások felülíródnak!"
+
+msgid "As button"
+msgstr "Mint gomb"
+
+msgid "As checkbox"
+msgstr "Mint jelölőnégyzet"
+
+msgid "As drop-down"
+msgstr "Legördülő menüként"
+
+msgid "as Image"
+msgstr "mint Kép"
+
+msgid "As ion range-slider"
+msgstr "Mint iontartomány-csúszka"
+
+msgid "As radio"
+msgstr "Mint rádió"
+
+msgid "As radio button"
+msgstr "Rádiógombként"
+
+msgid "as Text"
+msgstr "mint Szöveg"
+
+msgid "As textinputs"
+msgstr "Szövegbevitelként"
+
+msgid "ASC"
+msgstr "ASC"
+
+msgid "Author"
+msgstr "Szerző"
+
+msgid "Author:"
+msgstr "Szerző:"
+
+msgid "Auto filter close/open image"
+msgstr "Kép automatikus szűrése bezárás/megnyitás"
+
+msgid "Auto filter close/open text"
+msgstr "Szöveg bezárása/nyitása automatikus szűréssel"
+
+msgid "Autocomplete"
+msgstr "Automatikus kiegészítés"
+
+msgid "Autocomplete products count"
+msgstr "Az automatikus kiegészítés termékek számítanak"
+
+msgid "Autocomplete relevant variants in by_text textinput"
+msgstr ""
+"A releváns változatok automatikus kiegészítése by_text szövegbevitellel"
+
+msgid "Autocomplete relevant variants in SKU textinput"
+msgstr "A releváns változatok automatikus kiegészítése az SKU-szövegbevitelben"
+
+msgid "Autohide"
+msgstr "Automatikus elrejtés"
+
+msgid "Autosubmit"
+msgstr "automatikus beküldés"
+
+msgid "average rating between 1 to 2-"
+msgstr "átlagos értékelés 1-2 között"
+
+msgid "average rating between 2 to 3-"
+msgstr "átlagos értékelés 2-3 között"
+
+msgid "average rating between 3 to 4-"
+msgstr "átlagos értékelés 3-4 között"
+
+msgid "average rating between 4 to 5"
+msgstr "átlagos értékelés 4 és 5 között"
+
+msgid "Back"
+msgstr "Vissza"
+
+msgid "Background color"
+msgstr "Háttér színe"
+
+msgid "Background image"
+msgstr "Háttérkép"
+
+msgid "Behavior"
+msgstr "Viselkedés"
+
+msgid "Behavior of how the filter sections will open."
+msgstr "A szűrőszakaszok kinyílásának viselkedése."
+
+msgid "Behavior of reset button"
+msgstr "A reset gomb viselkedése"
+
+msgid "Behavior of the text searching"
+msgstr "A szöveges keresés viselkedése"
+
+msgid "behavior of the text searching"
+msgstr "a szöveges keresés viselkedése"
+
+msgid "Border color"
+msgstr "Szegély színe"
+
+msgid "Border radius"
+msgstr "Határ sugara"
+
+msgid "Border width"
+msgstr "Szegély szélessége"
+
+msgid "Both"
+msgstr "Mindkét"
+
+msgid "Bottom"
+msgstr "Alsó"
+
+msgid "Button as"
+msgstr "Gomb mint"
+
+msgid "Button image size"
+msgstr "Gomb képméret"
+
+msgid "Button label"
+msgstr "Gomb címke"
+
+msgid "Button offset (px) from top or left from the window edge"
+msgstr "A gomb eltolása (px) felülről vagy balra az ablak szélétől"
+
+msgid "Buttons position"
+msgstr "Gombok helyzete"
+
+msgid "By author"
+msgstr "Szerző szerint"
+
+msgid "By date"
+msgstr "Dátum szerint"
+
+msgid "By emails count"
+msgstr "Az e-mailek száma szerint"
+
+msgid "by Front Builder for: %s"
+msgstr "a Front Builder által ehhez: %s"
+
+msgid "By rating"
+msgstr "Értékelés szerint"
+
+msgid "By rating drop-down"
+msgstr "Értékelés legördülő menü alapján"
+
+msgid "By text"
+msgstr "Szöveg útján"
+
+msgid "Cache dynamic recount number for each item in filter"
+msgstr ""
+"Dinamikus újraszámlálási szám gyorsítótárazása a szűrő minden egyes eleméhez"
+
+msgid "Cache folder"
+msgstr "Gyorsítótár mappa"
+
+msgid "Cache terms"
+msgstr "Gyorsítótár kifejezések"
+
+msgid "Calculate Statistics"
+msgstr "Statisztikák kiszámítása"
+
+msgid "Calendar date format"
+msgstr "A naptári dátum formátuma"
+
+msgid "Can I override any extension view file for my site needs?"
+msgstr ""
+"Felülírhatok bármely kiterjesztési nézetfájlt a webhelyem igényeinek "
+"megfelelően?"
+
+msgid "Cheatin’ huh?"
+msgstr "Csalás, mi?"
+
+msgid "Check DB connection"
+msgstr "Ellenőrizze a DB kapcsolatot"
+
+msgid "Checkbox"
+msgstr "jelölőnégyzetet"
+
+msgid "Child terms left shift"
+msgstr "Gyermek kifejezések balra műszak"
+
+msgid "Chosen"
+msgstr "Választott"
+
+msgid "clean cache automatically daily"
+msgstr "naponta automatikusan tisztítsa meg a gyorsítótárat"
+
+msgid "clean cache automatically each 2 days"
+msgstr "automatikusan tisztítsa meg a gyorsítótárat 2 naponta"
+
+msgid "clean cache automatically each 3 days"
+msgstr "automatikusan tisztítsa meg a gyorsítótárat 3 naponta"
+
+msgid "clean cache automatically each 4 days"
+msgstr "automatikusan tisztítsa meg a gyorsítótárat 4 naponta"
+
+msgid "clean cache automatically each 5 days"
+msgstr "automatikusan tisztítsa meg a gyorsítótárat 5 naponta"
+
+msgid "clean cache automatically each 6 days"
+msgstr "automatikusan tisztítsa meg a gyorsítótárat 6 naponta"
+
+msgid "clean cache automatically each 7 days"
+msgstr "automatikusan tisztítsa meg a gyorsítótárat 7 naponta"
+
+msgid "clean cache automatically hourly"
+msgstr "óránként automatikusan tisztítsa meg a gyorsítótárat"
+
+msgid "clean cache automatically twicedaily"
+msgstr "automatikusan tisztítsa meg a gyorsítótárat naponta kétszer"
+
+msgid "Clear"
+msgstr "Szűrő kikapcsolása"
+
+msgid "clear"
+msgstr "világos"
+
+msgid "clear cache"
+msgstr "Tiszta cache"
+
+msgid "clear terms cache"
+msgstr "kifejezések gyorsítótárának törlése"
+
+msgid "Clear text input"
+msgstr "Szövegbevitel törlése"
+
+msgid "Click"
+msgstr "Kattints"
+
+msgid "Close"
+msgstr "közel"
+
+msgid "Close filter"
+msgstr "Zárja be a szűrőt"
+
+msgid "Close shortcode generator"
+msgstr "Zárja be a rövid kód generátort"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "Codex"
+msgstr "Kódex"
+
+msgid "Color"
+msgstr "színek"
+
+msgid "Conditions logic"
+msgstr "Feltételek logikája"
+
+msgid "Container max-height (px). 0 means no max-height."
+msgstr ""
+"Konténer maximális magassága (px). A 0 azt jelenti, hogy nincs maximális "
+"magasság."
+
+msgid "Copied!"
+msgstr "Másolt!"
+
+msgid "Counter"
+msgstr "Számláló"
+
+msgid "Create Element"
+msgstr "Elem létrehozása"
+
+msgid "Create new section. Don`t forget to click on the save button."
+msgstr "Új szakasz létrehozása. Ne felejtsen el a mentés gombra kattintani."
+
+msgid "Create section"
+msgstr "Szakasz létrehozása"
+
+msgid "Create your products page URL here"
+msgstr "Itt hozza létre termékoldalának URL-jét"
+
+msgid "Creating"
+msgstr "létrehozása"
+
+msgid "creating"
+msgstr "létrehozása"
+
+msgid "Cron type"
+msgstr "Cron típus"
+
+msgid "Custom CSS code"
+msgstr "Egyedi CSS kód"
+
+msgid "Custom extensions"
+msgstr "Egyedi bővítmények"
+
+msgid "Custom extensions folder"
+msgstr "Egyedi kiterjesztések mappa"
+
+msgid "Custom extensions folder path relative to: %s"
+msgstr "Egyéni kiterjesztés mappa elérési útja ehhez képest: %s"
+
+msgid "Custom fields"
+msgstr "egyéni mezők"
+
+msgid "Custom filter form generator"
+msgstr "Egyedi szűrő űrlap generátor"
+
+msgid "Custom front css styles file link"
+msgstr "Egyedi elülső css stílusok fájl hivatkozása"
+
+msgid "Custom text of the button"
+msgstr "A gomb egyedi szövege"
+
+msgid "daily"
+msgstr "napi"
+
+msgid "Data for default filter"
+msgstr "Adatok az alapértelmezett szűrőhöz"
+
+msgid "Database not connected! ERROR!"
+msgstr "Adatbázis nincs csatlakoztatva! HIBA!"
+
+msgid "Database successfully connected!!!"
+msgstr "Adatbázis sikeresen csatlakoztatva!!!"
+
+msgid "Database successfully updated!!!"
+msgstr "Az adatbázis sikeresen frissítve!!!"
+
+msgid "date"
+msgstr "egyedi"
+
+msgid "Datepicker"
+msgstr "Dátumválasztó"
+
+msgid "DB Name"
+msgstr "DB név"
+
+msgid "Default"
+msgstr "alapértelmezett"
+
+msgid "Default - mm/dd/yy"
+msgstr "Alapértelmezett - éé.hh/nn"
+
+msgid "Default color"
+msgstr "Alapértelmezett szín"
+
+msgid "Default extensions"
+msgstr "Alapértelmezett bővítmények"
+
+msgid "Default filter section width"
+msgstr "Alapértelmezett szűrőszakaszszélesség"
+
+msgid "Default skin for Ion-Range slider in the filter form"
+msgstr "Az Ion-Range csúszka alapértelmezett felülete a szűrő űrlapon"
+
+msgid "Delete"
+msgstr "töröl"
+
+msgid "delete"
+msgstr "töröl"
+
+msgid "demo mode is activated, and results are visible only to you"
+msgstr "A demó mód aktiválva van, és az eredményeket csak Ön láthatja"
+
+msgid "Demo site"
+msgstr "Demo oldal"
+
+msgid "Demo site 10K"
+msgstr "Demo oldal 10K"
+
+msgid "Demo site of Smart Designer"
+msgstr "A Smart Designer bemutató oldala"
+
+msgid "Demo site Turbo"
+msgstr "Turbo bemutató oldal"
+
+msgid "DESC"
+msgstr "DESC"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Design"
+msgstr "Tervezés"
+
+msgid "Different views of price filter"
+msgstr "Az árszűrő különböző nézetei"
+
+msgid "Direct links to posts in autocomplete suggestion"
+msgstr ""
+"Közvetlen linkek a bejegyzésekre az automatikus kiegészítési javaslatban"
+
+msgid "Direction of terms sorted inside of filter block"
+msgstr "A szűrőblokkon belül rendezett kifejezések iránya"
+
+msgid "Disable page indexing"
+msgstr "Oldalindexelés letiltása"
+
+msgid "Disable swoof influence"
+msgstr "Swoof befolyás letiltása"
+
+msgid "Disabled"
+msgstr "mozgássérült"
+
+msgid "Disables page indexing when a seo search query exists."
+msgstr "Letiltja az oldalindexelést, ha létezik SEO keresési lekérdezés."
+
+msgid "Display items in a row"
+msgstr "Elemek megjelenítése sorban"
+
+msgid "Display message if current product is suitable for saved search"
+msgstr ""
+"Üzenet megjelenítése, ha az aktuális termék alkalmas a mentett keresésre"
+
+msgid "do not clean cache automatically"
+msgstr "ne tisztítsa meg automatikusan a gyorsítótárat"
+
+msgid "do not use shortcodes here in turbo mode"
+msgstr "ne használj rövid kódokat itt turbó módban"
+
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+msgid "done!"
+msgstr "Kész!"
+
+msgid "drag and drop"
+msgstr "fogd és vidd"
+
+msgid "drag and drope"
+msgstr "drag and drop"
+
+msgid "drawing graphs ..."
+msgstr "grafikonokat rajzolni..."
+
+msgid "Drop-down"
+msgstr "Ledob"
+
+msgid "Drop-down OR radio price filter ranges"
+msgstr "Legördülő VAGY rádiós árszűrő tartományok"
+
+msgid "Drop-down OR radio ranges"
+msgstr "Legördülő VAGY rádió tartományok"
+
+msgid "Drop-down price filter first option text"
+msgstr "Legördülő árszűrő első opció szövege"
+
+msgid "Drop-down price filter text"
+msgstr "Legördülő árszűrő szöveg"
+
+msgid "Drop-down skin"
+msgstr "Legördülő bőr"
+
+msgid "Drop-down to filter products by rating"
+msgstr "Legördülő menü a termékek értékelés szerinti szűréséhez"
+
+msgid "Dynamic recount"
+msgstr "Dinamikus újraszámlálás"
+
+msgid "Dynamic recount for current search form"
+msgstr "Dinamikus újraszámlálás az aktuális keresési űrlaphoz"
+
+msgid "each %s days"
+msgstr "minden %s napon"
+
+msgid "each filter section max height. Example: 200px, auto"
+msgstr "minden szűrőszakasz max. magassága. Példa: 200 képpont, automatikus"
+
+msgid "Each new link must be on a new line"
+msgstr "Minden új hivatkozásnak új sorban kell lennie"
+
+msgid "Emails count"
+msgstr "Az e-mailek számítanak"
+
+msgid "Enable turbo mode"
+msgstr "Engedélyezze a turbó módot"
+
+msgid "Enable/Disable"
+msgstr "Bekapcsolni kikapcsolni"
+
+msgid "Enabled"
+msgstr "Engedélyezett"
+
+msgid "enabled in premium version"
+msgstr "prémium verzióban engedélyezve"
+
+msgid "enter a product title here ..."
+msgstr "írja be a termék címét ide ..."
+
+msgid "enter a text here ..."
+msgstr "írj ide egy szöveget..."
+
+msgid "enter product ID"
+msgstr "adja meg a termékazonosítót"
+
+msgid "enter title"
+msgstr "írja be a címet"
+
+msgid "enter value in px"
+msgstr "adja meg az értéket px-ben"
+
+msgid "Error!"
+msgstr "Hiba!"
+
+msgid "Error! No data"
+msgstr "Hiba! Nincs adat"
+
+msgid "Error! Please read documents"
+msgstr "Hiba! Kérjük, olvassa el a dokumentumokat"
+
+msgid "Error! Security issue"
+msgstr "Hiba! Biztonsági probléma"
+
+msgid "Europe - dd-mm-yy"
+msgstr "Európa – nn-hh-éé"
+
+msgid "EXACT"
+msgstr "PONTOK"
+
+msgid "Exact match"
+msgstr "Pontos egyezés"
+
+msgid "Exact value"
+msgstr "Pontos érték"
+
+msgid "Example"
+msgstr "Példa"
+
+msgid "Example %s"
+msgstr "Példa %s"
+
+msgid "Example terms by real taxonomy"
+msgstr "Példakifejezések valódi taxonómia alapján"
+
+msgid "Example: /color-{any}/"
+msgstr "Példa: /szín-{bármilyen}/"
+
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity."
+msgstr "Példa: 0-50,51-100,101-i. Ahol \"i\" a végtelen."
+
+msgid "Example: 1^100"
+msgstr "Példa: 1^100"
+
+msgid "Exclude products on backorder"
+msgstr "A függőben lévő termékek kizárása"
+
+msgid "Exclude taxonomies from the filter (vice versa for param tax_only)."
+msgstr "A taxonómiák kizárása a szűrőből (a param tax_only esetén fordítva)."
+
+msgid "excluded terms ids"
+msgstr "kizárt kifejezések azonosítói"
+
+msgid "Export data"
+msgstr "Adatok exportálása"
+
+msgid "Export/Import"
+msgstr "Export Import"
+
+msgid "Ext-Applications options"
+msgstr "Ext-Applications opciók"
+
+msgid "Extensions"
+msgstr "Kiterjesztések"
+
+msgid "External cron key (is recommended as flexible for timetable)"
+msgstr "Külső cron kulcs (rugalmas órarendhez ajánlott)"
+
+msgid "FAQ"
+msgstr "GYIK"
+
+msgid "Featured"
+msgstr "Kiemelt"
+
+msgid "Featured products"
+msgstr "Kiemelt termékek"
+
+msgid "File updated!!!"
+msgstr "Fájl frissítve!!!"
+
+msgid "Filter"
+msgstr "Szűrő"
+
+msgid "Filter button text"
+msgstr "Szűrő gomb szövege"
+
+msgid "Filter button text in the search form"
+msgstr "Szűrőgomb szövege a keresési űrlapon"
+
+msgid "Filter by price"
+msgstr "Árszűrő"
+
+msgid "filter by price"
+msgstr "ár alapján szűrjük"
+
+msgid "Filter by rating"
+msgstr "Szűrés értékelés szerint"
+
+msgid "filter form bottom margin, example: 10px, 10%"
+msgstr "szűrő űrlap alsó margója, például: 10px, 10%"
+
+msgid "filter form left margin, example: 10px, 10%"
+msgstr "szűrő űrlap bal margója, például: 10px, 10%"
+
+msgid "filter form max height, example: 300px"
+msgstr "szűrőforma maximális magassága, például: 300 képpont"
+
+msgid "filter form right margin, example: 10px, 10%"
+msgstr "szűrési űrlap jobb margója, például: 10px, 10%"
+
+msgid "filter form top margin, example: 10px, 10%"
+msgstr "szűrő űrlap felső margója, például: 10px, 10%"
+
+msgid "filter form width, example: 200px, 100%"
+msgstr "szűrő űrlap szélessége, például: 200 képpont, 100%"
+
+msgid "Filter max height"
+msgstr "Szűrő maximális magassága"
+
+msgid "Filter max width"
+msgstr "Szűrő maximális szélessége"
+
+msgid "filter redrawing"
+msgstr "szűrő újrarajzolása"
+
+msgid "Filter section max height"
+msgstr "Szűrőrész max. magassága"
+
+msgid "filter-section width, example: 200px, 100%, 49%, 50%, inherit"
+msgstr "szűrőszakasz szélessége, példa: 200px, 100%, 49%, 50%, öröklődik"
+
+msgid "finished!"
+msgstr "befejezett!"
+
+msgid "First drop-down option placeholder text OR title for checkboxes"
+msgstr ""
+"Az első legördülő lehetőség helyőrző szövege VAGY cím a jelölőnégyzetekhez"
+
+msgid "Flat dark (1column)"
+msgstr "Lapos sötét (1 oszlop)"
+
+msgid "Flat dark (2columns)"
+msgstr "Lapos sötét (2 oszlop)"
+
+msgid "Flat dark (3columns)"
+msgstr "Lapos sötét (3 oszlop)"
+
+msgid "Flat dark (4columns) without sidebar*"
+msgstr "Lapos sötét (4 oszlop) oldalsáv nélkül*"
+
+msgid "Flat grey (1column)"
+msgstr "Lapos szürke (1 oszlop)"
+
+msgid "Flat grey (2columns)"
+msgstr "Lapos szürke (2 oszlop)"
+
+msgid "Flat grey (3columns)"
+msgstr "Lapos szürke (3 oszlop)"
+
+msgid "Flat grey (4columns) without sidebar*"
+msgstr "Lapos szürke (4 oszlop) oldalsáv nélkül*"
+
+msgid "Flat white (1column)"
+msgstr "Lapos fehér (1 oszlop)"
+
+msgid "Float"
+msgstr "Úszó"
+
+msgid "float of the filter form in the text content"
+msgstr "a szűrőforma lebegtetése a szövegtartalomban"
+
+msgid "For developers HUSKY has power bunch of functionality"
+msgstr "A fejlesztők számára a HUSKY számos funkcióval rendelkezik"
+
+msgid "For external cron use the next link"
+msgstr "Külső cron esetén használja a következő hivatkozást"
+
+msgid "For the beginners there is videos are prepared"
+msgstr "A kezdőknek videók készülnek"
+
+msgid "Forbidden"
+msgstr "tiltott"
+
+msgid "Forcing disabling of functionality"
+msgstr "Funkciók kényszerített letiltása"
+
+msgid "Form AJAX redrawing"
+msgstr "Űrlap AJAX újrarajzolása"
+
+msgid "From"
+msgstr "Tól től"
+
+msgid "from"
+msgstr "ból ből"
+
+msgid "from %s %s to %s %s"
+msgstr "%s %s-től %s %s-ig"
+
+msgid "from: %s"
+msgstr "feladó: %s"
+
+msgid "Full - DD, d MM, yy"
+msgstr "Teljes - NN, n MM, yy"
+
+msgid "full version of the plugin"
+msgstr "a bővítmény teljes verziója"
+
+msgid "gallery of custom-element types"
+msgstr "egyéni elemtípusok galériája"
+
+msgid "Generate attributes for shortcode [woof]"
+msgstr "Attribútumok generálása a [woof] rövid kódhoz"
+
+msgid "Generate data for export"
+msgstr "Adatok generálása az exportáláshoz"
+
+msgid "Generate shortcode"
+msgstr "Rövid kód generálása"
+
+msgid "Generate your own custom filter by shortcode %s"
+msgstr "Hozzon létre saját egyéni szűrőt a %s rövid kóddal"
+
+msgid "Get"
+msgstr "Pasas"
+
+msgid "Get keys from any product by its ID"
+msgstr "Kaphat kulcsokat bármely terméktől az azonosítója alapján"
+
+msgid "getting of operative tables ..."
+msgstr "operatív asztalok beszerzése..."
+
+msgid "getting the data from the table"
+msgstr "lekérni az adatokat a táblázatból"
+
+msgid "Give Feedback"
+msgstr "Adj visszajelzést"
+
+msgid "Global visibility"
+msgstr "Globális láthatóság"
+
+msgid "Go Pro!"
+msgstr "Szakmai!"
+
+msgid "good to use in content areas"
+msgstr "tartalmi területeken jól használható"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "H1 title"
+msgstr "H1 cím"
+
+msgid "Height"
+msgstr "Magasság"
+
+msgid "Height of the drop-down of the opened active panel."
+msgstr "A megnyitott aktív panel legördülő menüjének magassága."
+
+msgid "Hi! Are you enjoying using HUSKY - Products Filter for WooCommerce?"
+msgstr "Szia! Élvezed a HUSKY - Products Filter for WooCommerce használatát?"
+
+msgid "Hide"
+msgstr "elrejt"
+
+msgid "Hide auto filter by default"
+msgstr "Az automatikus szűrő elrejtése alapértelmezés szerint"
+
+msgid "Hide childs in checkboxes and radio"
+msgstr "Gyermekek elrejtése a jelölőnégyzetekben és a rádióban"
+
+msgid "Hide empty terms"
+msgstr "Üres kifejezések elrejtése"
+
+msgid "Hide empty terms in \"Dynamic recount\" mode"
+msgstr "Üres kifejezések elrejtése \"Dinamikus újraszámlálás\" módban"
+
+msgid "hide products filter"
+msgstr "termékek szűrő elrejtése"
+
+msgid "Hide search form by default and show one button instead"
+msgstr ""
+"Alapértelmezés szerint elrejti a keresési űrlapot, és helyette egy gombot "
+"jelenít meg"
+
+msgid "Hide terms count text"
+msgstr "Kifejezések számának elrejtése"
+
+msgid "Hide woof top panel buttons"
+msgstr "A woof felső panel gombjainak elrejtése"
+
+msgid "Hides the text with the count of variants"
+msgstr "Elrejti a szöveget a változatok számával"
+
+msgid "Hierarchy drop-down"
+msgstr "Hierarchia legördülő menü"
+
+msgid "Home"
+msgstr "FŐOLDAL"
+
+msgid "Host"
+msgstr "Házigazda"
+
+msgid "hourly"
+msgstr "óránként"
+
+msgid "Hover"
+msgstr "lebeg"
+
+msgid "Hover border color"
+msgstr "Mutasson rá szegélyszínre"
+
+msgid "Hover border width"
+msgstr "Mutasson rá a szegélyre"
+
+msgid "Hover color"
+msgstr "Lebegő szín"
+
+msgid "Hover image"
+msgstr "Mutató kép"
+
+msgid "Hover scale"
+msgstr "Lebegő skála"
+
+msgid "Hover text color"
+msgstr "Mutasson rá a szöveg színére"
+
+msgid "How long user will get emails after subscription"
+msgstr "Mennyi ideig kap a felhasználó e-maileket az előfizetés után"
+
+msgid "How many show products in the autocomplete list"
+msgstr "Hány termék jelenik meg az automatikus kiegészítési listában"
+
+msgid "How often assemble data file"
+msgstr "Milyen gyakran állítsa össze az adatfájlt"
+
+msgid "How often update products data file"
+msgstr "Milyen gyakran frissíti a termékek adatfájlját"
+
+msgid "How to assemble statistic"
+msgstr "Hogyan állítsunk össze statisztikát"
+
+msgid "How to create custom taxonomies for the products"
+msgstr "Hogyan készítsünk egyedi taxonómiákat a termékekhez"
+
+msgid "How to display search by author filter section"
+msgstr "A szerző szerinti keresési szakasz megjelenítése"
+
+msgid "How to display this filter-element on the site frontend"
+msgstr "Hogyan jeleníthető meg ez a szűrőelem a webhely kezelőfelületén"
+
+msgid "How to filter woocommerce products by meta data"
+msgstr "A woocommerce termékek szűrése metaadatok alapján"
+
+msgid "How to make HUSKY more SEO friendly"
+msgstr "Hogyan tegyük a HUSKY-t SEO-barátabbá"
+
+msgid "How to manipulate by CSS if search is going"
+msgstr "Hogyan lehet CSS-sel manipulálni, ha megy a keresés"
+
+msgid "How to open links with posts in suggestion"
+msgstr ""
+"Hogyan lehet megnyitni a javaslatban lévő bejegyzéseket tartalmazó "
+"hivatkozásokat"
+
+msgid "How to show"
+msgstr "Hogyan kell megmutatni"
+
+msgid "How to show or hide widget only on selected site pages"
+msgstr ""
+"A widget megjelenítése vagy elrejtése csak a webhely kiválasztott oldalain"
+
+msgid "how to show slideout popup after page loaded: opened or closed"
+msgstr ""
+"hogyan jelenítse meg a kicsúsztatható előugró ablakot az oldal betöltése "
+"után: megnyitva vagy bezárva"
+
+msgid "How to show: checkbox or switcher"
+msgstr "Megjelenítés: jelölőnégyzet vagy váltó"
+
+msgid "How to sort terms inside of filter block"
+msgstr "A kifejezések rendezése a szűrőblokkon belül"
+
+msgid "https://pluginus.net/"
+msgstr "https://pluginus.net/"
+
+msgid "https://products-filter.com/"
+msgstr "https://products-filter.com/"
+
+msgid "HUSKY - Products Filter Professional for WooCommerce"
+msgstr "HUSKY – Professzionális termékszűrő a WooCommerce számára"
+
+msgid "HUSKY Filter"
+msgstr "HUSKY szűrő"
+
+msgid "HUSKY Filter Elements Constructor"
+msgstr "HUSKY Filter Elements Constructor"
+
+msgid "HUSKY FULL VERSION"
+msgstr "HUSKY TELJES VERZIÓ"
+
+msgid "HUSKY settings saving ..."
+msgstr "HUSKY beállítások mentése..."
+
+msgid "HUSKY Support"
+msgstr "HUSKY támogatás"
+
+msgid "HUSKY support forum"
+msgstr "HUSKY támogatási fórum"
+
+msgid "I already did"
+msgstr "Már megtettem"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "If you have questions check please already prepared answers"
+msgstr "Ha kérdése van, ellenőrizze a már elkészített válaszokat"
+
+msgid "If you want to Unsubscribe from this newsletter"
+msgstr "Ha le szeretne iratkozni erről a hírlevélről"
+
+msgid "Image"
+msgstr "Kép"
+
+msgid "Image for block more/less [opened]"
+msgstr "Kép több/kevesebb blokkhoz [nyitva]"
+
+msgid "Image for block more/less closed"
+msgstr "Kép több/kevésbé zárt blokkhoz"
+
+msgid "Image for block toggle [opened]"
+msgstr "Kép a blokkváltóhoz [nyitva]"
+
+msgid "Image for block toggle closed"
+msgstr "Kép a blokk bezárásához"
+
+msgid "Image for close button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"A bezárás gomb képe mobil mód aktiválásakor. A letiltáshoz állítsa a -1-et."
+
+msgid "Image for closed state"
+msgstr "Kép zárt állapothoz"
+
+msgid "Image for mobile filter button"
+msgstr "Kép a mobilszűrő gombhoz"
+
+msgid "Image for opened state"
+msgstr "Kép megnyitott állapothoz"
+
+msgid "Image for subcategories close"
+msgstr "Kép az alkategóriákhoz közel"
+
+msgid "Image for subcategories open"
+msgstr "Az alkategóriák képe megnyitva"
+
+msgid "Image of button when activated mobile mode. Set -1 to disable."
+msgstr "A gomb képe mobil mód aktiválásakor. A letiltáshoz állítsa a -1-et."
+
+msgid "Image to close mobile filter"
+msgstr "Kép a mobilszűrő bezárásához"
+
+msgid "Image which displayed for tooltip"
+msgstr "Kép, amely elemleírásként jelenik meg"
+
+msgid "Images"
+msgstr "képek"
+
+msgid "Import"
+msgstr "import"
+
+msgid "Import data"
+msgstr "Adatok importálása"
+
+msgid "Import new preset code"
+msgstr "Új előre beállított kód importálása"
+
+msgid "Import placed data"
+msgstr "Elhelyezett adatok importálása"
+
+msgid "In FREE version it is possible to operate by 2 meta fields only!"
+msgstr "INGYENES verzióban csak 2 meta mezővel lehet működni!"
+
+msgid "In FREE version it is possible to operate with 2 rules only!"
+msgstr "Az INGYENES verzióban csak 2 szabállyal lehet működni!"
+
+msgid "In stock"
+msgstr "Raktáron"
+
+msgid "In the same window (_self) or in the new one (_blank)"
+msgstr "Ugyanabban az ablakban (_self) vagy az újban (_üres)"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "info"
+msgstr "info"
+
+msgid "Init plugin on the next site pages only"
+msgstr "Init beépülő modul csak a webhely következő oldalain"
+
+msgid "Init sections"
+msgstr "Init szakaszok"
+
+msgid "Init sections by default"
+msgstr "Init szakaszok alapértelmezés szerint"
+
+msgid "Initial Video"
+msgstr "Kezdeti videó"
+
+msgid "Install"
+msgstr "felszerel"
+
+msgid "Install Now"
+msgstr "Telepítés most"
+
+msgid "Ion Range slider"
+msgstr "Ion Range csúszka"
+
+msgid "Ion Range slider skin"
+msgstr "Ion Range slider skin"
+
+msgid "Ion Range slider step"
+msgstr "Ion Range csúszka lépés"
+
+msgid "Ion Range slider Taxes"
+msgstr "Iontartomány csúszka Adók"
+
+msgid "Ion Range slider text inputs"
+msgstr "Ion Range csúszka szövegbevitel"
+
+msgid "Is AJAX"
+msgstr "Az AJAX"
+
+msgid "is search form for should be hidden or shown after page loaded"
+msgstr ""
+"A keresési űrlapot el kell rejteni, vagy az oldal betöltése után meg kell "
+"jeleníteni"
+
+msgid "ISO 8601 - yy-mm-dd"
+msgstr "ISO 8601 – éé-hh-nn"
+
+msgid "It is possible to select a unique slider design for each meta field"
+msgstr "Minden metamezőhöz egyedi csúszka kialakítás választható"
+
+msgid "It will be counted in the filter (only for ion-slider)"
+msgstr "Beszámításra kerül a szűrőben (csak ion-csúszka esetén)"
+
+msgid "It will be counted in the filter( Only for ion-slider )"
+msgstr "Beszámításra kerül a szűrőben (csak ion-csúszka esetén)"
+
+msgid "Its not possible to create file: %s"
+msgstr "Nem lehet létrehozni a következő fájlt: %s"
+
+msgid "Its not possible to create folder: %s"
+msgstr "Nem lehet létrehozni egy mappát: %s"
+
+msgid "JavaScript code after AJAX is done"
+msgstr "JavaScript kód az AJAX befejezése után"
+
+msgid "Label"
+msgstr "Címke"
+
+msgid "Later"
+msgstr "Később"
+
+msgid "Layout"
+msgstr "elrendezés"
+
+msgid "Leave it empty if you not need it."
+msgstr "Ha nincs rá szüksége, hagyja üresen."
+
+msgid "Leave it empty if you not need this"
+msgstr "Ha nincs rá szüksége, hagyja üresen"
+
+msgid "leave it empty to see all terms"
+msgstr "hagyja üresen az összes kifejezés megtekintéséhez"
+
+msgid "leave it empty to show all terms"
+msgstr "hagyja üresen az összes kifejezés megjelenítéséhez"
+
+msgid "leave it empty to use native taxonomy name"
+msgstr "hagyja üresen a natív taxonómianév használatához"
+
+msgid "Left"
+msgstr "Bal"
+
+msgid "left"
+msgstr "balra"
+
+msgid "Lets checked terms will be on the top"
+msgstr "A bejelölt kifejezések felül lesznek"
+
+msgid "LIKE"
+msgstr "HASONLÓ"
+
+msgid "LIKE or Exact match"
+msgstr "LIKE vagy Pontos egyezés"
+
+msgid "Links to posts in suggestion"
+msgstr "A javaslatban található bejegyzésekre mutató hivatkozások"
+
+msgid "Listen catalog visibility"
+msgstr "Hallgassa meg a katalógus láthatóságát"
+
+msgid "Loaded!"
+msgstr "Töltött!"
+
+msgid "Loading"
+msgstr "Rakodás"
+
+msgid "Loading ..."
+msgstr "Betöltés ..."
+
+msgid "Loading balls - SVG"
+msgstr "Labdák betöltése - SVG"
+
+msgid "Loading bars - SVG"
+msgstr "Betöltési sávok - SVG"
+
+msgid "Loading bubbles - SVG"
+msgstr "Buborékok betöltése - SVG"
+
+msgid "Loading cubes - SVG"
+msgstr "Kockák betöltése - SVG"
+
+msgid "Loading cyclone - SVG"
+msgstr "Ciklon betöltése - SVG"
+
+msgid "Loading spin - SVG"
+msgstr "Pörgetés betöltése - SVG"
+
+msgid "Loading spinning bubbles - SVG"
+msgstr "Forgó buborékok betöltése - SVG"
+
+msgid "Loading spokes - SVG"
+msgstr "Küllők betöltése - SVG"
+
+msgid "Loading word"
+msgstr "Szó betöltése"
+
+msgid "Logic of filtering"
+msgstr "A szűrés logikája"
+
+msgid "Looks like its not the HUSKY extension here %s!"
+msgstr "Úgy tűnik, ez nem a HUSKY kiterjesztés itt %s!"
+
+msgid "Looks like troubles with JavaScript!"
+msgstr "Úgy tűnik, hogy problémák vannak a JavaScripttel!"
+
+msgid "Make filtering"
+msgstr "Végezzen szűrést"
+
+msgid "Margin bottom"
+msgstr "Margó alsó"
+
+msgid "Margin right"
+msgstr "Margó jobbra"
+
+msgid "Margint bottom"
+msgstr "Margó alsó"
+
+msgid "Margint left"
+msgstr "Margó maradt"
+
+msgid "Margint right"
+msgstr "Jobb oldali margó"
+
+msgid "Margint top"
+msgstr "Margó felső"
+
+msgid "Max deep of the search request"
+msgstr "Maximum a keresési kérelem mélyére"
+
+msgid "Max drop-down height"
+msgstr "Maximális lehajtható magasság"
+
+msgid "Max height of the block"
+msgstr "A blokk maximális magassága"
+
+msgid "Max price"
+msgstr "Max év"
+
+msgid "max price"
+msgstr "max év"
+
+msgid "Max requests per unique user"
+msgstr "Maximális kérések egyedi felhasználónként"
+
+msgid "Max saved queries per user"
+msgstr "Maximum mentett lekérdezések felhasználónként"
+
+msgid "Max subscriptions per user"
+msgstr "Max előfizetés felhasználónként"
+
+msgid "Max terms or taxonomies per graph"
+msgstr "Maximális kifejezések vagy taxonómiák grafikononként"
+
+msgid "Maximum number of emails per one subscribed user. -1 means no limit."
+msgstr ""
+"Egy feliratkozott felhasználóra jutó e-mailek maximális száma. -1 azt "
+"jelenti, hogy nincs határ."
+
+msgid "Maximum number of subscriptions for a single registered user."
+msgstr "Egy regisztrált felhasználóhoz tartozó előfizetések maximális száma."
+
+msgid "Medium - d MM, y"
+msgstr "Közepes – d MM, y"
+
+msgid "menu order"
+msgstr "menü sorrendje"
+
+msgid "Meta Data"
+msgstr "Meta adatok"
+
+msgid "Meta description"
+msgstr "Meta leírás"
+
+msgid "Meta Fields"
+msgstr "Meta Fields"
+
+msgid "Meta filter"
+msgstr "Meta szűrő"
+
+msgid "Meta title"
+msgstr "Meta cím"
+
+msgid "Min height"
+msgstr "Min. Magasság"
+
+msgid "Min price"
+msgstr "Min ár"
+
+msgid "min price"
+msgstr "min ár"
+
+msgid "Min rating:"
+msgstr "Minimális értékelés:"
+
+msgid "Min symbols"
+msgstr "Min szimbólumok"
+
+msgid "Min width"
+msgstr "Min szélesség"
+
+msgid "min1"
+msgstr "min1"
+
+msgid "Minimum number of symbols to start searching. By default 3 symbols"
+msgstr ""
+"Minimális számú szimbólum a keresés megkezdéséhez. Alapértelmezés szerint 3 "
+"szimbólum"
+
+msgid "Mobile behavior"
+msgstr "Mobil viselkedés"
+
+msgid "Mobile mode"
+msgstr "Mobil mód"
+
+msgid "monthly"
+msgstr "birtokolni"
+
+msgid "More/less button type"
+msgstr "Több/kevesebb gomb típusa"
+
+msgid "Multi Drop-down"
+msgstr "Több legördülő menü"
+
+msgid "My query"
+msgstr "Az én kérdésem"
+
+msgid "Native"
+msgstr "Bennszülött"
+
+msgid "new"
+msgstr "új"
+
+msgid "New element"
+msgstr "Új elem"
+
+msgid "New products"
+msgstr "Új termékek"
+
+msgid "New Products by your request"
+msgstr "Új termékek igény szerint"
+
+msgid "New section"
+msgstr "Új szakasz"
+
+msgid "new window"
+msgstr "új ablakba"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "No data"
+msgstr "Nincs adat"
+
+msgid "No data for the selected time period!"
+msgstr "Nincs adat a kiválasztott időszakra vonatkozóan!"
+
+msgid "No data to import!"
+msgstr "Nincs importálandó adat!"
+
+msgid "No items"
+msgstr "Nincsenek tárgyak"
+
+msgid "No limit"
+msgstr "Határ nélül"
+
+msgid "No products found"
+msgstr "Nincs termék"
+
+msgid "No thanks"
+msgstr "Köszönöm nem"
+
+msgid "None"
+msgstr "Egyik sem"
+
+msgid "none"
+msgstr "egyik sem"
+
+msgid "Nope, maybe later"
+msgstr "Nem, talán később"
+
+msgid "Not has effect in free version!"
+msgstr "Ingyenes verzióban nincs hatása!"
+
+msgid "NOT IN"
+msgstr "NEM BENT"
+
+msgid "Not really..."
+msgstr "Nem igazán..."
+
+msgid "Not toggled terms count"
+msgstr "A nem váltott kifejezések számítanak"
+
+msgid "Notes for customer"
+msgstr "Megjegyzések az ügyfelek számára"
+
+msgid "Nothing found!"
+msgstr "Semmi nem található!"
+
+msgid "Notice"
+msgstr "Közlemény"
+
+msgid "Notice! Add options in the plugin settings->Meta filter"
+msgstr "Értesítés! Adjon hozzá opciókat a bővítmény beállításai->Metaszűrőben"
+
+msgid "Notice:"
+msgstr "Megjegyzés:"
+
+msgid "number"
+msgstr "szám"
+
+msgid "Number of products per one block on the search drop-down"
+msgstr "Termékek száma blokkonként a keresés legördülő menüben"
+
+msgid "Number of words in the description"
+msgstr "Szavak száma a leírásban"
+
+msgid "Numeric"
+msgstr "Numerikus"
+
+msgid "Numeric."
+msgstr "Numerikus."
+
+msgid "Offset"
+msgstr "Eltolt"
+
+msgid "Okay, you deserve it"
+msgstr "Oké, megérdemled"
+
+msgid "On sale"
+msgstr "Eladó"
+
+msgid "One month"
+msgstr "Egy hónap"
+
+msgid "One week"
+msgstr "Egy hét"
+
+msgid "Open filter"
+msgstr "Nyissa meg a szűrőt"
+
+msgid "operative tables are prepared"
+msgstr "operatív táblázatok készülnek"
+
+msgid "Optimize loading of HUSKY JavaScript files"
+msgstr "Optimalizálja a HUSKY JavaScript fájlok betöltését"
+
+msgid "Optimize price filter"
+msgstr "Árszűrő optimalizálása"
+
+msgid "Option"
+msgstr "választási lehetőség"
+
+msgid "Options"
+msgstr "Opciók"
+
+msgid "OR"
+msgstr "VAGY"
+
+msgid "Order dropdown css selector"
+msgstr "Rendelés legördülő css választó"
+
+msgid "orderby"
+msgstr "Rendezés"
+
+msgid "Overlay image background"
+msgstr "Overlay kép háttér"
+
+msgid "Overlay skins"
+msgstr "Overlay skinek"
+
+msgid "Override no products found content"
+msgstr "A nem található termékek tartalom felülbírálása"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Per page"
+msgstr "Oldalanként"
+
+msgid "per page"
+msgstr "oldalanként"
+
+msgid "Per page css selector"
+msgstr "Oldalankénti css választó"
+
+msgid "Permalinks should be enabled!"
+msgstr "Az állandó hivatkozásokat engedélyezni kell!"
+
+msgid "Placeholder"
+msgstr "Helykitöltő"
+
+msgid "Placeholder text"
+msgstr "Helyőrző szöveg"
+
+msgid "Plainoverlay - CSS"
+msgstr "Plainoverlay - CSS"
+
+msgid "Plainoverlay color"
+msgstr "Sima overlay szín"
+
+msgid "Please fill the title field."
+msgstr "Kérjük, töltse ki a cím mezőt."
+
+msgid "Please read documents"
+msgstr "Kérjük, olvassa el a dokumentumokat"
+
+msgid "Please update database:"
+msgstr "Kérjük frissítse az adatbázist:"
+
+msgid "popularity"
+msgstr "népszerűség"
+
+msgid "popup animation speed in (ms)"
+msgstr "előugró animáció sebessége (ms)"
+
+msgid "Position"
+msgstr "pozíció"
+
+msgid "Possible keys"
+msgstr "Lehetséges kulcsok"
+
+msgid "Postfix"
+msgstr "utáni javítás"
+
+msgid "Postfix for slider slides"
+msgstr "Postfix a csúszka diák"
+
+msgid "predifined step"
+msgstr "előre meghatározott lépés"
+
+msgid "Prefix"
+msgstr "előtag"
+
+msgid "Prefix for slider slides"
+msgstr "Előtag a csúszka diákhoz"
+
+msgid "premium version of the plugin"
+msgstr "a bővítmény prémium verziója"
+
+msgid "Preset code (copy to share)"
+msgstr "Előre beállított kód (másolás a megosztáshoz)"
+
+msgid "Presets"
+msgstr "Előbeállítások"
+
+msgid "Prev"
+msgstr "Előző"
+
+msgid "Price"
+msgstr "Év"
+
+msgid "Price - from %s to %s"
+msgstr "Ár - %s-től %s-ig"
+
+msgid "Price filter"
+msgstr "Árszűrő"
+
+msgid "Price from"
+msgstr "Ár-tól"
+
+msgid "price high to low"
+msgstr "magastól alacsonyig"
+
+msgid "price low to high"
+msgstr "ár alacsonytól magasig"
+
+msgid "price range"
+msgstr "árkategória"
+
+msgid "Price to"
+msgstr "Ár a"
+
+msgid "Price- %s"
+msgstr "Ár- %s"
+
+msgid "Price:"
+msgstr "Év:"
+
+msgid "Priority of limitations"
+msgstr "A korlátozások elsőbbsége"
+
+msgid "Product not found"
+msgstr "A termék nem található"
+
+msgid "Products and Variants"
+msgstr "Termékek és változatok"
+
+msgid "Products assembling period in data file for quick search."
+msgstr "Termékösszeállítási időszak adatfájlban a gyors kereséshez."
+
+msgid "Products Filter"
+msgstr "Termék szűrő"
+
+msgid "Products Filter for WooCommerce by realmag777"
+msgstr "Termékszűrő a WooCommerce számára, realmag777"
+
+msgid "Products Messenger"
+msgstr "Termékek Messenger"
+
+msgid "Products not found!"
+msgstr "A termékek nem találhatók!"
+
+msgid "Products per page"
+msgstr "Termékek oldalanként"
+
+msgid "px"
+msgstr "px"
+
+msgid "Quick search"
+msgstr "Gyors keresés"
+
+msgid "Radio"
+msgstr "rádió"
+
+msgid "Radio and Checkbox skin"
+msgstr "Rádió és Checkbox bőr"
+
+msgid "Radio and checkboxes skin"
+msgstr "Rádió és jelölőnégyzetek bőre"
+
+msgid "Radio/Checkbox in drop-down"
+msgstr "Rádió/Checkbox a legördülő menüben"
+
+msgid "Range"
+msgstr "Választék"
+
+msgid "Range step"
+msgstr "Tartomány lépés"
+
+msgid "Range-slider skin"
+msgstr "Range-slider bőr"
+
+msgid "Ranges for price filter."
+msgstr "Az árszűrő tartományai."
+
+msgid "Rating"
+msgstr "Értékelés"
+
+msgid "rating"
+msgstr "értékelés"
+
+msgid "realmag777"
+msgstr "realmag777"
+
+msgid "Reassemble data file"
+msgstr "Állítsa össze újra az adatfájlt"
+
+msgid "Reassemble data file for quick search manually now"
+msgstr "Állítsa össze újra az adatfájlt a gyors kereséshez manuálisan most"
+
+msgid "Reassemble products data now!"
+msgstr "Gyűjtsd össze újra a termékadatokat most!"
+
+msgid "Recommended plugins for your site flexibility and features"
+msgstr ""
+"Ajánlott beépülő modulok a webhely rugalmassága és szolgáltatásai érdekében"
+
+msgid "Red buttons on the top of the shop page when searching done"
+msgstr "Piros gombok a bolt oldalának tetején, amikor a keresés kész"
+
+msgid "Redirect"
+msgstr "Átirányítás"
+
+msgid "Redirect to"
+msgstr "Átirányítás a következőre:"
+
+msgid "redrawn"
+msgstr "rajzolni"
+
+msgid "remove extension"
+msgstr "távolítsa el a kiterjesztést"
+
+msgid "Reset"
+msgstr "vissza"
+
+msgid "Reset button text"
+msgstr "Reset gomb szövege"
+
+msgid "Reset items order"
+msgstr "Tételsorrend visszaállítása"
+
+msgid "Result count css selector"
+msgstr "Eredményszámláló css választó"
+
+msgid "Reverse"
+msgstr "Fordított"
+
+msgid "Reverse: deactivate plugin on the next site pages only"
+msgstr "Fordítva: csak a következő oldalakon kapcsolja ki a bővítményt"
+
+msgid "Right"
+msgstr "Jobb"
+
+msgid "right"
+msgstr "jobb"
+
+msgid "Role"
+msgstr "Szerep"
+
+msgid "Rules"
+msgstr "Szabályok"
+
+msgid "Save current search query"
+msgstr "Az aktuális keresési lekérdezés mentése"
+
+msgid "Save search query"
+msgstr "Keresési lekérdezés mentése"
+
+msgid "Saved"
+msgstr "Mentett"
+
+msgid "Saving"
+msgstr "Megtakarítás"
+
+msgid "Search by Author"
+msgstr "Szerző szerinti keresés"
+
+msgid "Search by content"
+msgstr "Keresés tartalom szerint"
+
+msgid "Search by content OR excerpt"
+msgstr "Keresés tartalom VAGY kivonat szerint"
+
+msgid "Search by description in product variations"
+msgstr "Keresés leírás alapján a termékváltozatokban"
+
+msgid "Search by description in variations"
+msgstr "Keresés leírás alapján változatokban"
+
+msgid "Search by exact value OR if meta key exists"
+msgstr "Keresés pontos érték alapján VAGY ha létezik metakulcs"
+
+msgid "Search by excerpt"
+msgstr "Keresés kivonat alapján"
+
+msgid "Search by full word only"
+msgstr "Keresés csak teljes szó alapján"
+
+msgid "Search by InStock"
+msgstr "Keresés az InStock alapján"
+
+msgid "Search by Price"
+msgstr "Keresés ár szerint"
+
+msgid "Search by rating"
+msgstr "Keresés értékelés alapján"
+
+msgid "Search by SKU"
+msgstr "Keresés SKU szerint"
+
+msgid "Search by Text"
+msgstr "Keresés szöveg szerint"
+
+msgid "Search by text"
+msgstr "Keresés szöveg szerint"
+
+msgid "Search by title"
+msgstr "Keresés cím szerint"
+
+msgid "Search by title AND content"
+msgstr "Keresés cím és tartalom szerint"
+
+msgid "Search by title OR content"
+msgstr "Keresés cím VAGY tartalom szerint"
+
+msgid "Search by title OR content OR excerpt"
+msgstr "Keresés cím VAGY tartalom VAGY kivonat alapján"
+
+msgid "Search in products and their variations"
+msgstr "Keresés a termékek és változataik között"
+
+msgid "Search in variable produts"
+msgstr "Keresés a változó termékek között"
+
+msgid "Search option"
+msgstr "Keresési lehetőség"
+
+msgid "Search slug"
+msgstr "Csigát keresni"
+
+msgid "Search value"
+msgstr "Keresési érték"
+
+msgid "Search value (for not numeric)"
+msgstr "Keresési érték (nem numerikus)"
+
+msgid "Searching is slow OR the plugin make page loading slow"
+msgstr "A keresés lassú VAGY a beépülő modul lelassítja az oldal betöltését"
+
+msgid "Secret key for external cron"
+msgstr "Titkos kulcs a külső cronhoz"
+
+msgid "Section Options"
+msgstr "Szakasz opciók"
+
+msgid "Section options"
+msgstr "Szakasz opciók"
+
+msgid "Section width"
+msgstr "Szakaszszélesség"
+
+msgid "Sections"
+msgstr "Szekciók"
+
+msgid "Sections behavior"
+msgstr "A szakaszok viselkedése"
+
+msgid "See more new products..."
+msgstr "További új termékek megtekintése..."
+
+msgid "Select a product author"
+msgstr "Válasszon ki egy termék szerzőt"
+
+msgid "Select acceptable for your hosting type of cron"
+msgstr "Válassza ki a cron tárhelytípusának megfelelőt"
+
+msgid "Select date range for statistic!"
+msgstr "Válassza ki a dátumtartományt a statisztikákhoz!"
+
+msgid "Select Image"
+msgstr "Válassza a Kép lehetőséget"
+
+msgid "Select image"
+msgstr "Kép kiválasztása"
+
+msgid "select image"
+msgstr "válasszon képet"
+
+msgid "Select image for term"
+msgstr "Válasszon képet a kifejezéshez"
+
+msgid "Select period:"
+msgstr "Időszak kiválasztása:"
+
+msgid "Select taxonomies and meta keys which you want to track"
+msgstr "Válassza ki a követni kívánt taxonómiákat és metakulcsokat"
+
+msgid "Select taxonomies in tab Options and press \"Save changes\""
+msgstr ""
+"Válassza ki a taxonómiákat az Opciók lapon, majd nyomja meg a \"Módosítások "
+"mentése\" gombot."
+
+msgid "Select the time period for which you want to see statistical data"
+msgstr ""
+"Válassza ki azt az időszakot, amelyre vonatkozóan statisztikai adatokat "
+"szeretne látni"
+
+msgid "Selected border color"
+msgstr "Kiválasztott szegélyszín"
+
+msgid "Selected border width"
+msgstr "Kiválasztott szegélyszélesség"
+
+msgid "Selected color"
+msgstr "Kiválasztott szín"
+
+msgid "Selected image"
+msgstr "Kiválasztott kép"
+
+msgid "Selected scale"
+msgstr "Kiválasztott skála"
+
+msgid "Selected SD element is not correct!"
+msgstr "A kiválasztott SD elem nem megfelelő!"
+
+msgid "Selected text color"
+msgstr "Kiválasztott szövegszín"
+
+msgid "Selected/Hovered Terms"
+msgstr "Kiválasztott/lebegtetett feltételek"
+
+msgid "SelectWoo"
+msgstr "SelectWoo"
+
+msgid "SEO text"
+msgstr "SEO szöveg"
+
+msgid "SEO URL request"
+msgstr "SEO URL kérés"
+
+msgid "Server options for statistic stock"
+msgstr "Szerveropciók statisztikai állományhoz"
+
+msgid "Set \"none\" to disable placeholder for this textinput"
+msgstr ""
+"Állítsa be a \"none\" beállítást a helyőrző letiltásához ennél a "
+"szövegbevitelnél"
+
+msgid "Set filter automatically"
+msgstr "Szűrő automatikus beállítása"
+
+msgid "Set filter automatically on the shop page"
+msgstr "Állítsa be a szűrőt automatikusan az üzlet oldalán"
+
+msgid "Set terms color/image"
+msgstr "Állítsa be a szín/kép kifejezéseket"
+
+msgid "Settings"
+msgstr "beállítások"
+
+msgid "Settings imported successfully. Reload the page please."
+msgstr "A beállítások sikeresen importálva. Kérlek töltsd fel újra az oldalt."
+
+msgid "Short - d M, y"
+msgstr "Rövid - d M, y"
+
+msgid "Shortcode"
+msgstr "Rövid kód"
+
+msgid "Should the slideout button be visible on mobile devices"
+msgstr "A kicsúsztatható gombnak láthatónak kell lennie a mobileszközökön"
+
+msgid "Show"
+msgstr "Előadás"
+
+msgid "Show stars in drop-down"
+msgstr "Csillagok megjelenítése a legördülő menüben"
+
+msgid "show blocks helper"
+msgstr "mutatják helper blokkok"
+
+msgid "Show blocks helper button"
+msgstr "Blokkok segítő gomb megjelenítése"
+
+msgid "Show button for woo range-slider"
+msgstr "A woo tartománycsúszka gomb megjelenítése"
+
+msgid "Show count"
+msgstr "Számlálás megjelenítése"
+
+msgid "Show count inside tooltip"
+msgstr "Szám megjelenítése az elemleírásban"
+
+msgid "Show count of items near taxonomies terms on the front"
+msgstr ""
+"A taxonómiai kifejezések közelében lévő elemek számának megjelenítése az "
+"elején"
+
+msgid "Show counter"
+msgstr "Számláló megjelenítése"
+
+msgid "Show Featured products checkbox inside HUSKY search form"
+msgstr ""
+"A Kiemelt termékek jelölőnégyzet megjelenítése a HUSKY keresési űrlapon belül"
+
+msgid "Show found variants in drop-down list"
+msgstr "A talált változatok megjelenítése a legördülő listában"
+
+msgid "Show image of variation"
+msgstr "A változat képének megjelenítése"
+
+msgid "Show In stock only checkbox inside woof search form"
+msgstr "Show Csak raktáron jelölőnégyzet a woof keresési űrlapon belül"
+
+msgid "Show inputs"
+msgstr "Bemenetek megjelenítése"
+
+msgid "Show less"
+msgstr "kevesebb"
+
+msgid "Show more"
+msgstr "Mutass többet"
+
+msgid "Show notice"
+msgstr "Értesítés megjelenítése"
+
+msgid "Show notice on product page"
+msgstr "Megjegyzés megjelenítése a termékoldalon"
+
+msgid "Show on all devices"
+msgstr "Megjelenítés minden eszközön"
+
+msgid "Show On sale only checkbox inside woof search form"
+msgstr "Csak akciós jelölőnégyzet megjelenítése a woof keresési űrlapon belül"
+
+msgid "Show only on desktop"
+msgstr "Csak asztali számítógépen jelenjen meg"
+
+msgid "Show only on mobile"
+msgstr "Megjelenítés csak mobilon"
+
+msgid "Show price text inputs"
+msgstr "Ár szövegbeviteli megjelenítése"
+
+msgid "Show product mesenger box inside woof search form"
+msgstr ""
+"A termék üzenetküldő dobozának megjelenítése a woof keresési űrlapon belül"
+
+msgid "show products filter"
+msgstr "termékszűrő megjelenítése"
+
+msgid "Show products filter form"
+msgstr "Termékszűrő űrlap megjelenítése"
+
+msgid "Show Search by author drop-down inside woof search form"
+msgstr ""
+"A Keresés szerző szerint legördülő menü megjelenítése a woof keresési "
+"űrlapon belül"
+
+msgid "Show subscription button"
+msgstr "Előfizetés gomb megjelenítése"
+
+msgid "Show textinput for searching by products title"
+msgstr "Szövegbevitel megjelenítése a termék címe szerinti kereséshez"
+
+msgid "Show title label"
+msgstr "Címcímke megjelenítése"
+
+msgid "Show title label if possible"
+msgstr "Ha lehetséges, mutasd meg a címcímkét"
+
+msgid "Show toggle button"
+msgstr "Váltógomb megjelenítése"
+
+msgid "Show toggle button for radio"
+msgstr "Rádió kapcsológombjának megjelenítése"
+
+msgid "Show toggle button if possible"
+msgstr "Ha lehetséges, mutasd meg a váltógombot"
+
+msgid "Show tooltip"
+msgstr "Elemleírás megjelenítése"
+
+msgid "Show tooltip in title label. Enter any text."
+msgstr "Elemleírás megjelenítése a címcímkében. Írjon be bármilyen szöveget."
+
+msgid "Show tooltip on hover"
+msgstr "Elemleírás megjelenítése az egérmutatóval"
+
+msgid "Show woocommerce filter by price inside woof search form"
+msgstr ""
+"A woocommerce szűrő megjelenítése ár alapján a woof keresési űrlapon belül"
+
+msgid "Show/Hide ACF block title on the front"
+msgstr "Az ACF blokk címének megjelenítése/elrejtése az előlapon"
+
+msgid "Show/Hide meta block title on the front"
+msgstr "A metablokk címének megjelenítése/elrejtése az elején"
+
+msgid "Show/Hide slideout on shop pages"
+msgstr "Kicsúszás megjelenítése/elrejtése az üzlet oldalain"
+
+msgid "Show/Hide taxonomy block title on the front"
+msgstr "A taxonómia blokk címének megjelenítése/elrejtése az elején"
+
+msgid "Side Padding"
+msgstr "Oldalsó párnázás"
+
+msgid "Side padding"
+msgstr "Oldalsó párnázás"
+
+msgid "Simple products only"
+msgstr "Csak egyszerű termékek"
+
+msgid "Skin for drop-downs in the filter form"
+msgstr "Bőr a legördülő listákhoz a szűrőformában"
+
+msgid "Skin only works for ion slider"
+msgstr "A bőr csak az ioncsúszkánál működik"
+
+msgid "Skins for the auto filter"
+msgstr "Skinek az automatikus szűrőhöz"
+
+msgid "Skins only works for ion slider"
+msgstr "A Skins csak az ioncsúszkánál működik"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Slideout"
+msgstr "Slideout"
+
+msgid "Slideout image"
+msgstr "Kicsúsztatható kép"
+
+msgid "Slideout text"
+msgstr "Kicsúsztatható szöveg"
+
+msgid "Slider"
+msgstr "Csúszka"
+
+msgid "Slider skin"
+msgstr "Csúszó bőr"
+
+msgid "Smart Designer"
+msgstr "Intelligens tervező"
+
+msgid "Smart designer"
+msgstr "Okos tervező"
+
+msgid "Some questions"
+msgstr "Néhány kérdés"
+
+msgid "Somthing wrong!"
+msgstr "Valami baj van!"
+
+msgid "Sorry! This product is not suitable for your search %title%."
+msgstr "Sajnálom! Ez a termék nem alkalmas a %title% keresésre."
+
+msgid "Sort terms"
+msgstr "Rendezési feltételek"
+
+msgid "Sort terms direction"
+msgstr "Rendezési kifejezések iránya"
+
+msgid "Space background color"
+msgstr "Hely háttérszíne"
+
+msgid "Space width"
+msgstr "Tér szélessége"
+
+msgid "Speed"
+msgstr "Sebesség"
+
+msgid "SS"
+msgstr "SS"
+
+msgid "SSS"
+msgstr "SSS"
+
+msgid "SSSS"
+msgstr "SSSSSS"
+
+msgid "SSSSS"
+msgstr "sssss"
+
+msgid "Standard filter types"
+msgstr "Szabványos szűrőtípusok"
+
+msgid "Stars"
+msgstr "Csillag"
+
+msgid "stat is not activated or PDO not inited"
+msgstr "stat nincs aktiválva vagy PDO nincs elindítva"
+
+msgid "State after init"
+msgstr "Állapot az init után"
+
+msgid "Statistic"
+msgstr "Statisztikai"
+
+msgid "Statistic calculation ..."
+msgstr "Statisztikai számítás..."
+
+msgid "Statistic for:"
+msgstr "Statisztikák erre:"
+
+msgid "Statistical parameters:"
+msgstr "Statisztikai paraméterek:"
+
+msgid "Statistics collection:"
+msgstr "Statisztikai gyűjtés:"
+
+msgid "Step"
+msgstr "Lépés"
+
+msgid "Step by step filter"
+msgstr "Lépésről lépésre szűrő"
+
+msgid "string"
+msgstr "húr"
+
+msgid "Structure"
+msgstr "Szerkezet"
+
+msgid "Subject of the email"
+msgstr "Az e-mail tárgya"
+
+msgid "Subject of the email."
+msgstr "Az e-mail tárgya."
+
+msgid "Submit button position"
+msgstr "Gomb pozíciójának elküldése"
+
+msgid "Subscribe"
+msgstr "Feliratkozás"
+
+msgid "Subscribe on the current search request"
+msgstr "Iratkozzon fel az aktuális keresési kérelemre"
+
+msgid "Subscription"
+msgstr "Előfizetés"
+
+msgid "Subscription time"
+msgstr "Előfizetési idő"
+
+msgid "Substrate border radius (px)"
+msgstr "Alapfelület szegély sugara (px)"
+
+msgid "Substrate border width"
+msgstr "Aljzatszegély szélessége"
+
+msgid "Substrate disabled background color"
+msgstr "Az aljzat letiltott háttérszíne"
+
+msgid "Substrate disabled background image"
+msgstr "Szubsztrát letiltott háttérkép"
+
+msgid "Substrate disabled border color"
+msgstr "Az alapfelület letiltott szegélyszíne"
+
+msgid "Substrate enabled background color"
+msgstr "Szubsztrát-engedélyezett háttérszín"
+
+msgid "Substrate enabled background image"
+msgstr "Szubsztrát-kompatibilis háttérkép"
+
+msgid "Substrate enabled border color"
+msgstr "Szubsztrát engedélyezett szegélyszín"
+
+msgid "Substrate height (px)"
+msgstr "Aljzat magassága (px)"
+
+msgid "Substrate width (px)"
+msgstr "Aljzat szélessége (px)"
+
+msgid "Such type doesn exists!"
+msgstr "Ilyen típus nem létezik!"
+
+msgid "Suggest the feature"
+msgstr "Javasolja a funkciót"
+
+msgid "Switcher"
+msgstr "Váltó"
+
+msgid "Tags"
+msgstr "Címkék"
+
+msgid "Tax"
+msgstr "Adó"
+
+msgid "Taxes"
+msgstr "Adók"
+
+msgid "Taxonomy conditionals"
+msgstr "Taxonómia feltételes"
+
+msgid "Taxonomy custom label"
+msgstr "Taxonómia egyéni címke"
+
+msgid "Template"
+msgstr "Szitanyomás"
+
+msgid "Template #1"
+msgstr "1. szitanyomás"
+
+msgid "Template #1 (as checkbox)"
+msgstr "1. sablon (jelölőnégyzetként)"
+
+msgid "Template #1 (list, subcategories)"
+msgstr "1. sablon (lista, alkategóriák)"
+
+msgid "Template #2 (as radio)"
+msgstr "2. sablon (rádióként)"
+
+msgid "Template #2 (tile, no sub-categories)"
+msgstr "2. sablon (csempék, alkategóriák nélkül)"
+
+msgid "Terms"
+msgstr "Szabályzatok"
+
+msgid "Terms color"
+msgstr "Feltételek színe"
+
+msgid "Terms:"
+msgstr "Feltételek:"
+
+msgid "test"
+msgstr "teszt"
+
+msgid "Text"
+msgstr "szöveg"
+
+msgid "Text color"
+msgstr "Szöveg színe"
+
+msgid "Text font family (theme must support)"
+msgstr "Szöveg betűtípus-család (a témát támogatnia kell)"
+
+msgid "Text font size"
+msgstr "Szöveg betűmérete"
+
+msgid "Text font size (px)"
+msgstr "Szöveg betűmérete (px)"
+
+msgid "Text for block more/less closed"
+msgstr "Szöveg a többé/kevésbé zárt blokkhoz"
+
+msgid "Text for block more/less opened"
+msgstr "Több/kevésbé blokk szövege megnyitva"
+
+msgid "Text for block toggle closed"
+msgstr "Szöveg a blokk kapcsoló zárva"
+
+msgid "Text for block toggle opened"
+msgstr "A blokkváltó szövege megnyitva"
+
+msgid "Text for button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"A gomb szövege a mobil mód aktiválásakor. A letiltáshoz állítsa a -1-et."
+
+msgid "Text for close button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"Szöveg a bezárás gombhoz, ha aktiválva van a mobil mód. A letiltáshoz "
+"állítsa a -1-et."
+
+msgid "Text for closed state"
+msgstr "Szöveg a zárt állapothoz"
+
+msgid "Text for mobile filter button"
+msgstr "Szöveg a mobilszűrő gombhoz"
+
+msgid "Text for opened state"
+msgstr "Szöveg a megnyitott állapothoz"
+
+msgid "Text if current product is not suitable for saved searches"
+msgstr "Szövegessen, ha az aktuális termék nem alkalmas a mentett keresésekre"
+
+msgid "Text if current product is suitable for saved searches"
+msgstr "Írja be, ha az aktuális termék alkalmas a mentett keresésekre"
+
+msgid "Text in header of the email."
+msgstr "Szöveg az e-mail fejlécében."
+
+msgid "Text left (px)"
+msgstr "Szöveg balra (px)"
+
+msgid "Text length"
+msgstr "Szöveg hossza"
+
+msgid "Text line height (px)"
+msgstr "Szövegsor magassága (px)"
+
+msgid "Text notes for customer if you need it."
+msgstr "Szöveges megjegyzések az ügyfelek számára, ha szüksége van rá."
+
+msgid "Text of the email"
+msgstr "Az e-mail szövege"
+
+msgid "Text search"
+msgstr "Szöveges keresés"
+
+msgid "Text search also works with taxonomies (attributes, categories, tags)"
+msgstr ""
+"A szöveges keresés taxonómiákkal is működik (attribútumok, kategóriák, "
+"címkék)"
+
+msgid "Text search conditional"
+msgstr "Feltételes szöveges keresés"
+
+msgid "Text to close mobile filter"
+msgstr "Szöveg a mobilszűrő bezárásához"
+
+msgid "Text top"
+msgstr "Szöveg felső"
+
+msgid "Text top (px)"
+msgstr "Szöveg felső (px)"
+
+msgid "Text which displayed instead filter while it is closed if selected."
+msgstr "A helyette megjelenő szöveg szűri, ha be van zárva."
+
+msgid "The maximum height of the drop-down with the results in px."
+msgstr "A legördülő menü maximális magassága az eredményekkel px-ben."
+
+msgid "The number will have a thousands separator"
+msgstr "A szám ezres elválasztójel lesz"
+
+msgid "The placeholder in title field"
+msgstr "Helyőrző a cím mezőben"
+
+msgid "The result is only with the full coincidence of words"
+msgstr "Az eredmény csak a szavak teljes egybeesésével érhető el"
+
+msgid "the same window"
+msgstr "ugyanaz az ablak"
+
+msgid "The submit and reset buttons position in current search form"
+msgstr ""
+"A küldés és visszaállítás gombok pozíciója az aktuális keresési űrlapon"
+
+msgid "The text before the block of subscription block"
+msgstr "Az előfizetés blokkja előtti szöveg"
+
+msgid "The text in the button"
+msgstr "A szöveg a gombban"
+
+msgid "This can speed up in stock searches for variable products."
+msgstr "Ez felgyorsíthatja a változó termékek raktáron történő keresését."
+
+msgid "This enables the AJAX mode."
+msgstr "Ez engedélyezi az AJAX módot."
+
+msgid "this functionality is only visible for the site administrator"
+msgstr "ez a funkció csak a webhely rendszergazdája számára látható"
+
+msgid "This product matches your search %title%."
+msgstr "Ez a termék megfelel a keresésének %title%."
+
+msgid "This works with ionSlider only"
+msgstr "Ez csak az ionSliderrel működik"
+
+msgid "Tickets"
+msgstr "jegyek"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "Title of the email"
+msgstr "Az e-mail címe"
+
+msgid "Title of the Query*"
+msgstr "A lekérdezés címe*"
+
+msgid "Title text"
+msgstr "Cím szövege"
+
+msgid "Title- %s"
+msgstr "Cím- %s"
+
+msgid "To"
+msgstr "Nak nek"
+
+msgid "to"
+msgstr "nak nek"
+
+msgid "To assign color value to terms select appropriate taxonomy here!"
+msgstr ""
+"Ha a kifejezésekhez színértéket szeretne rendelni, válassza ki itt a "
+"megfelelő taxonómiát!"
+
+msgid "to: %s"
+msgstr "címre: %s"
+
+msgid "toggle"
+msgstr "torta"
+
+msgid "Toggle block type"
+msgstr "Blokk típusának váltása"
+
+msgid "Tooltip"
+msgstr "Eszköztipp"
+
+msgid "Tooltip icon"
+msgstr "Eszköztipp ikonra"
+
+msgid "Tooltip if possible"
+msgstr "Eszköztipp, ha lehetséges"
+
+msgid "Tooltip text if necessary"
+msgstr "Szükség esetén elemleírás szövege"
+
+msgid "Top"
+msgstr "felső"
+
+msgid "Top AND Bottom"
+msgstr "Teteje és alja"
+
+msgid "Transition (ms)"
+msgstr "Átmenet (ms)"
+
+msgid "Translations"
+msgstr "Fordítása"
+
+msgid "Try to ajaxify the shop"
+msgstr "Próbáld meg rendbe tenni a boltot"
+
+msgid "Turbo mode"
+msgstr "Turbo mód"
+
+msgid "twicedaily"
+msgstr "Naponta kétszer"
+
+msgid "twicemonthly"
+msgstr "havonta kétszer"
+
+msgid "Two months"
+msgstr "Két hónap"
+
+msgid "Two weeks"
+msgstr "Két hét"
+
+msgid "Type"
+msgstr "típus"
+
+msgid "Unique name should be set for shortcode [woof_front_builder]"
+msgstr "Egyedi nevet kell beállítani a rövid kódhoz [woof_front_builder]"
+
+msgid "unsubscribe"
+msgstr "leiratkozás"
+
+msgid "Update"
+msgstr "Frissítések"
+
+msgid "Update now!"
+msgstr "Frissítse most!"
+
+msgid "Upgrade"
+msgstr "frissítés"
+
+msgid "URL depth"
+msgstr "URL mélysége"
+
+msgid "Url of the custom image for the button"
+msgstr "A gomb egyéni képének URL-je"
+
+msgid "URL of the page"
+msgstr "Az oldal URL-je"
+
+msgid "Use beauty scroll"
+msgstr "Használjon szépségtekercset"
+
+msgid "Use cache"
+msgstr "Gyorsítótár használata"
+
+msgid "Use new DB."
+msgstr "Használjon új DB-t."
+
+msgid "Use prettify"
+msgstr "Használj szépítést"
+
+msgid "Use shortcode [woof_front_builder]"
+msgstr "Használjon rövid kódot [woof_front_builder]"
+
+msgid "Use this for NOT taxonomies filter sections you want to see on the form"
+msgstr ""
+"Használja ezt az űrlapon megjeleníteni kívánt NEM taxonómiák "
+"szűrőszakaszaihoz"
+
+msgid "Use tooltip"
+msgstr "Használja az eszközleírást"
+
+msgid "User"
+msgstr "használó"
+
+msgid "User can save the search query"
+msgstr "A felhasználó elmentheti a keresési lekérdezést"
+
+msgid "Value exists"
+msgstr "Az érték létezik"
+
+msgid "Vertex border radius (%)"
+msgstr "Csúcsszegély sugara (%)"
+
+msgid "Vertex border width"
+msgstr "Csúcsszegély szélessége"
+
+msgid "Vertex disabled background color"
+msgstr "Vertex letiltott háttérszín"
+
+msgid "Vertex disabled background image"
+msgstr "Vertex letiltott háttérkép"
+
+msgid "Vertex disabled border color"
+msgstr "Vertex letiltott szegélyszín"
+
+msgid "Vertex enabled background color"
+msgstr "Vertex-engedélyezett háttérszín"
+
+msgid "Vertex enabled background image"
+msgstr "Vertex-kompatibilis háttérkép"
+
+msgid "Vertex enabled border color"
+msgstr "Vertex engedélyezett szegélyszín"
+
+msgid "Vertex size (px)"
+msgstr "Csúcsméret (px)"
+
+msgid "Vertex top (px)"
+msgstr "Csúcs teteje (px)"
+
+msgid "Video"
+msgstr "Videó"
+
+msgid "Video tutorials"
+msgstr "videó oktatóanyagok"
+
+msgid "View"
+msgstr "Megnézem"
+
+msgid "View of the taxonomies terms on the front"
+msgstr "A taxonómiai kifejezések megtekintése az elején"
+
+msgid "View product"
+msgstr "Termék megtekintése"
+
+msgid "Visibility of block title"
+msgstr "A blokk címének láthatósága"
+
+msgid "Way to show of slideout popup out: click or hover"
+msgstr ""
+"A kicsúsztatható előugró ablak megjelenítésének módja: kattintson vagy vigye "
+"az egérmutatót"
+
+msgid "weekly"
+msgstr "azonnal"
+
+msgid "Weekly recommended"
+msgstr "Heti ajánlott"
+
+msgid "Where to keep products data file"
+msgstr "Hol kell tárolni a termékek adatfájlját"
+
+msgid "Where to show slideout button: right, left, top"
+msgstr "Hol jelenítse meg a kicsúsztatható gombot: jobbra, balra, felül"
+
+msgid "Which users by the selected role to show"
+msgstr "A kiválasztott szerepkör alapján mely felhasználók jelenjenek meg"
+
+msgid "Width and height of the popup html container size in (px)"
+msgstr "A felugró html-tároló méretének szélessége és magassága (px)"
+
+msgid "Width auto"
+msgstr "Szélesség auto"
+
+msgid "Width X Height (px) of the button image"
+msgstr "A gomb képének szélessége x magassága (px)."
+
+msgid "without update"
+msgstr "frissítés nélkül"
+
+msgid "WOOBE"
+msgstr "WOOBE"
+
+msgid "WooCommerce Bulk Editor"
+msgstr "WooCommerce tömeges szerkesztő"
+
+msgid "WooCommerce Currency Swither"
+msgstr "WooCommerce Currency Swither"
+
+msgid "WooCommerce Products Tables"
+msgstr "WooCommerce terméktáblázatok"
+
+msgid "WOOCS"
+msgstr "WOOCS"
+
+msgid "WOOT"
+msgstr "woot"
+
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+msgid "WordPress Cron period"
+msgstr "WordPress Cron időszak"
+
+msgid "WordPress cron period"
+msgstr "WordPress cron időszak"
+
+msgid "Works for text search and make its faster"
+msgstr "Szöveges kereséshez működik, és gyorsabbá teszi"
+
+msgid "WPML taxonomies labels translations"
+msgstr "A WPML taxonómiák címkézik a fordításokat"
+
+msgid "Wrong data for \"Server options for statistic stock\" options"
+msgstr ""
+"Hibás adatok a \"Szerverbeállítások statisztikai részvényekhez\" opciókhoz"
+
+msgid "Wrong path to template"
+msgstr "Rossz elérési út a sablonhoz"
+
+msgid "Yes"
+msgstr "Újra"
+
+msgid "Yes(only if the product exists)"
+msgstr "Igen (csak ha a termék létezik)"
+
+msgid "Yes, but only for desktop"
+msgstr "Igen, de csak asztali gépre"
+
+msgid "Yes, but only for mobile devices"
+msgstr "Igen, de csak mobileszközökhöz"
+
+msgid "Yes, for all devices"
+msgstr "Igen, minden eszközre"
+
+msgid "Yes, I love it"
+msgstr "Igen, szeretem"
+
+msgid "Yes, only for PC"
+msgstr "Igen, csak PC-re"
+
+msgid "Yes, show as closed"
+msgstr "Igen, zártként mutatom be"
+
+msgid "Yes, show as opened"
+msgstr "Igen, megnyitott állapotban mutatom meg"
+
+msgid "YOAST: add HUSKY SEO links to sitemap"
+msgstr "YOAST: adjon hozzá HUSKY SEO linkeket az oldaltérképhez"
+
+msgid "You are unsubscribed from the future products newsletters."
+msgstr "Leiratkozott a jövőbeni termékek hírleveleiről."
+
+msgid "You should write extension info in info.dat file!"
+msgstr "A kiterjesztés adatait az info.dat fájlba kell írni!"
+
+msgid "Your settings have been saved."
+msgstr "A beállításokat elmentettük."
+
+msgid "Сhild list opener"
+msgstr "Gyermeklistanyitó"
+
+msgid "Сlear"
+msgstr "Tiszta"
+
+msgid "Сonditionals"
+msgstr "Feltételek"
+
+msgid "Сontainer size"
+msgstr "A tartály mérete"
+
+msgid "Сount is max"
+msgstr "Száma max"

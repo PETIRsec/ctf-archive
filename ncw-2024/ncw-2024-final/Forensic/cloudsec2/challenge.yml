@@ -1,0 +1,29 @@
+name: ある日私が雲の中にいて攻撃されたとき
+category: Forensic
+author: kangwijen
+
+description: |-
+    Check the attached file for more information.
+
+    Author: kangwijen
+
+value: 500
+type: dynamic
+
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+
+connection_info: nc 103.145.226.92 23456
+
+flags: 
+  - NCW{ingin_menjadi_cloud_engineer_handal}
+
+tags:
+  - hard
+
+state: visible
+
+files: 
+  - description.txt

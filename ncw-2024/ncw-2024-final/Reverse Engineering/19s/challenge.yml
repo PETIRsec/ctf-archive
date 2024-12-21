@@ -1,0 +1,33 @@
+# Required sections
+name: "19s"
+category: Reverse Engineering
+description: |-
+  Just a warmup final RE, anyway 2024 is ending so I'm bringing you back the 1970s because I'm already rusty to create a challenge and hands out hard ones to the new generation. Don't you agree?
+  
+  Author: aseng
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{sch3m3_seems_legit_inspiredfromsekaictf:)!!!!}
+
+tags:
+    - medz
+
+files:
+    - chall_70
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

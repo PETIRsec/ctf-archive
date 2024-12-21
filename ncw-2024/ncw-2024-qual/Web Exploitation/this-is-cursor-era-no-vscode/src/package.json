@@ -1,0 +1,21 @@
+{
+	"name": "chall",
+	"scripts": {
+		"dev": "tsx watch src/index.ts",
+		"start": "tsx src/index.ts"
+	},
+	"dependencies": {
+		"@hono/node-server": "^1.13.1",
+		"dotenv": "^16.4.5",
+		"groq-sdk": "^0.7.0",
+		"hono": "^4.6.3",
+		"hono-sessions": "^0.5.8",
+		"jsonwebtoken": "^9.0.2",
+		"postgres": "^3.4.4"
+	},
+	"devDependencies": {
+		"@types/jsonwebtoken": "^9.0.7",
+		"@types/node": "^20.11.17",
+		"tsx": "^4.7.1"
+	}
+}

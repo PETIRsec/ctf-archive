@@ -1,0 +1,26 @@
+name: "Spicy Storage"
+category: Web Exploitation
+description: |-
+  Secure storage 101%
+
+  Author: Yobel
+
+  <a href="http://103.145.226.92:4573/">http://103.145.226.92:4573/</a>
+
+value: 500
+type: dynamic
+
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+
+flags:
+  - NCW{sql1_to_p0llut3:yaml_RCE_thr0ugh_race_cond!}
+
+tags:
+  - medium
+  - hard
+
+state: visible
+version: "0.1"

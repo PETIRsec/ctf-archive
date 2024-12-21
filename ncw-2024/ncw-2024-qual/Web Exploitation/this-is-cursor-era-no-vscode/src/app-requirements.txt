@@ -1,0 +1,8 @@
+Create CTF Challenge
+category: Web Explotation - Easy for national level competition
+
+Tech:
+- Pnpm
+- Hono.js
+- Postgres with docker compose
+- Groq AI

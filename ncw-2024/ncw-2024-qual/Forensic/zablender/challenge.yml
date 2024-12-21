@@ -1,0 +1,34 @@
+# Required sections
+name: 'ZaBlender'
+category: Forensic
+description: |-
+    arghh the blender took my photo please recover it ;(
+
+    Author: Eyes
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{THIS_MIGHT_BE_ZA_BLENDER_VRR}
+
+tags:
+    - easy
+
+files:
+    - blended_vrr.png
+    - zaBlender.py
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: '0.1'

@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  # MySQL Database 
+  once_0_day_db:
+    image: mysql:5.7
+    restart: always
+    env_file: .env
+
+  # WordPress
+  once_0_day_web: 
+    depends_on:
+      - once_0_day_db
+    build: .
+    ports:
+      - "3311:80"
+    env_file: .env
+    restart: always
+    environment:
+      - CHALL_SERVER_PORT=3311
+      - CHALL_SERVER_IP=157.230.38.61

@@ -1,0 +1,2257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "%"
+msgstr "%"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "(Statistic collected from: %s %d)"
+msgstr "(Statistika surinkta iš: %s %d)"
+
+msgid "+SKU"
+msgstr "+SKU"
+
+msgid "+Taxonomies"
+msgstr "+Taksonomijos"
+
+msgid "12 hours recommended"
+msgstr "Rekomenduojama 12 valandų"
+
+msgid "ver. %s"
+msgstr "žiūrėti. %s"
+
+msgid "Action"
+msgstr "Veikla"
+
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Veiksmas nepavyko. Atnaujinkite puslapį ir bandykite dar kartą."
+
+msgid "Activates the ability to search by SKU from the same text-input"
+msgstr "Suaktyvina galimybę ieškoti pagal SKU iš tos pačios teksto įvesties"
+
+msgid "Activates the ability to search by SKU in the same text-input"
+msgstr "Suaktyvina galimybę ieškoti pagal SKU toje pačioje teksto įvestyje"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Aktualizuota WooCommerce v.%s.x"
+
+msgid "Add"
+msgstr "papildyti"
+
+msgid "Add Custom key by hands"
+msgstr "Pridėkite pasirinktinį raktą rankomis"
+
+msgid "Add SEO rule"
+msgstr "Pridėti SEO taisyklę"
+
+msgid "Add this query"
+msgstr "Pridėti šią užklausą"
+
+msgid "additional options"
+msgstr "papildomos galimybės"
+
+msgid "Additional search data for text search"
+msgstr "Papildomi paieškos duomenys teksto paieškai"
+
+msgid "Additional text before"
+msgstr "Papildomas tekstas prieš"
+
+msgid "Advanced"
+msgstr "pažangus"
+
+msgid "Advanced info is here"
+msgstr "Išplėstinė informacija yra čia"
+
+msgid "All"
+msgstr "visi"
+
+msgid "all"
+msgstr "visi"
+
+msgid "AND"
+msgstr "IR"
+
+msgid "Any"
+msgstr "Bet koks"
+
+msgid "Any image for closed html-items block 20x20"
+msgstr "Bet koks uždarų html elementų bloko vaizdas 20x20"
+
+msgid "Any image for opened html-items block 20x20"
+msgstr "Bet koks atidarytų html elementų bloko vaizdas 20x20"
+
+msgid "Any notes for customer."
+msgstr "Bet kokios pastabos klientui."
+
+msgid "Any text notes for customer under subscription form."
+msgstr "Bet kokios tekstinės pastabos klientui pagal prenumeratos formą."
+
+msgid "Are you sure?"
+msgstr "Ar tu tuo tikras?"
+
+msgid "Are you sure? Settings will be overwritten!"
+msgstr "Ar tu tuo tikras? Nustatymai bus perrašyti!"
+
+msgid "As checkbox"
+msgstr "Kaip žymės langelis"
+
+msgid "As drop-down"
+msgstr "Kaip išskleidžiamasis meniu"
+
+msgid "as Image"
+msgstr "kaip Vaizdas"
+
+msgid "As ion range-slider"
+msgstr "Kaip jonų diapazono slankiklis"
+
+msgid "As radio"
+msgstr "Kaip radijas"
+
+msgid "As radio button"
+msgstr "Kaip radijo mygtukas"
+
+msgid "as Text"
+msgstr "kaip Tekstas"
+
+msgid "As textinputs"
+msgstr "Kaip teksto įvestis"
+
+msgid "As woo range-slider"
+msgstr "Kaip woo diapazono slankiklis"
+
+msgid "ASC"
+msgstr "ASC"
+
+msgid "Author:"
+msgstr "Autorius:"
+
+msgid "Auto filter close/open image"
+msgstr "Automatinis filtravimas uždaryti / atidaryti vaizdą"
+
+msgid "Auto filter close/open text"
+msgstr "Automatinis filtravimas uždaryti / atidaryti tekstą"
+
+msgid "Autocomplete"
+msgstr "Automatinis"
+
+msgid "Autocomplete products count"
+msgstr "Automatinio užbaigimo produktai skaičiuojami"
+
+msgid "Autocomplete relevant variants in by_text textinput"
+msgstr "Automatiškai užbaigti atitinkamus variantus pagal teksto įvestį"
+
+msgid "Autocomplete relevant variants in SKU textinput"
+msgstr "Automatiškai užbaigti atitinkamus variantus SKU teksto įvestyje"
+
+msgid "Autosubmit"
+msgstr "Automatinis pateikimas"
+
+msgid "average rating between 1 to 2-"
+msgstr "vidutinis įvertinimas nuo 1 iki 2"
+
+msgid "average rating between 2 to 3-"
+msgstr "vidutinis įvertinimas nuo 2 iki 3"
+
+msgid "average rating between 3 to 4-"
+msgstr "vidutinis įvertinimas nuo 3 iki 4"
+
+msgid "average rating between 4 to 5"
+msgstr "vidutinis įvertinimas nuo 4 iki 5"
+
+msgid "Back"
+msgstr "atgal"
+
+msgid "background image url 25x25"
+msgstr "fono vaizdo URL 25x25"
+
+msgid "Behavior"
+msgstr "Elgesys"
+
+msgid "Behavior as radio button"
+msgstr "Elgesys kaip radijo mygtukas"
+
+msgid "Behavior of how the filter sections will open."
+msgstr "Filtro sekcijos atsidarymo elgsena."
+
+msgid "Behavior of reset button"
+msgstr "Atstatymo mygtuko veikimas"
+
+msgid "Behavior of the text searching"
+msgstr "Teksto paieškos elgsena"
+
+msgid "behavior of the text searching"
+msgstr "teksto paieškos elgsena"
+
+msgid "Both"
+msgstr "Abu"
+
+msgid "Bottom"
+msgstr "apačia"
+
+msgid "Button as"
+msgstr "Mygtukas kaip"
+
+msgid "Button image size"
+msgstr "Mygtuko vaizdo dydis"
+
+msgid "Button label"
+msgstr "Mygtuko etiketė"
+
+msgid "Button offset (px) from top or left from the window edge"
+msgstr "Mygtuko poslinkis (px) iš viršaus arba į kairę nuo lango krašto"
+
+msgid "By author"
+msgstr "Pagal autorių"
+
+msgid "By date"
+msgstr "Pagal datą"
+
+msgid "By emails count"
+msgstr "Skaičiuojant el"
+
+msgid "By rating"
+msgstr "Pagal reitingą"
+
+msgid "By rating drop-down"
+msgstr "Pagal įvertinimo išskleidžiamąjį meniu"
+
+msgid "by SKU"
+msgstr "pagal SKU"
+
+msgid "By text"
+msgstr "Tekstu"
+
+msgid "Cache dynamic recount number for each item in filter"
+msgstr ""
+"Talpykloje saugokite kiekvieno filtro elemento dinaminį perskaičiavimo numerį"
+
+msgid "Cache folder"
+msgstr "Talpyklos aplankas"
+
+msgid "Cache terms"
+msgstr "Talpyklos terminai"
+
+msgid "Calculate Statistics"
+msgstr "Apskaičiuokite statistiką"
+
+msgid "Can I override any extension view file for my site needs?"
+msgstr ""
+"Ar galiu nepaisyti bet kurio plėtinio peržiūros failo pagal mano svetainės "
+"poreikius?"
+
+msgid "Cheatin’ huh?"
+msgstr "Apgaudinėji a?"
+
+msgid "Check DB connection"
+msgstr "Patikrinkite DB ryšį"
+
+msgid "Check search logic AND/OR"
+msgstr "Patikrinkite paieškos logiką IR/ARBA"
+
+msgid "Checkbox"
+msgstr "Žymės langelis"
+
+msgid "Choose an extension zip"
+msgstr "Pasirinkite plėtinio ZIP"
+
+msgid "clean cache automatically daily"
+msgstr "kasdien automatiškai išvalykite talpyklą"
+
+msgid "clean cache automatically each 2 days"
+msgstr "automatiškai išvalykite talpyklą kas 2 dienas"
+
+msgid "clean cache automatically each 3 days"
+msgstr "automatiškai išvalykite talpyklą kas 3 dienas"
+
+msgid "clean cache automatically each 4 days"
+msgstr "automatiškai išvalykite talpyklą kas 4 dienas"
+
+msgid "clean cache automatically each 5 days"
+msgstr "automatiškai išvalykite talpyklą kas 5 dienas"
+
+msgid "clean cache automatically each 6 days"
+msgstr "automatiškai išvalykite talpyklą kas 6 dienas"
+
+msgid "clean cache automatically each 7 days"
+msgstr "automatiškai išvalykite talpyklą kas 7 dienas"
+
+msgid "clean cache automatically hourly"
+msgstr "kas valandą automatiškai išvalykite talpyklą"
+
+msgid "clean cache automatically twicedaily"
+msgstr "du kartus per dieną automatiškai išvalykite talpyklą"
+
+msgid "Clear"
+msgstr "aiškus"
+
+msgid "clear"
+msgstr "aiškus"
+
+msgid "Clear All"
+msgstr "Išvalyti viską"
+
+msgid "clear cache"
+msgstr "Išvalyti talpyklą"
+
+msgid "clear terms cache"
+msgstr "išvalyti terminų talpyklą"
+
+msgid "Clear text input"
+msgstr "Išvalyti teksto įvestį"
+
+msgid "Click"
+msgstr "Spauskite"
+
+msgid "Close filter"
+msgstr "Uždarykite filtrą"
+
+msgid "Code"
+msgstr "kodas"
+
+msgid "Codex"
+msgstr "Kodeksas"
+
+msgid "Color"
+msgstr "Akmenuko spalva"
+
+msgid "Conditions logic"
+msgstr "Sąlygų logika"
+
+msgid "Container max-height (px). 0 means no max-height."
+msgstr ""
+"Didžiausias konteinerio aukštis (px). 0 reiškia, kad nėra maksimalaus "
+"aukščio."
+
+msgid "Create new section. Don`t forget to click on the save button."
+msgstr "Sukurti naują skyrių. Nepamirškite spustelėti išsaugojimo mygtuko."
+
+msgid "Create section"
+msgstr "Sukurti skyrių"
+
+msgid "Create your products page URL here"
+msgstr "Čia sukurkite savo produktų puslapio URL"
+
+msgid "Creating"
+msgstr "sukurti"
+
+msgid "Cron type"
+msgstr "Cron tipas"
+
+msgid "Custom CSS code"
+msgstr "Pasirinktinis CSS kodas"
+
+msgid "Custom extensions folder"
+msgstr "Pasirinktinių plėtinių aplankas"
+
+msgid "Custom extensions folder path relative to: %s"
+msgstr "Pasirinktinių plėtinių aplanko kelias, susijęs su: %s"
+
+msgid "Custom extensions installation"
+msgstr "Pasirinktinių plėtinių diegimas"
+
+msgid "Custom fields"
+msgstr "custom fields"
+
+msgid "Custom front css styles file link"
+msgstr "Pasirinktinių priekinių css stilių failo nuoroda"
+
+msgid "Custom text of the button"
+msgstr "Pasirinktinis mygtuko tekstas"
+
+msgid "daily"
+msgstr "kasdien"
+
+msgid "Data for default filter"
+msgstr "Numatytojo filtro duomenys"
+
+msgid "Database not connected! ERROR!"
+msgstr "Duomenų bazė neprijungta! KLAIDA!"
+
+msgid "Database successfully connected!!!"
+msgstr "Duomenų bazė sėkmingai prijungta!!!"
+
+msgid "Database successfully updated!!!"
+msgstr "Duomenų bazė sėkmingai atnaujinta!!!"
+
+msgid "date"
+msgstr "duomenys"
+
+msgid "Datepicker"
+msgstr "Duomenų rinkiklis"
+
+msgid "DB Name"
+msgstr "DB pavadinimas"
+
+msgid "Default"
+msgstr "Numatytas"
+
+msgid "Default - mm/dd/yy"
+msgstr "Numatytasis – mm/dd/yy"
+
+msgid "Default extensions"
+msgstr "Numatytieji plėtiniai"
+
+msgid "Delete"
+msgstr "panaikinti"
+
+msgid "delete"
+msgstr "panaikinti"
+
+msgid "Demo site"
+msgstr "Demo svetainė"
+
+msgid "Demo site 10K"
+msgstr "Demonstracinė svetainė 10K"
+
+msgid "Demo site Turbo"
+msgstr "Demo svetainė Turbo"
+
+msgid "DESC"
+msgstr "mažėjimo"
+
+msgid "Design"
+msgstr "dizainas"
+
+msgid "Direct links to posts in autocomplete suggestion"
+msgstr "Tiesioginės nuorodos į įrašus automatinio užbaigimo pasiūlyme"
+
+msgid "Direction of terms sorted inside of filter block"
+msgstr "Filtrų bloko viduje surūšiuotų terminų kryptis"
+
+msgid "Disable page indexing"
+msgstr "Išjungti puslapių indeksavimą"
+
+msgid "Disable swoof influence"
+msgstr "Išjungti „swoof“ įtaką"
+
+msgid "Disabled"
+msgstr "neįgalusis"
+
+msgid "Disables page indexing when a seo search query exists."
+msgstr "Išjungia puslapių indeksavimą, kai yra SEO paieškos užklausa."
+
+msgid "Display items in a row"
+msgstr "Rodyti elementus iš eilės"
+
+msgid "Display message if current product is suitable for saved search"
+msgstr "Rodyti pranešimą, jei dabartinis produktas tinka išsaugotai paieškai"
+
+msgid "do not clean cache automatically"
+msgstr "automatiškai nevalykite talpyklos"
+
+msgid "do not use shortcodes here in turbo mode"
+msgstr "nenaudokite trumpųjų kodų čia turbo režimu"
+
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+msgid "done!"
+msgstr "padaryta!"
+
+msgid "drag and drop"
+msgstr "vilkite ir numeskite"
+
+msgid "drawing graphs ..."
+msgstr "piešti grafikus..."
+
+msgid "Drop-down"
+msgstr "Išskleidžiamasis meniu"
+
+msgid "Drop-down OR radio"
+msgstr "Išskleidžiamasis meniu ARBA radijas"
+
+msgid "Drop-down OR radio price filter ranges"
+msgstr "Išskleidžiamasis ARBA radijo kainų filtrų diapazonas"
+
+msgid "Drop-down price filter first option text"
+msgstr "Išskleidžiamojo kainų filtro pirmosios parinkties tekstas"
+
+msgid "Drop-down price filter text"
+msgstr "Išskleidžiamojo kainų filtro tekstas"
+
+msgid "Drop-down to filter products by rating"
+msgstr ""
+"Išskleidžiamasis meniu, kad galėtumėte filtruoti produktus pagal įvertinimą"
+
+msgid "Dynamic recount"
+msgstr "Dinaminis perskaičiavimas"
+
+msgid "Dynamic recount for current search form"
+msgstr "Dinaminis dabartinės paieškos formos perskaičiavimas"
+
+msgid "each %s days"
+msgstr "kiekviena %s diena"
+
+msgid "Each new link must be on a new line"
+msgstr "Kiekviena nauja nuoroda turi būti naujoje eilutėje"
+
+msgid "Emails count"
+msgstr "Laiškai skaičiuojami"
+
+msgid "Enable dynamic recount"
+msgstr "Įgalinti dinaminį perskaičiavimą"
+
+msgid "Enable turbo mode"
+msgstr "Įjungti turbo režimą"
+
+msgid "Enable/Disable"
+msgstr "Įjungti išjungti"
+
+msgid "Enabled"
+msgstr "įjungta"
+
+msgid "enter a product sku here ..."
+msgstr "įveskite produkto SKU čia..."
+
+msgid "enter a product title here ..."
+msgstr "čia įveskite produkto pavadinimą ..."
+
+msgid "enter a text here ..."
+msgstr "įveskite tekstą čia ..."
+
+msgid "enter product ID"
+msgstr "įveskite produkto ID"
+
+msgid "enter title"
+msgstr "įveskite pavadinimą"
+
+msgid "Enter tooltip text if necessary"
+msgstr "Jei reikia, įveskite patarimo tekstą"
+
+msgid "enter value in px"
+msgstr "įveskite reikšmę px"
+
+msgid "Error!"
+msgstr "Klaida!"
+
+msgid "Error! No data"
+msgstr "Klaida! Nėra duomenų"
+
+msgid "Error! Please read documents"
+msgstr "Klaida! Prašome perskaityti dokumentus"
+
+msgid "Europe - dd-mm-yy"
+msgstr "Europa – dd-mm-yy"
+
+msgid "EXACT"
+msgstr "TIKSLAS"
+
+msgid "Exact match"
+msgstr "Tikslus atitikimas"
+
+msgid "Exact value"
+msgstr "Tiksli vertė"
+
+msgid "Example"
+msgstr "Pavyzdys"
+
+msgid "Example: /color-{any}/"
+msgstr "Pavyzdys: /spalva-{bet}/"
+
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity."
+msgstr "Pavyzdys: 0-50,51-100,101-i. Kur \"i\" yra begalybė."
+
+msgid "Example: 1^100"
+msgstr "Pavyzdys: 1^100"
+
+msgid "Exclude On backorder"
+msgstr "Išskirti Nebaigus užsakymus"
+
+msgid "Exclude on backorder"
+msgstr "Išskirti užsakant"
+
+msgid "Exclude products on backorder"
+msgstr "Išskirkite produktus pagal užsakymą"
+
+msgid "Exclude: On backorder"
+msgstr "Neįtraukti: pagal užsakymus"
+
+msgid "excluded terms ids"
+msgstr "neįtrauktų terminų ID"
+
+msgid "Export data"
+msgstr "Eksportuoti duomenis"
+
+msgid "Export/Import"
+msgstr "Eksportas Importas"
+
+msgid "Ext-Applications options"
+msgstr "Išplėstinių programų parinktys"
+
+msgid "Extensions"
+msgstr "Plėtinių"
+
+msgid "External cron key (is recommended as flexible for timetable)"
+msgstr "Išorinis cron raktas (rekomenduojamas kaip lankstus tvarkaraščiui)"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Featured checkbox"
+msgstr "Panašus žymimasis laukelis"
+
+msgid "Featured product"
+msgstr "Teminis produktas"
+
+msgid "File updated!!!"
+msgstr "Failas atnaujintas!!!"
+
+msgid "Filter"
+msgstr "Filtras"
+
+msgid "Filter button text"
+msgstr "Filtro mygtuko tekstas"
+
+msgid "Filter button text in the search form"
+msgstr "Filtruoti mygtuko tekstą paieškos formoje"
+
+msgid "Filter by price"
+msgstr "Filtruoti pagal kainą"
+
+msgid "filter by price"
+msgstr "filtruoti pagal kainą"
+
+msgid "Filter by rating"
+msgstr "Filtruoti pagal įvertinimą"
+
+msgid "finished!"
+msgstr "baigta!"
+
+msgid "First drop-down option placeholder text OR title for checkboxes"
+msgstr ""
+"Pirmosios išskleidžiamosios parinkties vietos rezervavimo tekstas ARBA "
+"žymimųjų laukelių pavadinimas"
+
+msgid "Flat dark (1column)"
+msgstr "Plokščias tamsus (1 stulpelis)"
+
+msgid "Flat dark (2columns)"
+msgstr "Plokščias tamsus (2 stulpeliai)"
+
+msgid "Flat dark (3columns)"
+msgstr "Plokščias tamsus (3 stulpeliai)"
+
+msgid "Flat dark (4columns) without sidebar*"
+msgstr "Plokščias tamsus (4 stulpeliai) be šoninės juostos*"
+
+msgid "Flat grey (1column)"
+msgstr "Plokščia pilka (1 stulpelis)"
+
+msgid "Flat grey (2columns)"
+msgstr "Plokščia pilka (2 stulpeliai)"
+
+msgid "Flat grey (3columns)"
+msgstr "Plokščia pilka (3 stulpeliai)"
+
+msgid "Flat grey (4columns) without sidebar*"
+msgstr "Plokščia pilka (4 stulpeliai) be šoninės juostos*"
+
+msgid "For developers WOOF has power bunch of functionality"
+msgstr "Kūrėjams WOOF turi daugybę funkcijų"
+
+msgid "For each taxonomy it is possible to select a unique slider design"
+msgstr "Kiekvienai taksonomijai galima pasirinkti unikalų slankiklio dizainą"
+
+msgid "For external cron use the next link"
+msgstr "Išoriniam cron naudokite kitą nuorodą"
+
+msgid "For simple and for variables products"
+msgstr "Paprastiems ir kintamiems produktams"
+
+msgid "For simple products only"
+msgstr "Tik paprastiems produktams"
+
+msgid "For the beginners there is videos are prepared"
+msgstr "Pradedantiesiems yra paruošti vaizdo įrašai"
+
+msgid "Form AJAX redrawing"
+msgstr "Formos AJAX perbraižymas"
+
+msgid "From"
+msgstr "Kaina nuo"
+
+msgid "from"
+msgstr "nuo"
+
+msgid "from %s %s to %s %s"
+msgstr "nuo %s %s iki %s %s"
+
+msgid "from: %s"
+msgstr "iš: %s"
+
+msgid "Full - DD, d MM, yy"
+msgstr "Visas – DD, d MM, yy"
+
+msgid "full version of the plugin"
+msgstr "pilna papildinio versija"
+
+msgid "Generate attributes for shortcode [woof]"
+msgstr "Generuokite trumpojo kodo [woof] atributus"
+
+msgid "Generate data for export"
+msgstr "Generuoti duomenis eksportuoti"
+
+msgid "Generate shortcode"
+msgstr "Sukurti trumpąjį kodą"
+
+msgid "Get"
+msgstr "gauti"
+
+msgid "Get keys from any product by its ID"
+msgstr "Gaukite raktus iš bet kurio produkto pagal jo ID"
+
+msgid "getting of operative tables ..."
+msgstr "operacinių stalų gavimas..."
+
+msgid "getting the data from the table"
+msgstr "gauti duomenis iš lentelės"
+
+msgid "Give Feedback"
+msgstr "Palikti atsiliepimą"
+
+msgid "Global visibility"
+msgstr "Pasaulinis matomumas"
+
+msgid "Go Pro!"
+msgstr "Go Pro!"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "Grid step"
+msgstr "Tinklelio žingsnis"
+
+msgid "H1 title"
+msgstr "H1 pavadinimas"
+
+msgid "Height"
+msgstr "aukštis"
+
+msgid "Height of the drop-down of the opened active panel."
+msgstr "Atidaryto aktyvaus skydelio išskleidžiamojo meniu aukštis."
+
+msgid "Hi! Are you enjoying using WOOF - WooCommerce Products Filter?"
+msgstr "Sveiki! Ar jums patinka naudoti WOOF – „WooCommerce“ produktų filtrą?"
+
+msgid "Hide"
+msgstr "paslėpti"
+
+msgid "Hide auto filter by default"
+msgstr "Slėpti automatinį filtrą pagal numatytuosius nustatymus"
+
+msgid "Hide childs in checkboxes and radio"
+msgstr "Paslėpti vaikus žymimuosiuose laukeliuose ir radijuje"
+
+msgid "Hide empty terms"
+msgstr "Slėpti tuščius terminus"
+
+msgid "Hide empty terms in \"Dynamic recount\" mode"
+msgstr "Slėpti tuščius terminus \"Dinaminio perskaičiavimo\" režimu"
+
+msgid "hide products filter"
+msgstr "paslėpti produktų filtrą"
+
+msgid "Hide search form by default and show one button instead"
+msgstr ""
+"Slėpti paieškos formą pagal numatytuosius nustatymus ir vietoj to rodyti "
+"vieną mygtuką"
+
+msgid "Hide terms count text"
+msgstr "Slėpti terminų skaičiavimo tekstą"
+
+msgid "Hide woof top panel buttons"
+msgstr "Slėpti woof viršutinio skydelio mygtukus"
+
+msgid "Hierarchy drop-down"
+msgstr "Hierarchijos išskleidžiamasis meniu"
+
+msgid "Home"
+msgstr "Pagrindinis"
+
+msgid "Host"
+msgstr "Priimančioji"
+
+msgid "hourly"
+msgstr "valandinis"
+
+msgid "Hover"
+msgstr "Užveskite pelę"
+
+msgid "How long user will get emails after subscription"
+msgstr "Kiek laiko naudotojas gaus el. laiškus po prenumeratos"
+
+msgid "How many show products in the autocomplete list"
+msgstr "Kiek rodo produktų automatinio užbaigimo sąraše"
+
+msgid "How often assemble data file"
+msgstr "How often assemble data file"
+
+msgid "How often update products data file"
+msgstr "Kaip dažnai atnaujinti produktų duomenų failą"
+
+msgid "How to assemble statistic"
+msgstr "Kaip surinkti statistiką"
+
+msgid "How to create custom taxonomies for the products"
+msgstr "Kaip sukurti pasirinktines produktų taksonomijas"
+
+msgid "How to display this filter-element on the site frontend"
+msgstr "Kaip pateikti šį filtro elementą svetainės sąsajoje"
+
+msgid "How to filter woocommerce products by meta data"
+msgstr "Kaip filtruoti „woocommerce“ produktus pagal metaduomenis"
+
+msgid "How to make WOOF more SEO friendly"
+msgstr "Kaip padaryti WOOF draugiškesnį SEO"
+
+msgid "How to manipulate by CSS if search is going"
+msgstr "Kaip manipuliuoti naudojant CSS, jei vyksta paieška"
+
+msgid "How to open links with posts in suggestion"
+msgstr "Kaip atidaryti nuorodas su pasiūlymais"
+
+msgid "How to show or hide widget only on selected site pages"
+msgstr ""
+"Kaip rodyti arba slėpti valdiklį tik pasirinktuose svetainės puslapiuose"
+
+msgid "how to show slideout popup after page loaded: opened or closed"
+msgstr ""
+"kaip parodyti išskleidžiamąjį langą įkėlus puslapį: atidarytas arba uždarytas"
+
+msgid "How to sort terms inside of filter block"
+msgstr "Kaip rūšiuoti terminus filtrų bloko viduje"
+
+msgid "https://pluginus.net/"
+msgstr "https://pluginus.net/"
+
+msgid "https://products-filter.com/"
+msgstr "https://products-filter.com/"
+
+msgid "I already did"
+msgstr "aš jau padariau"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "If you have questions check please already prepared answers"
+msgstr "Jei turite klausimų, patikrinkite jau paruoštus atsakymus"
+
+msgid "If you want to Unsubscribe from this newsletter"
+msgstr "Jei norite atsisakyti šio naujienlaiškio prenumeratos"
+
+msgid "Image"
+msgstr "vaizdas"
+
+msgid "Image for block toggle [opened]"
+msgstr "Bloko perjungimo vaizdas [atidarytas]"
+
+msgid "Image for block toggle closed"
+msgstr "Vaizdas, skirtas bloko perjungimui uždarytas"
+
+msgid "Image for close button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"Uždarymo mygtuko vaizdas, kai įjungtas mobiliojo ryšio režimas. Norėdami "
+"išjungti, nustatykite -1."
+
+msgid "Image for mobile filter button"
+msgstr "Mobiliojo filtro mygtuko vaizdas"
+
+msgid "Image for subcategories close"
+msgstr "Vaizdas subkategorijoms uždaryti"
+
+msgid "Image for subcategories open"
+msgstr "Atidarytas subkategorijų vaizdas"
+
+msgid "Image of button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"Mygtuko vaizdas, kai įjungtas mobiliojo ryšio režimas. Norėdami išjungti, "
+"nustatykite -1."
+
+msgid "Image settings for term %s"
+msgstr "Vaizdo nustatymai terminui %s"
+
+msgid "Image styles"
+msgstr "Vaizdo stiliai"
+
+msgid "Image to close mobile filter"
+msgstr "Vaizdas, skirtas uždaryti mobiliojo telefono filtrą"
+
+msgid "Image which displayed for tooltip"
+msgstr "Vaizdas, kuris rodomas patarimui"
+
+msgid "Images"
+msgstr "Vaizdai"
+
+msgid "Import data"
+msgstr "Importuoti duomenis"
+
+msgid "Import placed data"
+msgstr "Importuoti įdėtus duomenis"
+
+msgid "In FREE version it is possible to operate by 2 meta fields only!"
+msgstr "NEMOKAMAI versija galima valdyti tik 2 metalaukeliais!"
+
+msgid "In FREE version it is possible to operate with 2 rules only!"
+msgstr "NEMOKAMA versija galima veikti tik pagal 2 taisykles!"
+
+msgid "In stock"
+msgstr "Prekyboje"
+
+msgid "In stock checkbox"
+msgstr "Sandėlyje žymės langelis"
+
+msgid "In the premium version"
+msgstr "Premium versijoje"
+
+msgid "In the same window (_self) or in the new one (_blank)"
+msgstr "Tame pačiame lange (_self) arba naujame (_tuščias)"
+
+msgid "Info"
+msgstr "Informacija"
+
+msgid "info"
+msgstr "informacijos"
+
+msgid "Init plugin on the next site pages only"
+msgstr "Init papildinys tik kituose svetainės puslapiuose"
+
+msgid "Init sections"
+msgstr "Init skyriai"
+
+msgid "Init sections by default"
+msgstr "Init skyriai pagal numatytuosius nustatymus"
+
+msgid "Install"
+msgstr "įrengti"
+
+msgid "Install Now"
+msgstr "Diegti dabar"
+
+msgid "Ion Range slider"
+msgstr "Jonų diapazono slankiklis"
+
+msgid "Ion-Range slider js lib skin for range-sliders of the plugin"
+msgstr ""
+"Ion-Range slankiklis js lib skin, skirtas papildinio diapazono slankikliui"
+
+msgid "ISO 8601 - yy-mm-dd"
+msgstr "ISO 8601 – yy-mm-dd"
+
+msgid "It is possible to select a unique slider design for each meta field"
+msgstr "Kiekvienam meta laukui galima pasirinkti unikalų slankiklio dizainą"
+
+msgid "It will be counted in the filter( Only for ion-slider )"
+msgstr "Jis bus skaičiuojamas filtre (tik jonų slankikliui)"
+
+msgid "Its not possible to create file: %s"
+msgstr "Neįmanoma sukurti failo: %s"
+
+msgid "Its not possible to create folder: %s"
+msgstr "Neįmanoma sukurti aplanko: %s"
+
+msgid "JavaScript code after AJAX is done"
+msgstr "„JavaScript“ kodas baigus AJAX"
+
+msgid "jQuery-ui calendar date format"
+msgstr "jQuery-ui kalendoriaus datos formatas"
+
+msgid "Label"
+msgstr "etiketė"
+
+msgid "Later"
+msgstr "vėliau"
+
+msgid "Leave it empty if you not need it."
+msgstr "Palikite tuščią, jei jums to nereikia."
+
+msgid "Leave it empty if you not need this"
+msgstr "Palikite tuščią, jei jums to nereikia"
+
+msgid "leave it empty to see all terms"
+msgstr "palikite tuščią, kad pamatytumėte visas sąlygas"
+
+msgid "leave it empty to show all terms"
+msgstr "palikite tuščią, kad būtų rodomi visi terminai"
+
+msgid "leave it empty to use native taxonomy name"
+msgstr "palikite tuščią, jei norite naudoti savąjį taksonomijos pavadinimą"
+
+msgid "Left"
+msgstr "Left"
+
+msgid "Lets checked terms will be on the top"
+msgstr "Pažymėti terminai bus viršuje"
+
+msgid "LIKE"
+msgstr "PANAŠUS"
+
+msgid "LIKE or Equally"
+msgstr "LIKE arba lygiai"
+
+msgid "Links to posts in suggestion"
+msgstr "Nuorodos į įrašus pasiūlyme"
+
+msgid "Listen catalog visibility"
+msgstr "Klausyti katalogo matomumo"
+
+msgid "Loading ..."
+msgstr "Kraunasi ..."
+
+msgid "Loading balls - SVG"
+msgstr "Krovimo kamuoliukai - SVG"
+
+msgid "Loading bars - SVG"
+msgstr "Pakrovimo juostos – SVG"
+
+msgid "Loading bubbles - SVG"
+msgstr "Įkeliami burbulai – SVG"
+
+msgid "Loading cubes - SVG"
+msgstr "Įkeliami kubeliai - SVG"
+
+msgid "Loading cyclone - SVG"
+msgstr "Įkeliamas ciklonas - SVG"
+
+msgid "Loading spin - SVG"
+msgstr "Įkeliamas sukimas – SVG"
+
+msgid "Loading spinning bubbles - SVG"
+msgstr "Įkeliami besisukantys burbulai – SVG"
+
+msgid "Loading spokes - SVG"
+msgstr "Įkeliami stipinai – SVG"
+
+msgid "Loading word"
+msgstr "Įkeliamas žodis"
+
+msgid "Logic of filtering"
+msgstr "Filtravimo logika"
+
+msgid "Looks like its not the WOOF extension here %s!"
+msgstr "Atrodo, kad čia ne WOOF plėtinys. %s!"
+
+msgid "Looks like troubles with JavaScript!"
+msgstr "Panašu, kad yra problemų su JavaScript!"
+
+msgid "Make filtering"
+msgstr "Atlikite filtravimą"
+
+msgid "Max deep of the search request"
+msgstr "Maksimalus paieškos užklausa"
+
+msgid "Max drop-down height"
+msgstr "Maksimalus nuleidžiamo aukštis"
+
+msgid "Max height of the block"
+msgstr "Maksimalus bloko aukštis"
+
+msgid "Max price"
+msgstr "maks kaina"
+
+msgid "max price"
+msgstr "max kaina"
+
+msgid "Max requests per unique user"
+msgstr "Maksimalus užklausų skaičius vienam unikaliam vartotojui"
+
+msgid "Max saved queries per user"
+msgstr "Maksimalus išsaugotų užklausų skaičius vienam vartotojui"
+
+msgid "Max subscriptions per user"
+msgstr "Maksimalus abonementų skaičius vienam vartotojui"
+
+msgid "Max terms or taxonomies per graph"
+msgstr "Maksimalus terminų arba taksonomijų skaičius diagramoje"
+
+msgid "Maximum number of emails per one subscribed user. -1 means no limit."
+msgstr ""
+"Didžiausias el. laiškų skaičius vienam prenumeruojančiam vartotojui. -1 "
+"reiškia, kad nėra jokių apribojimų."
+
+msgid "Maximum number of subscriptions for a single registered user."
+msgstr "Maksimalus vieno registruoto vartotojo abonementų skaičius."
+
+msgid "Medium - d MM, y"
+msgstr "Vidutinė – d MM, m"
+
+msgid "menu order"
+msgstr "meniu tvarka"
+
+msgid "Meta Data"
+msgstr "Meta duomenys"
+
+msgid "Meta description"
+msgstr "Meta aprašymas"
+
+msgid "Meta Fields"
+msgstr "Meta laukai"
+
+msgid "Meta filter"
+msgstr "Meta filtras"
+
+msgid "Meta title"
+msgstr "Meta pavadinimas"
+
+msgid "Min price"
+msgstr "Žema kaina"
+
+msgid "min price"
+msgstr "min kaina"
+
+msgid "Min rating:"
+msgstr "Minimalus įvertinimas:"
+
+msgid "Min symbols"
+msgstr "Min simboliai"
+
+msgid "min1"
+msgstr "min1"
+
+msgid "Minimum number of symbols to start searching. By default 3 symbols"
+msgstr ""
+"Minimalus simbolių skaičius, norint pradėti paiešką. Pagal numatytuosius "
+"nustatymus 3 simboliai"
+
+msgid "Mobile behavior"
+msgstr "Mobilus elgesys"
+
+msgid "Mobile mode"
+msgstr "Mobilusis režimas"
+
+msgid "monthly"
+msgstr "kas mėnesį"
+
+msgid "Multi Drop-down"
+msgstr "Daugiafunkcis išskleidžiamasis meniu"
+
+msgid "My query"
+msgstr "Mano užklausa"
+
+msgid "new"
+msgstr "Naujas produktas"
+
+msgid "New products"
+msgstr "Naujausios prekės"
+
+msgid "New Products by your request"
+msgstr "New Products by your request"
+
+msgid "New section"
+msgstr "Nauja skiltis"
+
+msgid "new window"
+msgstr "naujas langas"
+
+msgid "Next"
+msgstr "Sekantis"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No data for the selected time period!"
+msgstr "Nėra pasirinkto laikotarpio duomenų!"
+
+msgid "No data to import!"
+msgstr "Importuotinų duomenų nėra!"
+
+msgid "No limit"
+msgstr "Jokios ribos"
+
+msgid "No products found"
+msgstr "Nerasta jokių produktų"
+
+msgid "No thanks"
+msgstr "Ačiū, ne"
+
+msgid "None"
+msgstr "Nė vienas"
+
+msgid "Nope, maybe later"
+msgstr "Ne, gal vėliau"
+
+msgid "NOT IN"
+msgstr "NE Į"
+
+msgid "Not really..."
+msgstr "Ne visai..."
+
+msgid "Not toggled terms count"
+msgstr "Neperjungti terminai skaičiuojami"
+
+msgid "Notes for customer"
+msgstr "Pastabos klientui"
+
+msgid "Nothing found!"
+msgstr "Nieko nerasta!"
+
+msgid "Notice! Add options in the plugin settings->Meta filter"
+msgstr "Pastebėti! Pridėkite parinktis į papildinio nustatymus->Meta filtras"
+
+msgid "Notice:"
+msgstr "Pranešimas:"
+
+msgid "number"
+msgstr "skaičius"
+
+msgid "Number of products per one block on the search drop-down"
+msgstr "Prekių skaičius viename bloke paieškos išskleidžiamajame meniu"
+
+msgid "Number of words in the description"
+msgstr "Žodžių skaičius aprašyme"
+
+msgid "Numeric."
+msgstr "Skaitmeninis."
+
+msgid "Offset"
+msgstr "Kompensuoti"
+
+msgid "Okay, you deserve it"
+msgstr "Gerai, tu to nusipelnei"
+
+msgid "On sale"
+msgstr "Išpardavimas"
+
+msgid "On sale checkbox"
+msgstr "Parduodama žymės langelis"
+
+msgid "One month"
+msgstr "Vienas mėnesis"
+
+msgid "One week"
+msgstr "Viena savaitė"
+
+msgid "Open filter"
+msgstr "Atidarykite filtrą"
+
+msgid "operative tables are prepared"
+msgstr "paruošiamos operatyvinės lentelės"
+
+msgid "Optimize loading of WOOF JavaScript files"
+msgstr "Optimizuokite WOOF JavaScript failų įkėlimą"
+
+msgid "Optimize price filter"
+msgstr "Optimizuokite kainų filtrą"
+
+msgid "Options"
+msgstr "Nustatymai"
+
+msgid "OR"
+msgstr "OR"
+
+msgid "Order dropdown css selector"
+msgstr "Užsakymo išskleidžiamasis css parinkiklis"
+
+msgid "orderby"
+msgstr "orderby"
+
+msgid "Overlay image background"
+msgstr "Perdangos vaizdo fonas"
+
+msgid "Overlay skins"
+msgstr "Perdengti skinai"
+
+msgid "Override no products found content"
+msgstr "Nepaisyti turinio nerasta produktų"
+
+msgid "Password"
+msgstr "Slaptažodis"
+
+msgid "Per page"
+msgstr "Per puslapį"
+
+msgid "per page"
+msgstr "puslapyje"
+
+msgid "Per page css selector"
+msgstr "Puslapio css parinkiklis"
+
+msgid "Placeholder"
+msgstr "placeholder"
+
+msgid "Placeholder text"
+msgstr "Vietos rezervavimo tekstas"
+
+msgid "Plainoverlay - CSS"
+msgstr "Plainoverlay – CSS"
+
+msgid "Plainoverlay color"
+msgstr "Paprasta perdangos spalva"
+
+msgid "Please fill the title field."
+msgstr "Užpildykite pavadinimo laukelį."
+
+msgid "Please read documents"
+msgstr "Prašome perskaityti dokumentus"
+
+msgid "Please update database:"
+msgstr "Prašome atnaujinti duomenų bazę:"
+
+msgid "popularity"
+msgstr "populiarumas"
+
+msgid "popup animation speed in (ms)"
+msgstr "iššokančiųjų langų animacijos greitis (ms)"
+
+msgid "Position"
+msgstr "pozicija"
+
+msgid "Possible keys"
+msgstr "Galimi raktai"
+
+msgid "Postfix"
+msgstr "„Postfix“"
+
+msgid "predifined step"
+msgstr "iš anksto nustatytas žingsnis"
+
+msgid "Prefix"
+msgstr "Prefiksas"
+
+msgid "Prev"
+msgstr "Ankstesnis"
+
+msgid "Price"
+msgstr "Kaina"
+
+msgid "Price - from %s to %s"
+msgstr "Kaina - nuo %s iki %s"
+
+msgid "Price filter"
+msgstr "Kainų filtras"
+
+msgid "Price from"
+msgstr "Kaina nuo"
+
+msgid "price high to low"
+msgstr "kaina nuo didelės iki mažos"
+
+msgid "price low to high"
+msgstr "kaina nuo mažos iki didelės"
+
+msgid "price range"
+msgstr "Kainų diapazonas"
+
+msgid "Price to"
+msgstr "Kaina iki"
+
+msgid "Price- %s"
+msgstr "Kaina - %s"
+
+msgid "Price:"
+msgstr "Kaina:"
+
+msgid "Priority of limitations"
+msgstr "Apribojimų prioritetas"
+
+msgid "Product not found"
+msgstr "Prekė nerasta"
+
+msgid "Products and Variants"
+msgstr "Produktai ir variantai"
+
+msgid "Products assembling period in data file for quick search."
+msgstr "Produktų surinkimo laikotarpis duomenų faile greitai paieškai."
+
+msgid "Products Filter"
+msgstr "Produktų filtras"
+
+msgid "Products Messenger"
+msgstr "Produktai Messenger"
+
+msgid "Products not found!"
+msgstr "Prekės nerasta!"
+
+msgid "Products per page"
+msgstr "Produktai puslapyje"
+
+msgid "px"
+msgstr "px"
+
+msgid "Quick Introduction"
+msgstr "Greita įžanga"
+
+msgid "Quick search"
+msgstr "Greita paieška"
+
+msgid "Radio"
+msgstr "radijo"
+
+msgid "Radio and checkboxes skin"
+msgstr "Radijas ir žymimieji langeliai"
+
+msgid "Radio/Checkbox in drop-down"
+msgstr "Radijas / žymės langelis išskleidžiamajame meniu"
+
+msgid "Range"
+msgstr "Diapazonas"
+
+msgid "Range-slider skin"
+msgstr "Diapazono slankiklio oda"
+
+msgid "Ranges for price filter."
+msgstr "Kainų filtro diapazonai."
+
+msgid "rating"
+msgstr "įvertinimas"
+
+msgid "realmag777"
+msgstr "realmag777"
+
+msgid "Reassemble data file"
+msgstr "Iš naujo surinkite duomenų failą"
+
+msgid "Reassemble data file for quick search manually now"
+msgstr ""
+"Dabar iš naujo surinkite duomenų failą, kad galėtumėte greitai ieškoti "
+"rankiniu būdu"
+
+msgid "Reassemble products data now!"
+msgstr "Surinkite produktų duomenis dabar!"
+
+msgid "Recommended plugins for your site flexibility and features"
+msgstr ""
+"Rekomenduojami papildiniai jūsų svetainės lankstumui ir funkcijoms užtikrinti"
+
+msgid "Red buttons on the top of the shop page when searching done"
+msgstr "Raudoni mygtukai parduotuvės puslapio viršuje, kai paieška atlikta"
+
+msgid "Redirect to"
+msgstr "Nukreipti į"
+
+msgid "remove extension"
+msgstr "pašalinti plėtinį"
+
+msgid "Reset"
+msgstr "naujo"
+
+msgid "Reset button text"
+msgstr "Iš naujo nustatyti mygtuko tekstą"
+
+msgid "Reset items order"
+msgstr "Iš naujo nustatyti prekių užsakymą"
+
+msgid "Result count css selector"
+msgstr "Rezultatų skaičiaus css parinkiklis"
+
+msgid "Reverse"
+msgstr "Važiuoti atbuline eiga"
+
+msgid "Reverse: deactivate plugin on the next site pages only"
+msgstr "Atvirkščiai: išjunkite papildinį tik kitose svetainės puslapiuose"
+
+msgid "Right"
+msgstr "teisė"
+
+msgid "Role"
+msgstr "Vaidmuo"
+
+msgid "Rules"
+msgstr "Taisyklės"
+
+msgid "Save current search query"
+msgstr "Išsaugoti dabartinę paieškos užklausą"
+
+msgid "Save search query"
+msgstr "Išsaugoti paieškos užklausą"
+
+msgid "Search by Author"
+msgstr "Ieškoti pagal autorių"
+
+msgid "Search by content"
+msgstr "Ieškoti pagal turinį"
+
+msgid "Search by content OR excerpt"
+msgstr "Ieškoti pagal turinį ARBA ištrauką"
+
+msgid "Search by description in product variations"
+msgstr "Ieškokite pagal aprašymą produktų variantuose"
+
+msgid "Search by description in variations"
+msgstr "Ieškoti pagal aprašymą variantuose"
+
+msgid "Search by exact value OR if meta key exists"
+msgstr "Ieškokite pagal tikslią reikšmę ARBA, jei yra meta raktas"
+
+msgid "Search by excerpt"
+msgstr "Ieškoti pagal ištrauką"
+
+msgid "Search by featured"
+msgstr "Ieškoti pagal pagrindinius"
+
+msgid "Search by full word only"
+msgstr "Search by full word only"
+
+msgid "Search by InStock"
+msgstr "Ieškoti pagal InStock"
+
+msgid "Search by Price"
+msgstr "Ieškoti pagal kainą"
+
+msgid "Search by rating"
+msgstr "Ieškoti pagal įvertinimą"
+
+msgid "Search by SKU"
+msgstr "Ieškoti pagal SKU"
+
+msgid "Search by Text"
+msgstr "Ieškoti pagal tekstą"
+
+msgid "Search by text"
+msgstr "Paieška pagal tekstą"
+
+msgid "Search by title"
+msgstr "Ieškoti pagal pavadinimą"
+
+msgid "Search by title AND content"
+msgstr "Ieškokite pagal pavadinimą IR turinį"
+
+msgid "Search by title OR content"
+msgstr "Ieškokite pagal pavadinimą ARBA turinį"
+
+msgid "Search by title OR content OR excerpt"
+msgstr "Ieškokite pagal pavadinimą ARBA turinį ARBA ištrauką"
+
+msgid "Search in products and their variations"
+msgstr "Ieškokite produktų ir jų variantų"
+
+msgid "Search in variable produts"
+msgstr "Ieškokite kintamų produktų"
+
+msgid "Search logic"
+msgstr "Paieškos logika"
+
+msgid "Search option"
+msgstr "Paieškos parinktis"
+
+msgid "Search slug"
+msgstr "Ieškoti šliužo"
+
+msgid "Search value"
+msgstr "Paieškos vertė"
+
+msgid "Searching is slow OR the plugin make page loading slow"
+msgstr "Paieška vyksta lėtai ARBA dėl papildinio puslapis įkeliamas lėtai"
+
+msgid "Secret key for external cron"
+msgstr "Slaptas išorinio cron raktas"
+
+msgid "Sections"
+msgstr "Skyriai"
+
+msgid "Sections behavior"
+msgstr "Skyrių elgesys"
+
+msgid "See more new products..."
+msgstr "Žiūrėti daugiau naujų produktų..."
+
+msgid "Select a product author"
+msgstr "Pasirinkite produkto autorių"
+
+msgid "Select acceptable for your hosting type of cron"
+msgstr "Pasirinkite priimtiną jūsų prieglobos cron tipui"
+
+msgid "Select date range for statistic!"
+msgstr "Pasirinkite dienų seką statistikai!"
+
+msgid "Select Image"
+msgstr "Pasirinkite vaizdą"
+
+msgid "select image"
+msgstr "pasirinkti paveikslėlį"
+
+msgid "Select period:"
+msgstr "Pasirinkite laikotarpį:"
+
+msgid "Select taxonomies and meta keys which you want to track"
+msgstr "Pasirinkite taksonomijas ir metaraktus, kuriuos norite stebėti"
+
+msgid "Select taxonomies in tab Options and press \"Save changes\""
+msgstr ""
+"Pasirinkite taksonomijas skirtuke Parinktys ir paspauskite \"Išsaugoti "
+"pakeitimus\""
+
+msgid "Select the time period for which you want to see statistical data"
+msgstr "Pasirinkite laikotarpį, kurio statistinius duomenis norite matyti"
+
+msgid "SEO text"
+msgstr "SEO tekstas"
+
+msgid "SEO URL request"
+msgstr "SEO URL užklausa"
+
+msgid "Server options for statistic stock"
+msgstr "Serverio parinktys statistinėms akcijoms"
+
+msgid "Set \"none\" to disable placeholder for this textinput"
+msgstr ""
+"Jei norite išjungti šios teksto įvesties rezervuotąją vietą, nustatykite "
+"\"nėra\"."
+
+msgid "Set filter automatically"
+msgstr "Automatiškai nustatykite filtrą"
+
+msgid "Set filter automatically on the shop page"
+msgstr "Parduotuvės puslapyje automatiškai nustatykite filtrą"
+
+msgid "set link to the image"
+msgstr "nustatyti nuorodą į paveikslėlį"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Settings imported successfully. Reload the page please."
+msgstr "Nustatymai sėkmingai importuoti. Prašau iš naujo įkelti puslapį."
+
+msgid "Short - d M, y"
+msgstr "Trumpas – d M, m"
+
+msgid "Should the slideout button be visible on mobile devices"
+msgstr ""
+"Ar išstumiamas mygtukas turėtų būti matomas mobiliuosiuose įrenginiuose"
+
+msgid "Show"
+msgstr "Rodyti"
+
+msgid "Show stars in drop-down"
+msgstr "Rodyti žvaigždutes išskleidžiamajame meniu"
+
+msgid "show blocks helper"
+msgstr "rodyti blokų pagalbininką"
+
+msgid "Show blocks helper button"
+msgstr "Rodyti blokų pagalbinį mygtuką"
+
+msgid "Show button"
+msgstr "Rodyti mygtuką"
+
+msgid "Show chain always"
+msgstr "Visada rodyti grandinę"
+
+msgid "Show count"
+msgstr "Rodyti skaičių"
+
+msgid "Show count of items near taxonomies terms on the front"
+msgstr "Rodyti elementų skaičių šalia taksonomijos terminų priekyje"
+
+msgid "Show Featured products checkbox inside WOOF search form"
+msgstr "Rodyti siūlomų produktų žymimąjį laukelį WOOF paieškos formoje"
+
+msgid "Show found variants in drop-down list"
+msgstr "Rodyti rastus variantus išskleidžiamajame sąraše"
+
+msgid "Show image of variation"
+msgstr "Rodyti varianto vaizdą"
+
+msgid "Show image title"
+msgstr "Rodyti paveikslėlio pavadinimą"
+
+msgid "Show image title below picture"
+msgstr "Rodyti paveikslėlio pavadinimą po paveikslėliu"
+
+msgid "Show in one column"
+msgstr "Rodyti viename stulpelyje"
+
+msgid "Show in one column with title"
+msgstr "Rodyti viename stulpelyje su pavadinimu"
+
+msgid "Show In stock only checkbox inside woof search form"
+msgstr "Rodyti Tik sandėlyje esantį žymimąjį laukelį woof paieškos formoje"
+
+msgid "Show inputs"
+msgstr "Rodyti įvestis"
+
+msgid "Show less"
+msgstr "Rodyti mažiau"
+
+msgid "Show more"
+msgstr "Rodyti daugiau"
+
+msgid "Show notice"
+msgstr "Rodyti pranešimą"
+
+msgid "Show notice on product page"
+msgstr "Rodyti pranešimą produkto puslapyje"
+
+msgid "Show on all devices"
+msgstr "Rodyti visuose įrenginiuose"
+
+msgid "Show On backorder checkbox inside woof search form"
+msgstr "Rodyti ant užsakymo žymimąjį laukelį woof paieškos formoje"
+
+msgid "Show On sale only checkbox inside woof search form"
+msgstr "Rodyti tik parduodamą žymimąjį laukelį woof paieškos formoje"
+
+msgid "Show only on desktop"
+msgstr "Rodyti tik darbalaukyje"
+
+msgid "Show only on mobile"
+msgstr "Rodyti tik mobiliajame telefone"
+
+msgid "Show price text inputs"
+msgstr "Rodyti kainos teksto įvestį"
+
+msgid "Show product mesenger box inside woof search form"
+msgstr "Rodyti produkto siuntimo laukelį woof paieškos formoje"
+
+msgid "show products filter"
+msgstr "rodyti produktų filtrą"
+
+msgid "Show products filter form"
+msgstr "Rodyti produktų filtro formą"
+
+msgid "Show Search by author drop-down inside woof search form"
+msgstr ""
+"Rodyti paieškos pagal autorių išskleidžiamąjį meniu woof paieškos formoje"
+
+msgid "Show subscription button"
+msgstr "Rodyti prenumeratos mygtuką"
+
+msgid "Show textinput for searching by products sku"
+msgstr "Rodyti teksto įvestį ieškant pagal gaminių sk"
+
+msgid "Show textinput for searching by products title"
+msgstr "Rodyti teksto įvestį ieškant pagal produktų pavadinimą"
+
+msgid "Show title label"
+msgstr "Rodyti pavadinimo etiketę"
+
+msgid "Show toggle button"
+msgstr "Rodyti perjungimo mygtuką"
+
+msgid "Show tooltip"
+msgstr "Rodyti patarimą"
+
+msgid "Show woocommerce filter by price inside woof search form"
+msgstr "Rodyti woocommerce filtrą pagal kainą woof paieškos formoje"
+
+msgid "Show/Hide meta block title on the front"
+msgstr "Rodyti/slėpti metabloko pavadinimą priekyje"
+
+msgid "Show/Hide slideout on shop pages"
+msgstr "Parduotuvės puslapiuose rodyti / slėpti skaidres"
+
+msgid "Show/Hide taxonomy block title on the front"
+msgstr "Rodyti / slėpti taksonomijos bloko pavadinimą priekyje"
+
+msgid "Simple products only"
+msgstr "Tik paprasti produktai"
+
+msgid "Skin only works for ion slider"
+msgstr "Oda veikia tik su jonų slankikliu"
+
+msgid "Skins for the auto filter"
+msgstr "Skinai automatiniam filtrui"
+
+msgid "SKU"
+msgstr "Prekės kodas"
+
+msgid "Slideout"
+msgstr "Išstumta"
+
+msgid "Slideout image"
+msgstr "Išstumiamas vaizdas"
+
+msgid "Slideout text"
+msgstr "Išstumiamas tekstas"
+
+msgid "Slider"
+msgstr "Slankiklį"
+
+msgid "Slider skin"
+msgstr "Slankesnė oda"
+
+msgid "Some questions"
+msgstr "Keli klausimai"
+
+msgid "Somthing wrong!"
+msgstr "Kažkas negerai!"
+
+msgid "Sorry! This product is not suitable for your search %title%."
+msgstr "Atsiprašau! Šis produktas netinka jūsų paieškai %title%."
+
+msgid "Sort terms"
+msgstr "Rūšiuoti terminus"
+
+msgid "Speed"
+msgstr "Pagreitinti"
+
+msgid "SS"
+msgstr "SS"
+
+msgid "SSS"
+msgstr "FAQ"
+
+msgid "SSSS"
+msgstr "Ssss"
+
+msgid "SSSSS"
+msgstr "sssss"
+
+msgid "stat is not activated or PDO not inited"
+msgstr "stat nėra aktyvuota arba SKVN neįvestas"
+
+msgid "State after init"
+msgstr "Būsena po inito"
+
+msgid "Statistic"
+msgstr "statistinis"
+
+msgid "Statistic calculation ..."
+msgstr "Statistinis skaičiavimas..."
+
+msgid "Statistic for:"
+msgstr "Statistika:"
+
+msgid "Statistical parameters:"
+msgstr "Statistiniai parametrai:"
+
+msgid "Statistics collection:"
+msgstr "Statistikos rinkimas:"
+
+msgid "Step"
+msgstr "Žingsnis"
+
+msgid "Step by step filter"
+msgstr "Žingsnis po žingsnio filtras"
+
+msgid "string"
+msgstr "eilutė"
+
+msgid "Structure"
+msgstr "struktūra"
+
+msgid "Subject of the email"
+msgstr "Laiško tema"
+
+msgid "Subject of the email."
+msgstr "Laiško tema."
+
+msgid "Submit button position"
+msgstr "Pateikti mygtuko padėtį"
+
+msgid "Subscribe"
+msgstr "Prenumeruok"
+
+msgid "Subscribe on the current search request"
+msgstr "Prenumeruokite dabartinę paieškos užklausą"
+
+msgid "Subscription"
+msgstr "prenumerata"
+
+msgid "Subscription time"
+msgstr "Prenumeratos laikas"
+
+msgid "Tags"
+msgstr "Žymės"
+
+msgid "Tax"
+msgstr "Mokestis"
+
+msgid "Taxes"
+msgstr "Mokesčiai"
+
+msgid "Taxonomy conditionals"
+msgstr "Taksonomijos sąlyginiai"
+
+msgid "Taxonomy custom label"
+msgstr "Pasirinktinė taksonomijos etiketė"
+
+msgid "Template"
+msgstr "šablonas"
+
+msgid "Terms:"
+msgstr "Sąlygos:"
+
+msgid "TEXT"
+msgstr "TEKSTAS"
+
+msgid "Text"
+msgstr "Tekstas"
+
+msgid "Text for block toggle closed"
+msgstr "Tekstas bloko perjungimui uždarytas"
+
+msgid "Text for block toggle opened"
+msgstr "Atidarytas bloko perjungimo tekstas"
+
+msgid "Text for button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"Mygtuko tekstas, kai įjungtas mobiliojo ryšio režimas. Norėdami išjungti, "
+"nustatykite -1."
+
+msgid "Text for close button when activated mobile mode. Set -1 to disable."
+msgstr ""
+"Uždarymo mygtuko tekstas, kai įjungtas mobiliojo ryšio režimas. Norėdami "
+"išjungti, nustatykite -1."
+
+msgid "Text for mobile filter button"
+msgstr "Tekstas mobiliojo filtro mygtukui"
+
+msgid "Text if current product is not suitable for saved searches"
+msgstr "Tekstas, jei dabartinis produktas netinka išsaugotoms paieškoms"
+
+msgid "Text if current product is suitable for saved searches"
+msgstr "Tekstas, jei dabartinis produktas tinka išsaugotoms paieškoms"
+
+msgid "Text in header of the email."
+msgstr "Tekstas el. laiško antraštėje."
+
+msgid "Text length"
+msgstr "Teksto ilgis"
+
+msgid "Text notes for customer if you need it."
+msgstr "Teksto pastabos klientui, jei jums to reikia."
+
+msgid "Text of the email"
+msgstr "Laiško tekstas"
+
+msgid "Text search"
+msgstr "Teksto paieška"
+
+msgid "Text search also works with taxonomies (attributes, categories, tags)"
+msgstr ""
+"Teksto paieška taip pat veikia su taksonomijomis (atributais, kategorijomis, "
+"žymomis)"
+
+msgid "Text search conditional"
+msgstr "Sąlyginė teksto paieška"
+
+msgid "Text to close mobile filter"
+msgstr "Tekstas, kad uždarytumėte mobiliojo telefono filtrą"
+
+msgid "Text which displayed instead filter while it is closed if selected."
+msgstr ""
+"Vietoj to rodomas tekstas filtruojamas, kai jis uždarytas, jei pasirinktas."
+
+msgid "The maximum height of the drop-down with the results in px."
+msgstr "Didžiausias išskleidžiamojo meniu aukštis su rezultatais pikseliais."
+
+msgid "The placeholder in title field"
+msgstr "Vietos rezervavimo ženklas pavadinimo lauke"
+
+msgid "The result is only with the full coincidence of words"
+msgstr "Rezultatas yra tik visiškai sutapę žodžiai"
+
+msgid "the same window"
+msgstr "tas pats langas"
+
+msgid "The submit and reset buttons position in current search form"
+msgstr ""
+"Pateikimo ir nustatymo iš naujo mygtukų padėtis dabartinėje paieškos formoje"
+
+msgid "The text before the block of subscription block"
+msgstr "Tekstas prieš prenumeratos bloką"
+
+msgid "The text in the button"
+msgstr "Tekstas mygtuke"
+
+msgid "This can speed up in stock searches for variable products."
+msgstr "Tai gali pagreitinti kintamų produktų paiešką sandėlyje."
+
+msgid "This option should be set"
+msgstr "Ši parinktis turėtų būti nustatyta"
+
+msgid "This product matches your search %title%."
+msgstr "Šis produktas atitinka jūsų paiešką %title%."
+
+msgid "This works with ionSlider only"
+msgstr "Tai veikia tik su ionSlider"
+
+msgid "Tickets"
+msgstr "bilietai"
+
+msgid "Title"
+msgstr "pavadinimas"
+
+msgid "Title of the email"
+msgstr "Laiško pavadinimas"
+
+msgid "Title of the Query*"
+msgstr "Užklausos pavadinimas*"
+
+msgid "Title text"
+msgstr "Pavadinimo tekstas"
+
+msgid "Title- %s"
+msgstr "Pavadinimas- %s"
+
+msgid "To"
+msgstr "Iki"
+
+msgid "to"
+msgstr "į"
+
+msgid "to: %s"
+msgstr "į: %s"
+
+msgid "toggle"
+msgstr "perjungti"
+
+msgid "Toggle block type"
+msgstr "Perjungti bloko tipą"
+
+msgid "toggle color terms"
+msgstr "perjungti spalvų terminus"
+
+msgid "toggle image terms"
+msgstr "perjungti vaizdo terminus"
+
+msgid "Tooltip"
+msgstr "Tooltip"
+
+msgid "Tooltip icon"
+msgstr "Patarimo piktograma"
+
+msgid "Tooltip text"
+msgstr "Patarimo tekstas"
+
+msgid "Top"
+msgstr "viršus"
+
+msgid "Top AND Bottom"
+msgstr "Viršus ir apačia"
+
+msgid "Translations"
+msgstr "Vertimai"
+
+msgid "Try to ajaxify the shop"
+msgstr "Pasistenkite sutvarkyti parduotuvę"
+
+msgid "Turbo mode"
+msgstr "Turbo režimas"
+
+msgid "twicedaily"
+msgstr "du kartus per dieną"
+
+msgid "twicemonthly"
+msgstr "du kartus per mėnesį"
+
+msgid "Two months"
+msgstr "Du mėnesiai"
+
+msgid "Two weeks"
+msgstr "Dvi savaitės"
+
+msgid "Type"
+msgstr "Tipas"
+
+msgid "unsubscribe"
+msgstr "Atsisakyti"
+
+msgid "Update"
+msgstr "Atnaujinti"
+
+msgid "Update now!"
+msgstr "Atnaujinti dabar!"
+
+msgid "Upgrade"
+msgstr "patobulinti"
+
+msgid "Url of the custom image for the button"
+msgstr "Priskirto mygtuko vaizdo URL"
+
+msgid "URL of the page"
+msgstr "Puslapio URL"
+
+msgid "Use beauty scroll"
+msgstr "Naudokite grožio slinktį"
+
+msgid "Use cache"
+msgstr "Naudokite talpyklą"
+
+msgid "Use chosen"
+msgstr "Naudoti pasirinktas"
+
+msgid "Use chosen javascript library on the front of your site for drop-downs."
+msgstr ""
+"Išskleidžiamiesiems meniu naudokite pasirinktą „Javascript“ biblioteką savo "
+"svetainės priekyje."
+
+msgid "Use for"
+msgstr "naudoti"
+
+msgid "Use image as radio button"
+msgstr "Naudokite vaizdą kaip radijo mygtuką"
+
+msgid "Use new DB."
+msgstr "Naudokite naują DB."
+
+msgid "Use tooltip"
+msgstr "Naudokite patarimą"
+
+msgid "User"
+msgstr "vartotojas"
+
+msgid "User can save the search query"
+msgstr "Vartotojas gali išsaugoti paieškos užklausą"
+
+msgid "Value exists"
+msgstr "Vertė egzistuoja"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video tutorials"
+msgstr "Vaizdo samouczków"
+
+msgid "View"
+msgstr "Vaizdas"
+
+msgid "View of the search by author"
+msgstr "Paieška pagal autorių"
+
+msgid "View of the taxonomies terms on the front"
+msgstr "Taksonomijos terminų vaizdas priekyje"
+
+msgid "View product"
+msgstr "Peržiūrėti produktą"
+
+msgid "Way to show of slideout popup out: click or hover"
+msgstr ""
+"Iššokančiojo lango rodymo būdas: spustelėkite arba užveskite pelės žymeklį"
+
+msgid "weekly"
+msgstr "kas savaitę"
+
+msgid "Weekly recommended"
+msgstr "Rekomenduojama kas savaitę"
+
+msgid "Where to keep products data file"
+msgstr "Kur saugoti produktų duomenų failą"
+
+msgid "Where to show slideout button: right, left, top"
+msgstr "Kur rodyti išstumimo mygtuką: dešinėje, kairėje, viršuje"
+
+msgid "Width and height of the popup html container size in (px)"
+msgstr "Iššokančiojo HTML sudėtinio rodinio dydžio plotis ir aukštis (px)"
+
+msgid "Width X Height (px) of the button image"
+msgstr "Mygtuko vaizdo plotis X aukštis (px)."
+
+msgid "without update"
+msgstr "be atnaujinimo"
+
+msgid "WOOBE"
+msgstr "WOOBE"
+
+msgid "WooCommerce Bulk Editor"
+msgstr "„WooCommerce“ masinis redaktorius"
+
+msgid "WooCommerce Currency Swither"
+msgstr "WooCommerce Currency Swither"
+
+msgid "WooCommerce Products Filter"
+msgstr "„WooCommerce“ produktų filtras"
+
+msgid "WooCommerce Products Filter by realmag777"
+msgstr "„WooCommerce“ produktų filtras pagal realmag777"
+
+msgid "WooCommerce Products Filter Support"
+msgstr "„WooCommerce“ produktų filtrų palaikymas"
+
+msgid "WooCommerce Products Tables"
+msgstr "„WooCommerce“ produktų lentelės"
+
+msgid "WOOCS"
+msgstr "WOOCS"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF – „WooCommerce“ produktų filtras"
+
+msgid "WOOF FULL VERSION"
+msgstr "WOOF PILNA VERSIJA"
+
+msgid "WOOF settings saving ..."
+msgstr "WOOF nustatymai išsaugomi..."
+
+msgid "WOOT"
+msgstr "WOOT"
+
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+msgid "WordPress Cron period"
+msgstr "WordPress Cron laikotarpis"
+
+msgid "WordPress cron period"
+msgstr "WordPress cron laikotarpis"
+
+msgid "Works for text search and make its faster"
+msgstr "Veikia ieškant teksto ir pagreitina ją"
+
+msgid "WPML taxonomies labels translations"
+msgstr "WPML taksonomijos žymi vertimus"
+
+msgid "Wrong data for \"Server options for statistic stock\" options"
+msgstr ""
+"Klaidingi \" duomenysServerio parinktys statistinėms akcijoms\" galimybės"
+
+msgid "Wrong path to template"
+msgstr "Klaidingas kelias į šabloną"
+
+msgid "Yes"
+msgstr "taip"
+
+msgid "Yes(only if the product exists)"
+msgstr "Taip (tik jei produktas yra)"
+
+msgid "Yes, but only for desktop"
+msgstr "Taip, bet tik darbalaukiui"
+
+msgid "Yes, but only for mobile devices"
+msgstr "Taip, bet tik mobiliesiems įrenginiams"
+
+msgid "Yes, for all devices"
+msgstr "Taip, visiems įrenginiams"
+
+msgid "Yes, I love it"
+msgstr "Taip, man tai patinka"
+
+msgid "Yes, only for PC"
+msgstr "Taip, tik PC"
+
+msgid "Yes, show as closed"
+msgstr "Taip, rodyti kaip uždarytą"
+
+msgid "Yes, show as opened"
+msgstr "Taip, rodyti kaip atidaryta"
+
+msgid "YOAST: add WOOF SEO links to sitemap"
+msgstr "YOAST: pridėkite WOOF SEO nuorodas į svetainės schemą"
+
+msgid "You are unsubscribed from the future products newsletters."
+msgstr "Jūs atsisakėte būsimų produktų naujienlaiškių."
+
+msgid "You can define whith which role show users in the drop down"
+msgstr ""
+"Išskleidžiamajame meniu galite nustatyti, kurių vaidmenų rodymo naudotojai"
+
+msgid "You should write extension info in info.dat file!"
+msgstr "Informaciją apie plėtinį turėtumėte įrašyti į info.dat failą!"
+
+msgid "Your settings have been saved."
+msgstr "Jūsų nustatymai išsaugoti."
+
+msgid "Сlear"
+msgstr "Aišku"
+
+msgid "Сonditionals"
+msgstr "Sąlygos"
+
+msgid "Сontainer size"
+msgstr "Konteinerio dydis"
+
+msgid "Сount is max"
+msgstr "Skaičius yra maks"

@@ -1,0 +1,38 @@
+# Required sections
+name: "The Maestro"
+category: Forensic
+description: |-
+  The Maestro has gone mad, he's more of a mad pianist now.
+  He's been doing some shady stuff recently and we need you to investigate it.
+  Here's everything we have on him, good luck.
+
+  Objective: Find the secret.
+  Reward: Flag.
+  
+  Author: ringoshiro
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - IFEST{w0w_wh3n_d1d_y0u_b3c0m3_4_m43str0_f81932}
+
+tags:
+    - medium
+
+files:
+    - chall.zip
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}{{ config.app_name }} - Welcome{% endblock %}
+
+{% block content %}
+<div class="text-center">
+    <h1 class="text-4xl font-bold mb-8">{{ config.app_name }}</h1>
+    <p class="mb-8 text-gray-600">Welcome to the Spicy Storage CTF Challenge. Prove your skills in secure file storage and multi-layer authentication.</p>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-shadow">
+            <h2 class="text-xl font-bold mb-2">User Authentication</h2>
+            <p class="text-gray-600">Advanced authentication mechanisms guard certain areas. Are you capable of finding a way in?</p>
+        </div>
+        <div class="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-shadow">
+            <h2 class="text-xl font-bold mb-2">File Upload & Management</h2>
+            <p class="text-gray-600">The file management system has its limits. Some files might be more interesting than others.</p>
+        </div>
+        <div class="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-shadow">
+            <h2 class="text-xl font-bold mb-2">Admin Access</h2>
+            <p class="text-gray-600">The administrative dashboard holds the keys to power. Access is highly restricted, but restrictions can be bypassed.</p>
+        </div>
+        <div class="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-shadow">
+            <h2 class="text-xl font-bold mb-2">API Gateway Exploitation</h2>
+            <p class="text-gray-600">The API gateway is the heart of communication. Sometimes, openings appear where least expected.</p>
+        </div>
+    </div>
+</div>
+{% endblock %}

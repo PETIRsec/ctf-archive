@@ -1,0 +1,7 @@
+services:
+  time-travelers-dilemma:
+    build: .
+    ports:
+      - "14041:14041"
+    entrypoint: /etc/init.sh
+    restart: unless-stopped

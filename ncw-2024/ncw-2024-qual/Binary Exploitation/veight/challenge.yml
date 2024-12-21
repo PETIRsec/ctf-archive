@@ -1,0 +1,35 @@
+# Required sections
+name: "veight"
+category: Binary Exploitation
+description: |-
+  Goal run "/readflag"
+  
+  Author: Enryu
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 103.145.226.92 11101
+
+flags:
+    # A static case sensitive flag
+    - NCW{603f1e4f172d5a4305e649aea9425636}
+
+tags:
+    - huh
+
+files:
+    - public/chall.zip
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

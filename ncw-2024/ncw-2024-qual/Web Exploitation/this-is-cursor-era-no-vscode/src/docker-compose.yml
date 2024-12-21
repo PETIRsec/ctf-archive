@@ -1,0 +1,32 @@
+version: '3.8'
+services:
+  webserver:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "22222:3000"
+    env_file:
+      - .env
+    depends_on:
+      - db
+    networks:
+      - app-network
+  db:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: ctf_challenge
+      POSTGRES_USER: ctf_user
+      POSTGRES_PASSWORD: ctf_password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+volumes:
+  postgres_data:
+
+
+networks:
+  app-network:
+    driver: bridge

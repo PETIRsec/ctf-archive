@@ -1,0 +1,34 @@
+# Required sections
+name: "Real or Cake"
+category: Cryptography
+description: |-
+  Wrth pulang gemastik lupa bikin soal 💀💀
+  
+  Author: Wrth
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - IFEST{THE_ONE_PIECE_IS_REAL}
+
+tags:
+    - hard
+
+files:
+    - chall.sage
+    - output.txt
+
+state: invisible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

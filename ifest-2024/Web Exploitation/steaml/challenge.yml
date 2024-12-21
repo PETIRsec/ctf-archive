@@ -1,0 +1,35 @@
+# Required sections
+name: "SteaML"
+category: Web Exploitation
+description: |-
+  The world most biggest game community
+
+  Author: liqued
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: http://157.230.38.61:3221
+
+flags:
+  # A static case sensitive flag
+  - IFEST{pr15m4_0rm_1nj3ct10n_wyimjav7au}
+
+tags:
+  - easy
+
+files:
+  - steaml.zip
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

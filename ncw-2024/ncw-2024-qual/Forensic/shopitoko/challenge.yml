@@ -1,0 +1,43 @@
+# Required sections
+name: 'ShopiToko'
+category: Forensic
+description: |-
+    ShopiToko is a popular e-commerce platform, it has been experiencing weird activity on their web servers. 
+    The company's IT team notices a spike in traffic and some weird access patterns. They suspect that an attacker, 
+    known only by the handle "Bargain Hunter," has discovered a vulnerability in their Java-based web application.
+    The logs show that Bargain Hunter first probes the server for common endpoints and attempts to fingerprint the application. 
+    After some reconnaissance, they launch a series of exploit attempts, eventually succeeding in uploading a suspicious file.
+    Using this file, Bargain Hunter attempts to access sensitive customer information, including order histories and payment details.
+    They also try to manipulate product prices and create fake discount codes.
+    Meanwhile, legitimate users continue to browse products, add items to their carts, and complete purchases on the platform.
+    The ShopiToko security team, alerted by the unusual access patterns, begins investigating the incident. 
+
+    Author: Eyes
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 103.145.226.92 35353
+
+flags:
+    # A static case sensitive flag
+    - NCW{n1ce_3yes_y0u_got_th3re_d1d_the_chall_made_your_eyes_spring}
+
+tags:
+    - medium
+
+files:
+    - server.log
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: '0.1'

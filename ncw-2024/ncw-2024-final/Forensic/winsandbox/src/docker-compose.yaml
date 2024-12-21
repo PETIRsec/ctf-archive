@@ -1,0 +1,9 @@
+services:
+  winsandbox:
+    build: .
+    ports:
+      - "18172:18172"
+    # entrypoint: /etc/init.sh
+    restart: unless-stopped
+    environment:
+      - FLAG=NCW{so_sad_how_this_issue_is_staled_for_months_but_once_you_know_what_to_grep_you_will_get_everything_yay}

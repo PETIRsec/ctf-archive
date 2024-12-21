@@ -1,0 +1,37 @@
+# Required sections
+name: "Diddy's Party"
+category: Misc
+description: |-
+  There's no party like diddy's party.
+  Obviously you must get enough money to get in !
+
+  Author: liqued
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: http://103.145.226.92:48334/
+
+flags:
+  # A static case sensitive flag
+  - NCW{n1c3_y0un6_m4n_n0w_w3_w1ll_st4rt_th3_p4rty}
+
+tags:
+  - hard
+  - blockchain
+
+files:
+  - chall.zip
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

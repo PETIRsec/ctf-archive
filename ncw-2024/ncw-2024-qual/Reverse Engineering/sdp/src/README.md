@@ -1,0 +1,5 @@
+# SDP
+i think rev player should be all-rounder.
+
+# Flag
+NCW{R3vers1ng_1s_Ev3rywh3r3_59e46f4892}

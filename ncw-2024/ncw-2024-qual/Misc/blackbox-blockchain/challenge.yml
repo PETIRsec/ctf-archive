@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../challenge.schema.yaml
+name: "Blackbox Blockchain"
+category: Misc
+description: |
+  Did you know that our blockchain infrastructure now supports Cairo? I hope this challenge gives you a taste of the infrastructure.
+
+  Here's the infrastructure: https://github.com/TCP1P/Paradigmctf-BlockChain-Infra-Extended. Thanks to Kiinzu for helping me fix and improve this blockchain infrastructure. :)
+
+  Author: Dimas Maulana
+
+# value: 1000
+# type: StaticAttachment
+
+value: 500
+type: dynamic
+
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+##### TIDAK USAH DIGANTI
+
+# scripts:
+#   start: cd ./src && docker-compose up --build --compatibility --detach
+#   stop: cd ./src && docker-compose down --volumes
+connection_info: http://103.145.226.92:8705/
+
+tags:
+  - extreme
+  - blockchain
+
+flags:
+  - FLAG{you_just_steal_my_secret_ha_57584395528305}
+
+state: visible
+
+provide: ./contracts
+
+version: "0.1"

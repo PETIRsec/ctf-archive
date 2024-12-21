@@ -1,0 +1,255 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<div class="max-w-6xl mx-auto">
+    <div class="bg-white rounded-lg shadow p-6 mb-6">
+        <h2 class="text-2xl font-bold mb-4">Welcome, {{ current_user.username }}</h2>
+        <div class="grid grid-cols-2 gap-4">
+            <div class="p-4 bg-gray-50 rounded">
+                <p class="font-semibold">Role: <span class="text-blue-600">{{ current_user.role }}</span></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-white rounded-lg shadow p-6 mb-6">
+        <h3 class="text-xl font-bold mb-4">Upload File</h3>
+        <div class="text-sm text-gray-600 mb-2">
+            Allowed extensions: {{ config.allowed_extensions|join(', ') }}<br>
+            Maximum file size: {{ config.max_file_size }} bytes
+        </div>
+        <form id="uploadForm" class="space-y-4">
+            <div class="flex items-center space-x-4">
+                <input type="file" id="fileInput" class="p-2 border rounded flex-grow" accept="{{ config.allowed_extensions|join(',') }}">
+                <button type="submit" class="btn-primary">Upload</button>
+            </div>
+            <div id="uploadStatus" class="hidden"></div>
+        </form>
+        <div id="uploadedFiles" class="mt-4">
+            <h4 class="text-lg font-semibold">Uploaded files:</h4>
+            <ul id="uploadedFilesList" class="list-disc list-inside text-gray-800"></ul>
+        </div>
+    </div>
+
+    {% if current_user.role == 'admin_spicy' %}
+    <div class="bg-white rounded-lg shadow p-6 mb-6">
+        <h3 class="text-xl font-bold mb-4">Configuration Management</h3>
+        <form id="configForm" class="space-y-4">
+            <div class="grid grid-cols-2 gap-4">
+                <div>
+                    <label class="block text-sm font-medium text-gray-700">App Name</label>
+                    <input type="text" name="app_name" value="{{ config.app_name }}" class="mt-1 block w-full rounded border-gray-300 shadow-sm p-2">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-gray-700">Max File Size (bytes)</label>
+                    <input type="number" name="max_file_size" value="{{ config.max_file_size }}" class="mt-1 block w-full rounded border-gray-300 shadow-sm p-2">
+                </div>
+            </div>
+            <button type="submit" class="btn-primary">Update Config</button>
+            <div id="configStatus" class="hidden"></div>
+        </form>
+    </div>
+    <div class="bg-white rounded-lg shadow p-6 mb-6">
+        <h3 class="text-xl font-bold mb-4">Import Configuration</h3>
+        <div class="text-sm text-gray-600 mb-2">
+            Only files with allowed extensions ({{ config.allowed_extensions|join(', ') }}) can be imported.
+        </div>
+        <form id="importForm" class="space-y-4">
+            <div class="flex items-center space-x-4">
+                <input type="text" id="configPath" placeholder="Enter file path" class="p-2 border rounded flex-grow" required>
+                <button type="submit" class="btn-primary">Import</button>
+            </div>
+            <div id="importStatus" class="hidden"></div>
+        </form>
+    </div>
+    {% endif %}
+
+    <div class="bg-white rounded-lg shadow p-6">
+        <h3 class="text-xl font-bold mb-4">Read File</h3>
+        <form id="readForm" class="space-y-4">
+            <div class="flex items-center space-x-4">
+                <input type="text" id="fileNameInput" placeholder="Enter file name" class="p-2 border rounded flex-grow" required>
+                <button type="submit" class="btn-primary">Read File</button>
+            </div>
+            <div id="fileContent" class="mt-4 hidden bg-gray-200 p-4 rounded overflow-auto"></div>
+            <div id="readError" class="mt-4 text-red-600 hidden"></div>
+        </form>
+    </div>
+</div>
+
+<style>
+    .btn-primary {
+        background-color: #4f46e5;
+        color: white;
+        padding: 0.5rem 1.5rem;
+        border-radius: 0.375rem;
+        transition: background-color 0.3s ease;
+    }
+    .btn-primary:hover {
+        background-color: #4338ca;
+    }
+</style>
+
+<script>
+const config = {{ config|tojson|safe }};
+
+function addFormSubmitListener(formId, callback) {
+    const form = document.getElementById(formId);
+    if (form) {
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            await callback(e);
+        });
+    }
+}
+
+async function handleUploadForm(e) {
+    const fileInput = document.getElementById('fileInput');
+    const file = fileInput.files[0];
+    const status = document.getElementById('uploadStatus');
+
+    if (!file) {
+        updateStatus(status, 'Please select a file first', false);
+        return;
+    }
+
+    if (!validateFile(file, status)) return;
+
+    const formData = new FormData();
+    formData.append('file', file);
+
+    await submitForm('/api/upload', formData, status, fetchAndUpdateFileList);
+}
+
+async function fetchAndUpdateFileList() {
+    const uploadedFilesList = document.getElementById('uploadedFilesList');
+    try {
+        const response = await fetch('/api/files');
+        if (response.ok) {
+            const files = await response.json();
+            uploadedFilesList.innerHTML = '';
+            files.forEach(fileName => {
+                const listItem = document.createElement('li');
+                listItem.textContent = fileName;
+                uploadedFilesList.appendChild(listItem);
+            });
+        } else {
+            console.error('Failed to load files list');
+        }
+    } catch (error) {
+        console.error('Error fetching files list:', error);
+    }
+}
+
+async function handleConfigForm(e) {
+    const formData = new FormData(e.target);
+    const configUpdate = Object.fromEntries(formData.entries());
+    const status = document.getElementById('configStatus');
+
+    await submitForm('/api/config/update', JSON.stringify({ config: configUpdate }), status, null, {
+        'Content-Type': 'application/json'
+    });
+}
+
+async function handleImportForm(e) {
+    const path = document.getElementById('configPath');
+    const status = document.getElementById('importStatus');
+
+    if (!path.value) {
+        updateStatus(status, 'Please enter a file path', false);
+        return;
+    }
+
+    const fileExt = '.' + path.value.split('.').pop().toLowerCase();
+    if (!config.allowed_extensions.includes(fileExt)) {
+        updateStatus(status, `Invalid file type. Allowed extensions: ${config.allowed_extensions.join(', ')}`, false);
+        return;
+    }
+
+    await submitForm('/api/config/import', JSON.stringify({ path: path.value }), status, () => {
+        path.value = '';
+    }, {
+        'Content-Type': 'application/json'
+    });
+}
+
+async function handleReadForm(e) {
+    const fileNameInput = document.getElementById('fileNameInput');
+    const fileName = fileNameInput.value.trim();
+    const fileContentDiv = document.getElementById('fileContent');
+    const readErrorDiv = document.getElementById('readError');
+
+    if (!fileName) {
+        updateStatus(readErrorDiv, 'Please enter a file name', false);
+        return;
+    }
+
+    try {
+        const response = await fetch(`/api/read_file?file=${encodeURIComponent(fileName)}`);
+        const data = await response.json();
+        if (response.ok) {
+            fileContentDiv.innerHTML = `<pre>${data.content}</pre>`;
+            fileContentDiv.classList.remove('hidden');
+            readErrorDiv.classList.add('hidden');
+        } else {
+            fileContentDiv.classList.add('hidden');
+            updateStatus(readErrorDiv, data.error, false);
+        }
+    } catch (error) {
+        fileContentDiv.classList.add('hidden');
+        updateStatus(readErrorDiv, 'Error reading file: ' + error.message, false);
+    }
+}
+
+function updateStatus(element, message, success) {
+    element.textContent = message;
+    element.className = success ? 'text-green-600 mt-2' : 'text-red-600 mt-2';
+    element.classList.remove('hidden');
+}
+
+function validateFile(file, status) {
+    const fileExt = '.' + file.name.split('.').pop().toLowerCase();
+    if (!config.allowed_extensions.includes(fileExt)) {
+        updateStatus(status, `Invalid file type. Allowed extensions: ${config.allowed_extensions.join(', ')}`, false);
+        return false;
+    }
+    if (file.size > config.max_file_size) {
+        updateStatus(status, `File size exceeds maximum allowed size of ${config.max_file_size} bytes`, false);
+        return false;
+    }
+    return true;
+}
+
+async function submitForm(url, body, statusElement, onSuccess, headers = {}) {
+    try {
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: headers,
+            body: body
+        });
+        const data = await response.json();
+        
+        if (response.ok) {
+            updateStatus(statusElement, data.message || 'Success', true);
+            
+            if (onSuccess) await onSuccess();
+            setTimeout(() => {
+                window.location.reload();
+            }, 2000);
+        } else {
+            updateStatus(statusElement, data.error || 'An error occurred', false);
+        }
+    } catch (error) {
+        updateStatus(statusElement, 'Request failed: ' + error.message, false);
+    }
+}
+
+addFormSubmitListener('uploadForm', handleUploadForm);
+addFormSubmitListener('configForm', handleConfigForm);
+addFormSubmitListener('importForm', handleImportForm);
+addFormSubmitListener('readForm', handleReadForm);
+
+document.addEventListener('DOMContentLoaded', fetchAndUpdateFileList);
+</script>
+{% endblock %}

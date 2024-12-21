@@ -1,0 +1,26 @@
+name: "Old But Gold, Maybe"
+category: Web Exploitation
+description: |-
+  My pop used to run a website and now I inherited it. Unfortunately I'm too lazy to port the database to a newer tech...
+
+  <a href="http://103.145.226.92:24242/">http://103.145.226.92:24242/</a>
+
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+
+flags:
+  - NCW{capek_juga_buat_soalnya_bjir}
+
+tags:
+  - easy
+
+files:
+ - dist/dist.zip
+
+state: hidden
+
+version: "0.1"

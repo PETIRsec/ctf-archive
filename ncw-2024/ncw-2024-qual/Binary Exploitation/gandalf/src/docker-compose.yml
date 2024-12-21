@@ -1,0 +1,10 @@
+version: '3'
+services:
+  beelete:
+    image: gandalf
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "24234:24234"

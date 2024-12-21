@@ -1,0 +1,37 @@
+# Required sections
+name: "Your PC ran into a problem and needs to restart"
+category: Forensic
+description: |-
+  I was doing my work paper but then I got blue screen! How is it possible? I was just doing my work paper! I need to find out what happened.
+  
+  Author: cipichop
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 157.230.38.61 11511
+
+flags:
+    # A static case sensitive flag
+    - IFEST{we_all_hate_bsod_dont_we!?}
+
+
+tags:
+    - hard
+
+files:
+    - bsod.dmp
+    - chall.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

@@ -1,0 +1,34 @@
+# Required sections
+name: "Tak Ada Rotan"
+category: Cryptography
+description: |-
+  ??? pun jadi
+  
+  Author: Wrth
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{akar_pun_jadi_2af7de6b13baa}
+
+tags:
+    - hard
+
+files:
+    - chall.sage
+    - output.txt
+
+state: hidden
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

@@ -1,0 +1,34 @@
+# Required sections
+name: "Sideload"
+category: Reverse Engineering
+description: |-
+  I thought complexity equals to better security, can you proof me wrong?
+  
+  Author: Marc
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+
+flags:
+    # A static case sensitive flag
+    - NCW{this_is_a_very_long_flag_to_be_honest_i_dont_even_know_what_i_wanna_put_after_this_but_as_long_as_the_flag_is_long_enough_its_fine_i_guess_lol_anyway_goodjob_on_solving_this_challenge_im_proud_of_you}
+
+tags:
+    - medium
+
+files:
+    - app-debug.apk
+
+state: hidden
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

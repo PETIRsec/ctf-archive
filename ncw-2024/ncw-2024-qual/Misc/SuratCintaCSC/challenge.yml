@@ -1,0 +1,39 @@
+# Required sections
+name: "Surat Cinta Untuk CSC"
+category: Misc
+description: |-
+  Telah habis sudah cinta ini
+  Tak lagi tersisa untuk dunia
+  Karena tlah kuhabiskan
+  Sisa cintaku untuk cari flag
+  
+  Author: Lawson Schwantz
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+
+flags:
+    # A static case sensitive flag
+    - NCW24{Ezzzzzzzznjayyyyyy}
+    - NCW{Ezzzzzzzznjayyyyyy}
+
+tags:
+    - medium
+    - OSINT
+
+files:
+    - surat cinta untuk CSC.png
+
+state: hidden
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

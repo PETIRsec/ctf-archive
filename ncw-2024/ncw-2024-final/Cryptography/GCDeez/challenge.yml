@@ -1,0 +1,34 @@
+# Required sections
+name: "GCDeez"
+category: Cryptography
+description: |-
+  GCD This GCD That how about you GCDeez nu- 
+  
+  Author: Wrth
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 15
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{in_sorrow’s_grip_we_find_our_truest_friend,_for_grief_is_but_the_chisel_of_the_heart}
+
+tags:
+    - hard
+
+files:
+    - gcdeez.py
+    - output.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

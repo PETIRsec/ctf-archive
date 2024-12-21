@@ -1,0 +1,33 @@
+# Required sections
+name: "Tsundere Hex-chan"
+category: Forensic
+description: |-
+  I-i-it's n-n-not like I'm doing it f-f-for you or anything
+  
+  Author: ringoshiro
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - IFEST{ganbatte_ganbatte_ganbatte}
+
+tags:
+    - baby
+
+files:
+    - alya.png
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

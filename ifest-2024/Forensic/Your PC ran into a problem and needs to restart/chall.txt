@@ -1,0 +1,9 @@
+1. When was the dump captured? [mm/dd/yyyy]
+
+2. What is the bug check code and its name? [0xcode:name]
+
+3. What is the name of the terminated process?
+
+4. What is the kernel version?
+
+5. What is the address of the exceptions handler function? [0xaddress]

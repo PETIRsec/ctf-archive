@@ -1,0 +1,35 @@
+# Required sections
+name: "A4s lagi 4x"
+category: Cryptography
+description: |-
+  kemarin R5A lagi, skarang A4S lagi <br>
+  p.s: Masih sama kek qual, semoga gaada salah setting lagi kek IFEST kemarin 😭
+  
+  Author: Lawson Schwantz
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 15
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{awoadkoawdkoawdadko_gw_hampir_lupa_bikin_soal_NCW_lol}
+
+tags:
+    - medium
+
+files:
+    - A4s4x.py
+    - output.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

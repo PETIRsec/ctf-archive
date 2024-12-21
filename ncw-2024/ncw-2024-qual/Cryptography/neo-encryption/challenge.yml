@@ -1,0 +1,34 @@
+# Required sections
+name: "Neo Encryption"
+category: Cryptography
+description: |-
+  Do you believe in ~~fate~~ RSA, Neo?
+  
+  Author: chronopad
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{y0u_c4nt_esc4p3_th3_m4tr1x_3946}
+
+tags:
+    - easy
+
+files:
+    - chall.sage
+    - output.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

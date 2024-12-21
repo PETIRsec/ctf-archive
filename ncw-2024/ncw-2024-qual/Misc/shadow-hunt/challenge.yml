@@ -1,0 +1,43 @@
+# Required sections
+name: "Shadow Hunt"
+category: Misc
+description: |-
+  The name's Hunt, Shadow Hunt
+  
+  <p>Objective: Find the country</p>
+  <p>Reward: Flag</p>
+  <p>Flag Format: NCW{countrynamewithnospaces}</p>
+
+  Author: ringoshiro
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - NCW{japan}
+    - NCW{Japan}
+    - NCW{JAPAN}
+    - NCW{Jepang}
+    - NCW{jepang}
+    - NCW{JEPANG}
+
+tags:
+    - easy
+
+files:
+    - clue.png
+    - instructions.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

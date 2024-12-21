@@ -1,0 +1,30 @@
+# Required sections
+name: "LinkedOut"
+category: Reverse Engineering
+description: |-
+  Download Julia from https://julialang.org/downloads/ and extract the attached files from `https://drive.google.com/file/d/1iHjQd4ZITFPGbL70ykaLUfimSP1PVbCS/view?usp=sharing`. When you're done, feel free to debug the flag checker in `bin\jit.exe`
+  
+  Author: aseng
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - IFEST{there_w0nt_be_julia.exe_n3xT-t1m3:)}
+
+tags:
+    - hard
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

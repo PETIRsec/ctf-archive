@@ -1,0 +1,36 @@
+# Required sections
+name: "gandalf"
+category: Binary Exploitation
+description: |-
+  You are currently playing as Gandalf, a powerful wizard known for exorcising, hunting, and even striking deals with devils or dark spirits. Recently, a friend entrusted you with a Dybbuk Box, an ancient and cursed artifact that holds dark spirits within. To destroy the malevolent entities trapped inside, you need to craft a powerful spell. However, the box is sealed with several intricate locks that must be bypassed before you can open it and confront the chained spirits, putting an end to their dark influence once and for all.
+  
+  Author: Brandy
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 103.145.226.92 24234
+
+flags:
+    # A static case sensitive flag
+    - NCW{b1c3a7d9e8f4a2b6c9e7d5a3b8f1c2e4d7b9a8c1f5e6a2b9d4c7e5b3a8d9c2f4b7e1a3c6d8f2a7b5e9c1d3f6a4b7e2c5d9a1f3e7d6b8c2a4e9d1f5b3c7a6d2e8b4c1f9d5b7a2c3e4f8b9d6a1c5e7d3b8a9c2f4d1b5e6c3a7d9b8c4f1e2a6d5b3e7c9f2d8a1c3e5b7d6a9f4e2c1b8d7f3a5}
+
+tags:
+    - Medium
+
+files:
+    - gandalf
+    - libc.so.6
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

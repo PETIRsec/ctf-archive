@@ -1,0 +1,26 @@
+name: "Ninja2"
+category: Web Exploitation
+description: |-
+  A "simple" website for ur username
+  
+  Author: Yobel
+
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+
+flags:
+    - IFEST{ssti_unicode_escape_ch4ll_solved584af3}
+
+tags:
+    - medium
+
+files:
+    - ninja2.zip
+
+state: visible
+version: "0.1"

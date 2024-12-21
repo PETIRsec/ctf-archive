@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <title>Home</title>
+</head>
+
+<body>
+    <main class="w-full min-h-screen p-8">
+        <div class="flex items-center justify-center w-full text-3xl">
+            Secret Safe
+        </div>
+        <div class="flex space-x-4">
+            <% safeList.forEach(function(safe){ %>
+                <%- include('component/card', {safe: safe}); %>
+                    <% }); %>
+        </div>
+    </main>
+</body>
+
+<script>
+    function _0x3c48() { const _0x35ab1a = ['message', '3GQzRNi', '37359212TCTmaJ', 'href', 'json', '2QMcZPJ', '2674510tAhJSh', '124472JyUmIw', '5354672BCgtqB', 'encrypt', '512625YoFFYZ', '3049895PHAeWV', 'MD5', '4037520ONZEaN', '/secret', 'POST', 'plainText', 'toString', 'salt', 'application/json', '14Kceeog', '63uiJVcr', 'location', 'log', 'getElementById']; _0x3c48 = function () { return _0x35ab1a; }; return _0x3c48(); } function _0x5912(_0x502c57, _0x184a2c) { const _0x3c48b0 = _0x3c48(); return _0x5912 = function (_0x59125f, _0x2a00b9) { _0x59125f = _0x59125f - 0x95; let _0xb16a83 = _0x3c48b0[_0x59125f]; return _0xb16a83; }, _0x5912(_0x502c57, _0x184a2c); } (function (_0x14e2ce, _0x20307b) { const _0x5aed6a = _0x5912, _0x4464a9 = _0x14e2ce(); while (!![]) { try { const _0x3622e4 = parseInt(_0x5aed6a(0xa8)) / 0x1 * (parseInt(_0x5aed6a(0xa3)) / 0x2) + parseInt(_0x5aed6a(0x9f)) / 0x3 * (-parseInt(_0x5aed6a(0xa6)) / 0x4) + -parseInt(_0x5aed6a(0xa9)) / 0x5 + parseInt(_0x5aed6a(0xab)) / 0x6 * (-parseInt(_0x5aed6a(0x99)) / 0x7) + parseInt(_0x5aed6a(0xa5)) / 0x8 * (-parseInt(_0x5aed6a(0x9a)) / 0x9) + parseInt(_0x5aed6a(0xa4)) / 0xa + parseInt(_0x5aed6a(0xa0)) / 0xb; if (_0x3622e4 === _0x20307b) break; else _0x4464a9['push'](_0x4464a9['shift']()); } catch (_0x2b7e76) { _0x4464a9['push'](_0x4464a9['shift']()); } } }(_0x3c48, 0xbcb68)); class Encryption { constructor(_0x397faf, _0x4b55a3) { const _0x3b048a = _0x5912; this[_0x3b048a(0x95)] = _0x397faf, this[_0x3b048a(0x97)] = _0x4b55a3; } ['encrypt']() { const _0xc32f4e = _0x5912, _0x40f92a = CryptoJS[_0xc32f4e(0xaa)](this['plainText'] + this['salt'])[_0xc32f4e(0x96)](), _0x1354a1 = CryptoJS['AES'][_0xc32f4e(0xa7)](_0x40f92a, this['salt'])[_0xc32f4e(0x96)](); return _0x1354a1; } } async function handleEncryption(_0x484a78) { const _0x25c029 = _0x5912, _0x35b400 = document[_0x25c029(0x9d)]('user-input-' + _0x484a78)['value'], _0x552eae = new Encryption(_0x35b400, _0x484a78), _0x2008a9 = _0x552eae['encrypt'](); console[_0x25c029(0x9c)](_0x2008a9); const _0x1fc627 = await fetch(_0x25c029(0xac), { 'method': _0x25c029(0xad), 'headers': { 'Content-Type': _0x25c029(0x98) }, 'body': JSON['stringify']({ 'encryptedText': _0x2008a9, 'id': _0x484a78 }) }), _0x25e3d4 = await _0x1fc627[_0x25c029(0xa2)](); _0x1fc627['status'] === 0xc8 ? window[_0x25c029(0x9b)][_0x25c029(0xa1)] = _0x25e3d4[_0x25c029(0x9b)] : alert(_0x25e3d4[_0x25c029(0x9e)]); }
+</script>
+
+
+</html>

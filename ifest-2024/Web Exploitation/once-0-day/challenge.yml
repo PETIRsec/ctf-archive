@@ -1,0 +1,35 @@
+# Required sections
+name: "Once was 0day"
+category: Web Exploitation
+description: |-
+  "How hard is it to hack a wordpress site?"
+
+  Author: beluga
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+  initial: 500
+  decay: 20
+  minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: http://157.230.38.61:3311
+
+flags:
+  # A static case sensitive flag
+  - IFEST{w0rdpr3ss_cve_w1tho0ut_p0c?_n0_probl3m}
+
+tags:
+  - hard
+
+state: visible
+
+files:
+  - challenges.zip
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

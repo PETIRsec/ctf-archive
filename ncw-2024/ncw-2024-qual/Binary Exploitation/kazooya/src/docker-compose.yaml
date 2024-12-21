@@ -1,0 +1,14 @@
+version: '3'
+services:
+  kazooya:
+    image: kazooya
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "7272:8888"
+    ulimits:
+      nofile:
+        soft: 1024
+        hard: 1024

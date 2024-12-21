@@ -1,0 +1,39 @@
+# Required sections
+name: "awawa"
+category: Reverse Engineering
+description: |-
+  awa awa wa awawawawaaa
+  <p>(I'm just messing with you)</p>
+  <p>(It's literally just reverse)</p>
+  <p>(Yes, literally)</p>
+  <p>(Translated from awa)</p>
+  
+  Author: ringoshiro
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+flags:
+    # A static case sensitive flag
+    - IFEST{3c1n_n1c3_3c1n_n1c3_3c1n_n1c3}
+    - IfEsT{3c1n_n1c3_3c1n_n1c3_3c1n_n1c3}
+
+tags:
+    - baby
+
+files:
+    - chall.py
+    - output.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

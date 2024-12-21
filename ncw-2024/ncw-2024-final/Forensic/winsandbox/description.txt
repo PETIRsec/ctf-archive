@@ -1,0 +1,11 @@
+This is my story: I have never had any malware installed on my host. I am curious and want to execute some malware I found in Windows Sandbox. It was actually fun, but I am more intrigued by Windows Sandbox itself. I captured its memory to analyze the structure, and it seems very different from an ordinary memory capture.
+
+1. Tell me, where is the source of the malware I used to download? (just the main link, without the subdirectories)
+2. How many malwares have I downloaded?
+3. When did I run the last malware?
+4. I like the Windows Vista prank one. What is its PID?
+5. Out of all malware I downloaded, how many did I successfully execute?
+6. Mention all malware I executed, separated by space (order does not matter)
+
+Challenge file: https://binusianorg-my.sharepoint.com/personal/gracia_abadi_binus_ac_id/_layouts/15/guestaccess.aspx?share=EfKB8LK7jwZLmEcxlmrnp70B8TVP-6JT99_g7aysE9dhyA&e=nw6ge3
+Warning: The uncompressed size of this challenge file is 10GB

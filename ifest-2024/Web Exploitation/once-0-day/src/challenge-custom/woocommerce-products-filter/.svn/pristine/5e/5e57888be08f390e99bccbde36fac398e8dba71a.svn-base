@@ -1,0 +1,318 @@
+/**
+ * @summary     Popup23
+ * @description pure javascript popup window
+ * @version     1.0.9
+ * @file        popup-23
+ * @author      Rostislav Sofronov <realmag777>
+ * @contact     https://pluginus.net/contact-us/
+ * @github      https://github.com/realmag777/popup-23
+ * @copyright   Copyright 2020 - 2023 PluginUs.NET
+ *
+ * This source file is free software, available under the following license:
+ * MIT license - https://en.wikipedia.org/wiki/MIT_License
+ */
+
+.popup23 {
+    position: fixed;
+    /*
+    top: 50px;
+    bottom: 50px;
+    left: 10%;
+    right: 10%;
+    */
+    z-index: 15001;
+    background: #fff;
+    min-height: 240px;
+    min-width: 320px;
+    overflow: auto;
+    animation: popup23_modal_pop 0.45s 1 cubic-bezier(0.175, 0.885, 0.320, 1.275);
+    border: solid 2px #eee;
+    resize: both;
+}
+
+@keyframes popup23_modal_pop {
+    0%   {
+        transform:scale(0.8);
+        opacity:0;
+    }
+    100% {
+        transform:scale(1);
+        opacity:1;
+    }
+}
+
+.popup23-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-height: 360px;
+    background: black;
+    opacity: .7;
+    z-index: 15000;
+}
+
+.popup23-header {
+    height: 50px;
+    border-bottom: 1px solid #dfdfdf;
+    box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.popup23-footer {
+    border-top: 1px solid #dfdfdf;
+    box-shadow: inset 0 4px 4px -4px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    bottom: 0;
+    background: #FCFCFC;
+    width: 100%;
+    overflow: hidden;
+    clear: both;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.popup23-content-wrapper {
+    position: absolute;
+    overflow: auto !important;
+    padding: 0;
+    top: 52px;
+    left: 0;
+    right: 0;
+    bottom: 60px;
+}
+
+.popup23-header .popup23-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 25px;
+    width: 25px;
+    line-height: normal;
+    outline: none;
+    transition-duration: 0s;
+}
+
+.popup23-header .popup23-close:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.popup23-header .popup23-close::before {
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 18px;
+    color: #ccc;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    content: 'x';
+    transition: color .25s ease;
+}
+
+.popup23-header .popup23-close:hover::before {
+    color: #cb4a1f;
+}
+
+.popup23-title {
+    position: absolute;
+    top: 0;
+    margin: 0;
+    line-height: 53px;
+    left: 14px;
+    padding: 0;
+    font-size: 18px;
+    font-weight: bold;
+    user-select: none;
+    text-transform: uppercase;
+    color: #3f3f3f;
+}
+
+.popup23-title-info {
+    position: absolute;
+    top: 10px;
+    right: 44px;
+    margin: 0;
+    line-height: 0;
+    color: #999;
+    padding: 0;
+    font-size: 15px;
+}
+
+.popup23-title-info:empty{
+    display: none;
+}
+
+.popup23-title span{
+    display: inline-block;
+    margin-right: 7px;
+}
+
+.popup23-title span img{
+    vertical-align: baseline;
+}
+
+.popup23-content {
+    padding: 8px;
+    position: relative;
+}
+
+.popup23-content::after {
+    content: '.';
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+    clear: both;
+}
+
+.popup23-content {
+    height: 100%;
+    padding: 11px 10px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #fff;
+    clear: both;
+}
+
+.popup23-content > p {
+    color: #777;
+}
+
+.popup23-content:hover {
+    background-color: #fcfcfc;
+}
+
+.popup23-iframe-in-popup{
+    border: 0;
+    position: relative;
+    width: 100%;
+}
+
+.popup23-content-in-popup{
+    color: #333;
+}
+
+.popup23-footer-button-right{
+    float: right;
+}
+
+.popup23-footer-button-left{
+    float: left;
+}
+
+
+
+/********** TABS **********/
+
+.popup23-tabset,
+.popup23-tab-panels,
+.popup23-tab-panel{
+    height: 100%;
+}
+
+.popup23-tabset > input[type="radio"] {
+    position: absolute;
+    left: -200vw;
+}
+
+.popup23-tabset .popup23-tab-panel {
+    display: none;
+}
+
+.popup23-tabset > input:first-child:checked ~ .popup23-tab-panels > .popup23-tab-panel:first-child,
+.popup23-tabset > input:nth-child(3):checked ~ .popup23-tab-panels > .popup23-tab-panel:nth-child(2),
+.popup23-tabset > input:nth-child(5):checked ~ .popup23-tab-panels > .popup23-tab-panel:nth-child(3),
+.popup23-tabset > input:nth-child(7):checked ~ .popup23-tab-panels > .popup23-tab-panel:nth-child(4),
+.popup23-tabset > input:nth-child(9):checked ~ .popup23-tab-panels > .popup23-tab-panel:nth-child(5),
+.popup23-tabset > input:nth-child(11):checked ~ .popup23-tab-panels > .popup23-tab-panel:nth-child(6) {
+    display: block;
+}
+
+.popup23-tabset > label {
+    position: relative;
+    display: inline-block;
+    padding: 21px 20px;
+    border: none;
+    border-bottom: 0;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.popup23-tabset > label::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    width: 98%;
+    height: 4px;
+    background: #8d8d8d;
+}
+
+input:focus-visible + label {
+    outline: 2px solid rgba(0, 102, 204, 1);
+    border-radius: 3px;
+}
+
+.popup23-tabset > label:hover,
+.popup23-tabset > input:focus + label,
+.popup23-tabset > input:checked + label {
+    color: #06c;
+}
+
+.popup23-tabset > label:hover::after,
+.popup23-tabset > input:focus + label::after,
+.popup23-tabset > input:checked + label::after {
+    background: #06c;
+}
+
+.popup23-tabset > input:checked + label {
+    border: none;
+}
+
+.popup23-tab-panel {
+    padding: 30px 0;
+    /* border-top: 1px solid #ccc; */
+}
+
+.popup23-tab-panels > section{
+    padding: 9px 0;
+}
+
+.popup23-tabset input[type=radio]+label{
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    margin-bottom: 0 !important;
+    margin-top: -27px !important;
+}
+
+.popup23-flash-title-add{
+    color: #2eca8b;
+    text-transform: lowercase;
+}
+
+.popup23-title-top-info{
+    user-select: none;
+    text-align: center;
+    line-height: 10px;
+    font-size: 10px;
+    color: #6d6d6d;
+    border: solid 1px #dfdfdf;
+    border-top: none;
+    width: fit-content;
+    display: block;
+    padding: 4px;
+    margin: 0 auto;
+    margin-top: -1px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.popup23-title-top-info:empty{
+    display: none;
+}
+

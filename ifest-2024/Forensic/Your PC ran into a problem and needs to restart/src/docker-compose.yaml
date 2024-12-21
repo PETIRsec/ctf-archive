@@ -1,0 +1,7 @@
+services:
+  bsod:
+    build: .
+    ports:
+      - "11511:11511"
+    entrypoint: /etc/init.sh
+    restart: unless-stopped

@@ -1,0 +1,35 @@
+# Required sections
+name: "Enkripsi Terpelit"
+category: Cryptography
+description: |-
+  Masa cuma boleh 2 kali enkripsi doang dah
+  
+  Author: LS
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 157.230.38.61 1043
+
+flags:
+    # A static case sensitive flag
+    - IFEST{i9daudj89ajd389d89980qjd9qdha9sdj8sdhas89dad0a9sd8ashd89sa9dah9d8as8das89dsa}
+
+tags:
+    - medium
+
+files:
+    - enkripsiterpelit.py
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

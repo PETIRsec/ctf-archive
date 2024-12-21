@@ -1,0 +1,39 @@
+# Required sections
+name: "Time Traveler’s Dilemma"
+category: Reverse Engineering
+description: |-
+  I don't have much time left, quick I need your help!
+
+  Objective: Find the answers.
+  Reward: Flag.
+  
+  Author: ringoshiro
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 157.230.38.61 14041
+
+flags:
+    # A static case sensitive flag
+    - IFEST{wh04_h0w_d1d_y0u_b3c0m3_4_r3gr3ss0r}
+
+tags:
+    - easy
+
+files:
+    - session.chunked.pycrunch-trace
+    - questions.txt
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

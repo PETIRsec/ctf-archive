@@ -1,0 +1,10 @@
+version: '3'
+services:
+  oldbutgold:
+    build: .
+    ports:
+      - "24242:5000"
+    environment:
+      - FLAG=NCW{capek_juga_buat_soalnya_bjir}
+      - ADMIN_USERNAME=admin
+      - ADMIN_PASSWORD=supersecretpassword

@@ -1,0 +1,7 @@
+services:
+  enkripsiterpelit:
+    build: .
+    ports:
+      - "1043:1043"
+    entrypoint: /etc/init.sh
+    restart: unless-stopped

@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  launcher-diddy:
+    build:
+      context: .
+    ports:
+      - "${PUBLIC_PORT}:8080"
+    environment:
+      - FLAG=NCW{n1c3_y0un6_m4n_n0w_w3_w1ll_st4rt_th3_p4rty}
+      - HTTP_PORT=8545
+      - LAUNCHER_PORT=8080
+      - ENV=production
+      # - DISABLE_TICKET=true
+    deploy:
+      resources:
+        limits:
+          cpus: "1.0"

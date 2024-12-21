@@ -1,0 +1,38 @@
+# Required sections
+name: "KaZooYa"
+category: Binary Exploitation
+description: |-
+
+  <p align="justify">Everything's digitalized nowadays, I think it's time a zoo too.</p>
+
+  Author: Xovert
+
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 103.145.226.92 7272
+
+flags:
+    # A static case sensitive flag
+    - NCW{f5dd5940e67302053400694fbc4564a5e8d783a6f3a8cf0859450b5ff1d4a03a}
+
+
+tags:
+    - easy
+
+files:
+    - chall.tar.gz
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"

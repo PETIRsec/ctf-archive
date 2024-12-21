@@ -1,0 +1,14 @@
+version: '3'
+services:
+  babysane:
+    image: babysane
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "14269:8888"
+    ulimits:
+      nofile:
+        soft: 1024
+        hard: 1024

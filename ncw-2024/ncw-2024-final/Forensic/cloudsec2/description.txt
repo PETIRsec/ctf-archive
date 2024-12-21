@@ -1,0 +1,21 @@
+WijenBank recently suffered a cyberattack targeting its Tokyo cloud infrastructure. Attackers exploited leaked AWS credentials where they then infiltrated our development environment, accessed restricted resources, and compromised a critical S3 bucket, and ultimately breached a production server on DigitalOcean. In response, WijenBank has shut down its services and is actively working to restore the affected infrastructure. As part of the incident response team, your task is to retrace the attacker’s steps and evaluate the full extent of the compromise.
+
+You are tasked with providing answers to the following questions:
+1. What is the Access Key ID of the leaked AWS credentials?
+2. What is the invoke URL of the other API Gateway that exists?
+3. How many Lambda functions were deployed in the AWS account?
+4. What is the full URL of the compromised S3 bucket?
+5. What is the valid AWS Access Key ID that was exposed in the S3 bucket?
+6. What is the statement ID that allowed public access to the directory with the valid AWS Access Key ID?
+7. What is the IP address of the DigitalOcean production server?
+8. What is the password of the account "deploy"?
+9. What is the MD5 hash of the file left by the attacker inside the app deployment directory on the DigitalOcean production server?
+10. How many non-default environment keys were set on the DigitalOcean production server?
+
+You're given this following information to start your investigation:
+https://dabcknk0stupn.cloudfront.net/
+
+Note:
+1. You are allowed to read any resources in the AWS and DigitalOcean services.
+2. You are NOT allowed to add, delete, or modify any resources in the AWS or DigitalOcean services.
+3. Do NOT perform automated testing or run automated scripts on the provided resources, your IP address will be banned.

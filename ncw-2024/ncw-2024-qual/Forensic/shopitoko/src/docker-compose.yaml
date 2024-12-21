@@ -1,0 +1,7 @@
+services:
+  shopitoko:
+    build: .
+    ports:
+      - "35353:13339"
+    entrypoint: /etc/init.sh
+    restart: unless-stopped

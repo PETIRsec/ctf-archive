@@ -1,0 +1,10 @@
+version: '3'
+services:
+  bazaar-n-exchange:
+    image: bazaar-n-exchange
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "30312:30312"
